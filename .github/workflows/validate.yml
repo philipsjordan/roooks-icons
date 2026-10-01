@@ -1,0 +1,31 @@
+name: Validate icons
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install xmllint
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+      - name: SVGs are well-formed XML
+        run: |
+          shopt -s nullglob
+          files=(icons/*.svg)
+          if [ ${#files[@]} -eq 0 ]; then echo "No icons yet"; exit 0; fi
+          xmllint --noout "${files[@]}"
+      - name: No scripts or event handlers in SVGs
+        run: |
+          shopt -s nullglob
+          files=(icons/*.svg)
+          if [ ${#files[@]} -eq 0 ]; then exit 0; fi
+          if grep -liE '<script|on[a-z]+=|javascript:' "${files[@]}"; then
+            echo "Unsafe content found in the files above"; exit 1
+          fi

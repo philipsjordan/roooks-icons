@@ -1,0 +1,36 @@
+name: Icon issue
+description: Something is wrong with an existing icon
+title: "[Icon issue] "
+labels: ["icon-issue"]
+body:
+  - type: input
+    id: icon
+    attributes:
+      label: Icon name
+      description: The icon slug, for example alert-triangle
+      placeholder: alert-triangle
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What kind of problem?
+      options:
+        - Looks wrong or misaligned
+        - Wrong name or tags
+        - Hard to recognise
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What is wrong, and what would you expect instead? Screenshots help.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Library version
+      description: Optional

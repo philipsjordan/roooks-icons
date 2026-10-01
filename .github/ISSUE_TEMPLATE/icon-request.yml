@@ -1,0 +1,25 @@
+name: Icon request
+description: Ask for a new icon
+title: "[Icon request] "
+labels: ["icon-request"]
+body:
+  - type: input
+    id: concept
+    attributes:
+      label: Icon concept
+      description: What should the icon show? Suggest a name if you can.
+      placeholder: bookmark-check
+    validations:
+      required: true
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Where would you use it?
+      description: The use case helps us design it well.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Similar icons elsewhere
+      description: Optional. Links or names of similar icons in other sets.
