@@ -29,3 +29,5 @@ jobs:
           if grep -liE '<script|on[a-z]+=|javascript:' "${files[@]}"; then
             echo "Unsafe content found in the files above"; exit 1
           fi
+      - name: Manifest matches the icons
+        run: node scripts/validate-manifest.mjs
