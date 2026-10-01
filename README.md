@@ -7,9 +7,14 @@ An open-source icon set with one cohesive style. The free rounded outline set is
 ## Contents
 
 - `icons/`: the free SVG icons (MIT)
-- `scripts/`: build scripts (optimised SVGs and manifest)
+- `icons.json`: the manifest of published icons
+- `scripts/`: validation and build scripts
 
 Paid style modules are not in this repository.
+
+## Manifest
+
+`icons.json` lists the icons that are published (reviewed and ready), with their display name, category, tags, aliases and keywords. The website builds from it, so an SVG that is not listed does not appear on the site. CI checks the manifest against the `icons/` folder (`node scripts/validate-manifest.mjs`).
 
 ## Found a problem, or want an icon?
 
