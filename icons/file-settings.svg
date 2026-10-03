@@ -1,3 +1,6 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M13 5H13.17C13.7 5 14.21 5.21 14.59 5.59L17.41 8.41C17.79 8.79 18 9.3 18 9.83V10M13 5V8C13 9.1 13.9 10 15 10H18M13 5H8C6.9 5 6 5.9 6 7V17C6 18.1 6.9 19 8 19H10.25M18 10V11.5M17.25 17C17.25 17.97 16.47 18.75 15.5 18.75C14.53 18.75 13.75 17.97 13.75 17M17.25 17C17.25 16.03 16.47 15.25 15.5 15.25C14.53 15.25 13.75 16.03 13.75 17M17.25 17H18.5M13.75 17H12.5M16.38 18.52L17 19.6M14.62 18.52L14 19.6M14.62 15.48L14 14.4M16.38 15.48L17 14.4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.75 21H7C5.343 21 4 19.657 4 18V6C4 4.343 5.343 3 7 3H13.586C13.851 3 14.105 3.105 14.293 3.293L19.707 8.707C19.895 8.895 20 9.149 20 9.414V11.8" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 3V7C14 8.105 14.895 9 16 9H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="16.5" cy="17.9" r="1.75" stroke="currentColor" stroke-width="2"/>
+<path d="M18.25 17.9H19.5M14.75 17.9H13.5M17.38 19.42L18 20.5M15.62 19.42L15 20.5M15.62 16.38L15 15.3M17.38 16.38L18 15.3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
