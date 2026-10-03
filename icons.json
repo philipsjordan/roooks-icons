@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "icons": [
     {
       "name": "activity",
@@ -619,6 +619,138 @@
       "file": "arrow-right-squircle.svg"
     },
     {
+      "name": "arrow-small-down",
+      "displayName": "Arrow Small Down",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "arrow-small-down.svg"
+    },
+    {
+      "name": "arrow-small-down-left",
+      "displayName": "Arrow Small Down Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "down",
+        "left",
+        "download",
+        "lower",
+        "back",
+        "previous"
+      ],
+      "file": "arrow-small-down-left.svg"
+    },
+    {
+      "name": "arrow-small-down-right",
+      "displayName": "Arrow Small Down Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "down",
+        "right",
+        "download",
+        "lower",
+        "forward",
+        "next"
+      ],
+      "file": "arrow-small-down-right.svg"
+    },
+    {
+      "name": "arrow-small-left",
+      "displayName": "Arrow Small Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "arrow-small-left.svg"
+    },
+    {
+      "name": "arrow-small-right",
+      "displayName": "Arrow Small Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "right",
+        "forward",
+        "next"
+      ],
+      "file": "arrow-small-right.svg"
+    },
+    {
+      "name": "arrow-small-up",
+      "displayName": "Arrow Small Up",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "arrow-small-up.svg"
+    },
+    {
+      "name": "arrow-small-up-left",
+      "displayName": "Arrow Small Up Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "up",
+        "left",
+        "upload",
+        "raise",
+        "back",
+        "previous"
+      ],
+      "file": "arrow-small-up-left.svg"
+    },
+    {
+      "name": "arrow-small-up-right",
+      "displayName": "Arrow Small Up Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "arrow",
+        "small",
+        "up",
+        "right",
+        "upload",
+        "raise",
+        "forward",
+        "next"
+      ],
+      "file": "arrow-small-up-right.svg"
+    },
+    {
       "name": "arrow-tl-circle",
       "displayName": "Arrow Top-Left Circle",
       "category": "arrow",
@@ -927,6 +1059,29 @@
       "file": "award.svg"
     },
     {
+      "name": "banknote",
+      "displayName": "Banknote",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "cash",
+        "bill",
+        "money",
+        "note"
+      ],
+      "keywords": [
+        "cash",
+        "money",
+        "bill",
+        "pay",
+        "payment",
+        "currency",
+        "dollar",
+        "banknote"
+      ],
+      "file": "banknote.svg"
+    },
+    {
       "name": "bar-chart",
       "displayName": "Bar Chart",
       "category": "chart",
@@ -1032,6 +1187,43 @@
         "power"
       ],
       "file": "battery-medium.svg"
+    },
+    {
+      "name": "bed",
+      "displayName": "Bed",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "sleep",
+        "bedroom",
+        "hotel"
+      ],
+      "keywords": [
+        "bed",
+        "sleep",
+        "rest",
+        "bedroom",
+        "hotel",
+        "mattress",
+        "furniture",
+        "lodging"
+      ],
+      "file": "bed.svg"
+    },
+    {
+      "name": "bed-2",
+      "displayName": "Bed 2",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "bed",
+        "sleep",
+        "bedroom",
+        "hotel",
+        "side view"
+      ],
+      "file": "bed-2.svg"
     },
     {
       "name": "bell",
@@ -1174,6 +1366,21 @@
       "file": "bell-exclamation.svg"
     },
     {
+      "name": "bell-forbid",
+      "displayName": "Bell Forbid",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "bell",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "bell-forbid.svg"
+    },
+    {
       "name": "bell-info",
       "displayName": "Bell Info",
       "category": "object",
@@ -1279,6 +1486,21 @@
         "new-notification-type"
       ],
       "file": "bell-plus.svg"
+    },
+    {
+      "name": "bell-refresh",
+      "displayName": "Bell Refresh",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "bell",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "bell-refresh.svg"
     },
     {
       "name": "bell-ring",
@@ -1537,6 +1759,27 @@
       "file": "bookmark.svg"
     },
     {
+      "name": "bot",
+      "displayName": "Bot",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "robot",
+        "ai",
+        "assistant"
+      ],
+      "keywords": [
+        "bot",
+        "robot",
+        "ai",
+        "assistant",
+        "automation",
+        "chatbot",
+        "android"
+      ],
+      "file": "bot.svg"
+    },
+    {
       "name": "briefcase",
       "displayName": "Briefcase",
       "category": "object",
@@ -1556,6 +1799,46 @@
         "portfolio"
       ],
       "file": "briefcase.svg"
+    },
+    {
+      "name": "bug",
+      "displayName": "Bug",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "insect",
+        "beetle"
+      ],
+      "keywords": [
+        "bug",
+        "error",
+        "debug",
+        "defect",
+        "insect",
+        "beetle",
+        "issue"
+      ],
+      "file": "bug.svg"
+    },
+    {
+      "name": "bus",
+      "displayName": "Bus",
+      "category": "transport",
+      "tags": [],
+      "aliases": [
+        "coach",
+        "transit"
+      ],
+      "keywords": [
+        "bus",
+        "coach",
+        "transit",
+        "public transport",
+        "commute",
+        "vehicle",
+        "travel"
+      ],
+      "file": "bus.svg"
     },
     {
       "name": "calendar",
@@ -1740,6 +2023,21 @@
       "file": "calendar-delete-event.svg"
     },
     {
+      "name": "calendar-edit",
+      "displayName": "Calendar Edit",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "edit",
+        "pencil",
+        "modify",
+        "write"
+      ],
+      "file": "calendar-edit.svg"
+    },
+    {
       "name": "calendar-event",
       "displayName": "Calendar Event",
       "category": "time",
@@ -1756,6 +2054,21 @@
         "date-marked"
       ],
       "file": "calendar-event.svg"
+    },
+    {
+      "name": "calendar-exclamation",
+      "displayName": "Calendar Exclamation",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "calendar-exclamation.svg"
     },
     {
       "name": "calendar-export",
@@ -1810,6 +2123,21 @@
       "file": "calendar-import.svg"
     },
     {
+      "name": "calendar-lock",
+      "displayName": "Calendar Lock",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "calendar-lock.svg"
+    },
+    {
       "name": "calendar-minus",
       "displayName": "Calendar Minus",
       "category": "time",
@@ -1843,6 +2171,21 @@
         "schedule"
       ],
       "file": "calendar-plus.svg"
+    },
+    {
+      "name": "calendar-refresh",
+      "displayName": "Calendar Refresh",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "calendar-refresh.svg"
     },
     {
       "name": "calendar-remove",
@@ -1914,6 +2257,50 @@
       "file": "calendar-share.svg"
     },
     {
+      "name": "calendar-sparkle",
+      "displayName": "Calendar Sparkle",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "calendar-sparkle.svg"
+    },
+    {
+      "name": "calendar-star",
+      "displayName": "Calendar Star",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "star",
+        "favorite",
+        "rating"
+      ],
+      "file": "calendar-star.svg"
+    },
+    {
+      "name": "calendar-user",
+      "displayName": "Calendar User",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "calendar",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "calendar-user.svg"
+    },
+    {
       "name": "camera",
       "displayName": "Camera",
       "category": "media",
@@ -1982,6 +2369,26 @@
         "trip"
       ],
       "file": "car.svg"
+    },
+    {
+      "name": "cast",
+      "displayName": "Cast",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "chromecast",
+        "screencast",
+        "mirror"
+      ],
+      "keywords": [
+        "cast",
+        "chromecast",
+        "stream",
+        "mirror",
+        "broadcast",
+        "screen"
+      ],
+      "file": "cast.svg"
     },
     {
       "name": "chat",
@@ -2065,27 +2472,6 @@
       "file": "chat-check-2.svg"
     },
     {
-      "name": "chat-close",
-      "displayName": "Chat Close",
-      "category": "communication",
-      "tags": [
-        "ui",
-        "communication",
-        "dismiss"
-      ],
-      "aliases": [
-        "delete-conversation",
-        "dismiss-message"
-      ],
-      "keywords": [
-        "close",
-        "dismiss",
-        "delete",
-        "cancel"
-      ],
-      "file": "chat-close.svg"
-    },
-    {
       "name": "chat-code",
       "displayName": "Chat Code",
       "category": "communication",
@@ -2146,6 +2532,22 @@
         "speech-to-text"
       ],
       "file": "chat-dictation.svg"
+    },
+    {
+      "name": "chat-dictation-ai",
+      "displayName": "Chat Dictation AI",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "chat",
+        "dictation",
+        "voice",
+        "ai",
+        "sparkle",
+        "speech to text"
+      ],
+      "file": "chat-dictation-ai.svg"
     },
     {
       "name": "chat-download",
@@ -2478,6 +2880,21 @@
       "file": "chat-question.svg"
     },
     {
+      "name": "chat-quote",
+      "displayName": "Chat Quote",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "chat",
+        "quote",
+        "quotation",
+        "citation",
+        "marks"
+      ],
+      "file": "chat-quote.svg"
+    },
+    {
       "name": "chat-refresh",
       "displayName": "Chat Refresh",
       "category": "communication",
@@ -2696,6 +3113,21 @@
         "user"
       ],
       "file": "chat-user.svg"
+    },
+    {
+      "name": "chat-x",
+      "displayName": "Chat X",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "chat",
+        "x",
+        "dismiss",
+        "delete",
+        "cancel"
+      ],
+      "file": "chat-x.svg"
     },
     {
       "name": "check",
@@ -3233,6 +3665,50 @@
       "file": "chevrons-up.svg"
     },
     {
+      "name": "circle",
+      "displayName": "Circle",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "round",
+        "ring",
+        "dot",
+        "shape"
+      ],
+      "keywords": [
+        "circle",
+        "round",
+        "ring",
+        "shape",
+        "geometry",
+        "primitive",
+        "oval"
+      ],
+      "file": "circle.svg"
+    },
+    {
+      "name": "clapperboard",
+      "displayName": "Clapperboard",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "clapper",
+        "slate",
+        "film-slate"
+      ],
+      "keywords": [
+        "film",
+        "movie",
+        "video",
+        "cinema",
+        "take",
+        "scene",
+        "production",
+        "action"
+      ],
+      "file": "clapperboard.svg"
+    },
+    {
       "name": "clipboard",
       "displayName": "Clipboard",
       "category": "file",
@@ -3285,6 +3761,34 @@
       "file": "clipboard-close.svg"
     },
     {
+      "name": "clipboard-code",
+      "displayName": "Clipboard Code",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "code",
+        "developer",
+        "source"
+      ],
+      "file": "clipboard-code.svg"
+    },
+    {
+      "name": "clipboard-data",
+      "displayName": "Clipboard Data",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "data",
+        "chart",
+        "stats"
+      ],
+      "file": "clipboard-data.svg"
+    },
+    {
       "name": "clipboard-down",
       "displayName": "Clipboard Down",
       "category": "file",
@@ -3300,6 +3804,65 @@
         "paste-down"
       ],
       "file": "clipboard-down.svg"
+    },
+    {
+      "name": "clipboard-edit",
+      "displayName": "Clipboard Edit",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "edit",
+        "pencil",
+        "modify",
+        "write"
+      ],
+      "file": "clipboard-edit.svg"
+    },
+    {
+      "name": "clipboard-exclamation",
+      "displayName": "Clipboard Exclamation",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "clipboard-exclamation.svg"
+    },
+    {
+      "name": "clipboard-forbid",
+      "displayName": "Clipboard Forbid",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "clipboard-forbid.svg"
+    },
+    {
+      "name": "clipboard-info",
+      "displayName": "Clipboard Info",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "clipboard-info.svg"
     },
     {
       "name": "clipboard-left",
@@ -3318,6 +3881,21 @@
         "left"
       ],
       "file": "clipboard-left.svg"
+    },
+    {
+      "name": "clipboard-lock",
+      "displayName": "Clipboard Lock",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "clipboard-lock.svg"
     },
     {
       "name": "clipboard-minus",
@@ -3352,6 +3930,35 @@
         "new"
       ],
       "file": "clipboard-plus.svg"
+    },
+    {
+      "name": "clipboard-question",
+      "displayName": "Clipboard Question",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "question",
+        "help",
+        "unknown"
+      ],
+      "file": "clipboard-question.svg"
+    },
+    {
+      "name": "clipboard-refresh",
+      "displayName": "Clipboard Refresh",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "clipboard-refresh.svg"
     },
     {
       "name": "clipboard-right",
@@ -3406,6 +4013,50 @@
       "file": "clipboard-share.svg"
     },
     {
+      "name": "clipboard-snooze",
+      "displayName": "Clipboard Snooze",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "snooze",
+        "sleep",
+        "delay",
+        "later"
+      ],
+      "file": "clipboard-snooze.svg"
+    },
+    {
+      "name": "clipboard-sparkle",
+      "displayName": "Clipboard Sparkle",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "clipboard-sparkle.svg"
+    },
+    {
+      "name": "clipboard-star",
+      "displayName": "Clipboard Star",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "star",
+        "favorite",
+        "rating"
+      ],
+      "file": "clipboard-star.svg"
+    },
+    {
       "name": "clipboard-text",
       "displayName": "Clipboard Text",
       "category": "file",
@@ -3424,6 +4075,22 @@
       "file": "clipboard-text.svg"
     },
     {
+      "name": "clipboard-text-sparkle",
+      "displayName": "Clipboard Text Sparkle",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "text",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "clipboard-text-sparkle.svg"
+    },
+    {
       "name": "clipboard-up",
       "displayName": "Clipboard Up",
       "category": "file",
@@ -3439,6 +4106,21 @@
         "copy-up"
       ],
       "file": "clipboard-up.svg"
+    },
+    {
+      "name": "clipboard-user",
+      "displayName": "Clipboard User",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clipboard",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "clipboard-user.svg"
     },
     {
       "name": "clock",
@@ -3719,6 +4401,65 @@
       "file": "clock-close.svg"
     },
     {
+      "name": "clock-down",
+      "displayName": "Clock Down",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "clock-down.svg"
+    },
+    {
+      "name": "clock-edit",
+      "displayName": "Clock Edit",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "edit",
+        "pencil",
+        "modify",
+        "write"
+      ],
+      "file": "clock-edit.svg"
+    },
+    {
+      "name": "clock-exclamation",
+      "displayName": "Clock Exclamation",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "clock-exclamation.svg"
+    },
+    {
+      "name": "clock-forbid",
+      "displayName": "Clock Forbid",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "clock-forbid.svg"
+    },
+    {
       "name": "clock-forward",
       "displayName": "Clock Forward",
       "category": "time",
@@ -3736,6 +4477,21 @@
         "skip-ahead"
       ],
       "file": "clock-forward.svg"
+    },
+    {
+      "name": "clock-lock",
+      "displayName": "Clock Lock",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "clock-lock.svg"
     },
     {
       "name": "clock-minus",
@@ -3773,6 +4529,94 @@
         "schedule"
       ],
       "file": "clock-plus.svg"
+    },
+    {
+      "name": "clock-refresh",
+      "displayName": "Clock Refresh",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "clock-refresh.svg"
+    },
+    {
+      "name": "clock-snooze",
+      "displayName": "Clock Snooze",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "snooze",
+        "sleep",
+        "delay",
+        "later"
+      ],
+      "file": "clock-snooze.svg"
+    },
+    {
+      "name": "clock-sparkle",
+      "displayName": "Clock Sparkle",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "clock-sparkle.svg"
+    },
+    {
+      "name": "clock-star",
+      "displayName": "Clock Star",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "star",
+        "favorite",
+        "rating"
+      ],
+      "file": "clock-star.svg"
+    },
+    {
+      "name": "clock-up",
+      "displayName": "Clock Up",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "clock-up.svg"
+    },
+    {
+      "name": "clock-user",
+      "displayName": "Clock User",
+      "category": "time",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "clock",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "clock-user.svg"
     },
     {
       "name": "close",
@@ -3855,6 +4699,23 @@
       "file": "cloud-2.svg"
     },
     {
+      "name": "cloud-check",
+      "displayName": "Cloud Check",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "check",
+        "online",
+        "remote",
+        "confirm",
+        "done",
+        "approve"
+      ],
+      "file": "cloud-check.svg"
+    },
+    {
       "name": "cloud-download",
       "displayName": "Cloud Download",
       "category": "object",
@@ -3870,6 +4731,84 @@
         "save"
       ],
       "file": "cloud-download.svg"
+    },
+    {
+      "name": "cloud-drizzle",
+      "displayName": "Cloud Drizzle",
+      "category": "weather",
+      "tags": [],
+      "aliases": [
+        "drizzle",
+        "light rain",
+        "sprinkle"
+      ],
+      "keywords": [
+        "drizzle",
+        "light rain",
+        "sprinkle",
+        "mist",
+        "weather",
+        "forecast",
+        "precipitation"
+      ],
+      "file": "cloud-drizzle.svg"
+    },
+    {
+      "name": "cloud-exclamation",
+      "displayName": "Cloud Exclamation",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "exclamation",
+        "online",
+        "remote",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "cloud-exclamation.svg"
+    },
+    {
+      "name": "cloud-fog",
+      "displayName": "Cloud Fog",
+      "category": "weather",
+      "tags": [],
+      "aliases": [
+        "fog",
+        "foggy",
+        "mist",
+        "haze"
+      ],
+      "keywords": [
+        "fog",
+        "foggy",
+        "mist",
+        "misty",
+        "haze",
+        "hazy",
+        "smog",
+        "weather",
+        "forecast"
+      ],
+      "file": "cloud-fog.svg"
+    },
+    {
+      "name": "cloud-info",
+      "displayName": "Cloud Info",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "info",
+        "online",
+        "remote",
+        "information",
+        "details"
+      ],
+      "file": "cloud-info.svg"
     },
     {
       "name": "cloud-lightning",
@@ -3890,6 +4829,39 @@
         "forecast"
       ],
       "file": "cloud-lightning.svg"
+    },
+    {
+      "name": "cloud-lock",
+      "displayName": "Cloud Lock",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "lock",
+        "online",
+        "remote",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "cloud-lock.svg"
+    },
+    {
+      "name": "cloud-minus",
+      "displayName": "Cloud Minus",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "minus",
+        "online",
+        "remote",
+        "remove",
+        "subtract"
+      ],
+      "file": "cloud-minus.svg"
     },
     {
       "name": "cloud-off-1",
@@ -3934,6 +4906,39 @@
       "file": "cloud-off-2.svg"
     },
     {
+      "name": "cloud-plus",
+      "displayName": "Cloud Plus",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "plus",
+        "online",
+        "remote",
+        "add",
+        "new",
+        "create"
+      ],
+      "file": "cloud-plus.svg"
+    },
+    {
+      "name": "cloud-question",
+      "displayName": "Cloud Question",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "question",
+        "online",
+        "remote",
+        "help",
+        "unknown"
+      ],
+      "file": "cloud-question.svg"
+    },
+    {
       "name": "cloud-rain",
       "displayName": "Cloud Rain",
       "category": "weather",
@@ -3953,6 +4958,23 @@
         "precipitation"
       ],
       "file": "cloud-rain.svg"
+    },
+    {
+      "name": "cloud-refresh",
+      "displayName": "Cloud Refresh",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "refresh",
+        "online",
+        "remote",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "cloud-refresh.svg"
     },
     {
       "name": "cloud-snow",
@@ -3992,6 +5014,40 @@
         "push"
       ],
       "file": "cloud-upload.svg"
+    },
+    {
+      "name": "cloud-user",
+      "displayName": "Cloud User",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "user",
+        "online",
+        "remote",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "cloud-user.svg"
+    },
+    {
+      "name": "cloud-x",
+      "displayName": "Cloud X",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cloud",
+        "x",
+        "online",
+        "remote",
+        "dismiss",
+        "delete",
+        "cancel"
+      ],
+      "file": "cloud-x.svg"
     },
     {
       "name": "code",
@@ -4079,6 +5135,28 @@
         "fresh"
       ],
       "file": "coffee-2.svg"
+    },
+    {
+      "name": "coins",
+      "displayName": "Coins",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "money",
+        "cash",
+        "change"
+      ],
+      "keywords": [
+        "coins",
+        "money",
+        "cash",
+        "currency",
+        "finance",
+        "payment",
+        "change",
+        "tokens"
+      ],
+      "file": "coins.svg"
     },
     {
       "name": "collapse-diagonal-arrows-1",
@@ -4492,6 +5570,21 @@
       "file": "credit-card.svg"
     },
     {
+      "name": "credit-card-bookmark",
+      "displayName": "Credit Card Bookmark",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "bookmark",
+        "save",
+        "favorite"
+      ],
+      "file": "credit-card-bookmark.svg"
+    },
+    {
       "name": "credit-card-check",
       "displayName": "Credit Card check",
       "category": "commerce",
@@ -4508,6 +5601,114 @@
         "check"
       ],
       "file": "credit-card-check.svg"
+    },
+    {
+      "name": "credit-card-down",
+      "displayName": "Credit Card Down",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "credit-card-down.svg"
+    },
+    {
+      "name": "credit-card-exclamation",
+      "displayName": "Credit Card Exclamation",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "credit-card-exclamation.svg"
+    },
+    {
+      "name": "credit-card-forbid",
+      "displayName": "Credit Card Forbid",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "credit-card-forbid.svg"
+    },
+    {
+      "name": "credit-card-info",
+      "displayName": "Credit Card Info",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "credit-card-info.svg"
+    },
+    {
+      "name": "credit-card-key",
+      "displayName": "Credit Card Key",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "key",
+        "password",
+        "access"
+      ],
+      "file": "credit-card-key.svg"
+    },
+    {
+      "name": "credit-card-left",
+      "displayName": "Credit Card Left",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "credit-card-left.svg"
+    },
+    {
+      "name": "credit-card-lock",
+      "displayName": "Credit Card Lock",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "credit-card-lock.svg"
     },
     {
       "name": "credit-card-minus",
@@ -4528,6 +5729,21 @@
       "file": "credit-card-minus.svg"
     },
     {
+      "name": "credit-card-percent",
+      "displayName": "Credit Card Percent",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "percent",
+        "discount",
+        "sale"
+      ],
+      "file": "credit-card-percent.svg"
+    },
+    {
       "name": "credit-card-plus",
       "displayName": "Credit Card plus",
       "category": "commerce",
@@ -4544,6 +5760,194 @@
         "plus"
       ],
       "file": "credit-card-plus.svg"
+    },
+    {
+      "name": "credit-card-question",
+      "displayName": "Credit Card Question",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "question",
+        "help",
+        "unknown"
+      ],
+      "file": "credit-card-question.svg"
+    },
+    {
+      "name": "credit-card-refresh",
+      "displayName": "Credit Card Refresh",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "credit-card-refresh.svg"
+    },
+    {
+      "name": "credit-card-right",
+      "displayName": "Credit Card Right",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "right",
+        "forward",
+        "next"
+      ],
+      "file": "credit-card-right.svg"
+    },
+    {
+      "name": "credit-card-search",
+      "displayName": "Credit Card Search",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "search",
+        "find",
+        "lookup"
+      ],
+      "file": "credit-card-search.svg"
+    },
+    {
+      "name": "credit-card-settings",
+      "displayName": "Credit Card Settings",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "settings",
+        "gear",
+        "config",
+        "preferences"
+      ],
+      "file": "credit-card-settings.svg"
+    },
+    {
+      "name": "credit-card-shield",
+      "displayName": "Credit Card Shield",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "shield",
+        "protect",
+        "security"
+      ],
+      "file": "credit-card-shield.svg"
+    },
+    {
+      "name": "credit-card-snooze",
+      "displayName": "Credit Card Snooze",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "snooze",
+        "sleep",
+        "delay",
+        "later"
+      ],
+      "file": "credit-card-snooze.svg"
+    },
+    {
+      "name": "credit-card-sparkle",
+      "displayName": "Credit Card Sparkle",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "credit-card-sparkle.svg"
+    },
+    {
+      "name": "credit-card-star",
+      "displayName": "Credit Card Star",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "star",
+        "favorite",
+        "rating"
+      ],
+      "file": "credit-card-star.svg"
+    },
+    {
+      "name": "credit-card-up",
+      "displayName": "Credit Card Up",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "credit-card-up.svg"
+    },
+    {
+      "name": "credit-card-up-right",
+      "displayName": "Credit Card Up Right",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "up",
+        "right",
+        "upload",
+        "raise",
+        "forward",
+        "next"
+      ],
+      "file": "credit-card-up-right.svg"
+    },
+    {
+      "name": "credit-card-user",
+      "displayName": "Credit Card User",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "credit",
+        "card",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "credit-card-user.svg"
     },
     {
       "name": "credit-card-x",
@@ -4616,6 +6020,40 @@
       "file": "crosshair-2.svg"
     },
     {
+      "name": "crown",
+      "displayName": "Crown",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "royalty",
+        "king",
+        "queen"
+      ],
+      "keywords": [
+        "crown",
+        "king",
+        "queen",
+        "royal",
+        "royalty",
+        "premium",
+        "vip",
+        "pro",
+        "winner"
+      ],
+      "file": "crown.svg"
+    },
+    {
+      "name": "cube",
+      "displayName": "Cube",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "cube"
+      ],
+      "file": "cube.svg"
+    },
+    {
       "name": "dashboard",
       "displayName": "Dashboard",
       "category": "layout",
@@ -4670,6 +6108,269 @@
         "repository"
       ],
       "file": "database.svg"
+    },
+    {
+      "name": "database-check",
+      "displayName": "Database Check",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "check",
+        "confirm",
+        "done",
+        "approve"
+      ],
+      "file": "database-check.svg"
+    },
+    {
+      "name": "database-close",
+      "displayName": "Database Close",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "close",
+        "dismiss",
+        "delete",
+        "cancel"
+      ],
+      "file": "database-close.svg"
+    },
+    {
+      "name": "database-cloud",
+      "displayName": "Database Cloud",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "cloud",
+        "online",
+        "remote"
+      ],
+      "file": "database-cloud.svg"
+    },
+    {
+      "name": "database-down",
+      "displayName": "Database Down",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "database-down.svg"
+    },
+    {
+      "name": "database-edit",
+      "displayName": "Database Edit",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "edit",
+        "pencil",
+        "modify",
+        "write"
+      ],
+      "file": "database-edit.svg"
+    },
+    {
+      "name": "database-exclamation",
+      "displayName": "Database Exclamation",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "database-exclamation.svg"
+    },
+    {
+      "name": "database-forbid",
+      "displayName": "Database Forbid",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "database-forbid.svg"
+    },
+    {
+      "name": "database-info",
+      "displayName": "Database Info",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "database-info.svg"
+    },
+    {
+      "name": "database-lock",
+      "displayName": "Database Lock",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "database-lock.svg"
+    },
+    {
+      "name": "database-minus",
+      "displayName": "Database Minus",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "minus",
+        "remove",
+        "subtract"
+      ],
+      "file": "database-minus.svg"
+    },
+    {
+      "name": "database-plus",
+      "displayName": "Database Plus",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "plus",
+        "add",
+        "new",
+        "create"
+      ],
+      "file": "database-plus.svg"
+    },
+    {
+      "name": "database-refresh",
+      "displayName": "Database Refresh",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "database-refresh.svg"
+    },
+    {
+      "name": "database-search",
+      "displayName": "Database Search",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "search",
+        "find",
+        "lookup"
+      ],
+      "file": "database-search.svg"
+    },
+    {
+      "name": "database-settings",
+      "displayName": "Database Settings",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "settings",
+        "gear",
+        "config",
+        "preferences"
+      ],
+      "file": "database-settings.svg"
+    },
+    {
+      "name": "database-shield",
+      "displayName": "Database Shield",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "shield",
+        "protect",
+        "security"
+      ],
+      "file": "database-shield.svg"
+    },
+    {
+      "name": "database-sparkle",
+      "displayName": "Database Sparkle",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "database-sparkle.svg"
+    },
+    {
+      "name": "database-up",
+      "displayName": "Database Up",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "database-up.svg"
+    },
+    {
+      "name": "database-user",
+      "displayName": "Database User",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "database",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "database-user.svg"
     },
     {
       "name": "diamond-1",
@@ -4995,6 +6696,142 @@
       "file": "diamonds-poker.svg"
     },
     {
+      "name": "dice-1",
+      "displayName": "Dice 1",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "1"
+      ],
+      "file": "dice-1.svg"
+    },
+    {
+      "name": "dice-2",
+      "displayName": "Dice 2",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "2"
+      ],
+      "file": "dice-2.svg"
+    },
+    {
+      "name": "dice-3",
+      "displayName": "Dice 3",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "3"
+      ],
+      "file": "dice-3.svg"
+    },
+    {
+      "name": "dice-4",
+      "displayName": "Dice 4",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "4"
+      ],
+      "file": "dice-4.svg"
+    },
+    {
+      "name": "dice-5",
+      "displayName": "Dice 5",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "5"
+      ],
+      "file": "dice-5.svg"
+    },
+    {
+      "name": "dice-6",
+      "displayName": "Dice 6",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "dice",
+        "die",
+        "game",
+        "chance",
+        "roll",
+        "6"
+      ],
+      "file": "dice-6.svg"
+    },
+    {
+      "name": "disc",
+      "displayName": "Disc",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "cd",
+        "dvd",
+        "album",
+        "record"
+      ],
+      "keywords": [
+        "disc",
+        "cd",
+        "dvd",
+        "music",
+        "album",
+        "media",
+        "optical"
+      ],
+      "file": "disc.svg"
+    },
+    {
+      "name": "dog",
+      "displayName": "Dog",
+      "category": "nature",
+      "tags": [],
+      "aliases": [
+        "puppy",
+        "pet"
+      ],
+      "keywords": [
+        "dog",
+        "puppy",
+        "pet",
+        "animal",
+        "canine"
+      ],
+      "file": "dog.svg"
+    },
+    {
       "name": "dollar",
       "displayName": "Dollar",
       "category": "commerce",
@@ -5018,6 +6855,26 @@
         "bucks"
       ],
       "file": "dollar.svg"
+    },
+    {
+      "name": "door",
+      "displayName": "Door",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "entrance",
+        "exit",
+        "doorway"
+      ],
+      "keywords": [
+        "door",
+        "entrance",
+        "exit",
+        "room",
+        "enter",
+        "leave"
+      ],
+      "file": "door.svg"
     },
     {
       "name": "down-left",
@@ -5145,6 +7002,41 @@
       "file": "droplet-2.svg"
     },
     {
+      "name": "droplet-off",
+      "displayName": "Droplet Off",
+      "category": "weather",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "droplet",
+        "water",
+        "off",
+        "no-water",
+        "dry"
+      ],
+      "file": "droplet-off.svg"
+    },
+    {
+      "name": "ear",
+      "displayName": "Ear",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "hearing",
+        "listen"
+      ],
+      "keywords": [
+        "ear",
+        "hear",
+        "hearing",
+        "listen",
+        "sound",
+        "audio",
+        "accessibility"
+      ],
+      "file": "ear.svg"
+    },
+    {
       "name": "edit",
       "displayName": "Edit",
       "category": "action",
@@ -5165,6 +7057,21 @@
         "write"
       ],
       "file": "edit.svg"
+    },
+    {
+      "name": "edit-ai",
+      "displayName": "Edit AI",
+      "category": "misc",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "edit",
+        "ai",
+        "pencil",
+        "modify",
+        "write"
+      ],
+      "file": "edit-ai.svg"
     },
     {
       "name": "edit-line",
@@ -5210,6 +7117,24 @@
       "file": "edit-sign.svg"
     },
     {
+      "name": "egg",
+      "displayName": "Egg",
+      "category": "nature",
+      "tags": [],
+      "aliases": [
+        "eggs"
+      ],
+      "keywords": [
+        "egg",
+        "food",
+        "breakfast",
+        "easter",
+        "chicken",
+        "protein"
+      ],
+      "file": "egg.svg"
+    },
+    {
       "name": "enter",
       "displayName": "Enter",
       "category": "action",
@@ -5229,6 +7154,27 @@
         "newline"
       ],
       "file": "enter.svg"
+    },
+    {
+      "name": "eraser",
+      "displayName": "Eraser",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "rubber",
+        "clear",
+        "wipe"
+      ],
+      "keywords": [
+        "eraser",
+        "erase",
+        "rubber",
+        "clear",
+        "wipe",
+        "delete",
+        "remove"
+      ],
+      "file": "eraser.svg"
     },
     {
       "name": "expand-diagonal-arrows-1",
@@ -5603,6 +7549,20 @@
       "file": "file-cloud.svg"
     },
     {
+      "name": "file-code",
+      "displayName": "File Code",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "code",
+        "developer",
+        "source"
+      ],
+      "file": "file-code.svg"
+    },
+    {
       "name": "file-corrupt",
       "displayName": "File Corrupt",
       "category": "file",
@@ -5620,6 +7580,34 @@
         "damaged"
       ],
       "file": "file-corrupt.svg"
+    },
+    {
+      "name": "file-data",
+      "displayName": "File Data",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "data",
+        "chart",
+        "stats"
+      ],
+      "file": "file-data.svg"
+    },
+    {
+      "name": "file-down",
+      "displayName": "File Down",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "file-down.svg"
     },
     {
       "name": "file-download",
@@ -5784,6 +7772,20 @@
       "file": "file-key.svg"
     },
     {
+      "name": "file-left",
+      "displayName": "File Left",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "file-left.svg"
+    },
+    {
       "name": "file-list",
       "displayName": "File List",
       "category": "file",
@@ -5908,6 +7910,20 @@
       "file": "file-refresh.svg"
     },
     {
+      "name": "file-right",
+      "displayName": "File Right",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "right",
+        "forward",
+        "next"
+      ],
+      "file": "file-right.svg"
+    },
+    {
       "name": "file-search",
       "displayName": "File Search",
       "category": "file",
@@ -6015,6 +8031,32 @@
       "file": "file-text.svg"
     },
     {
+      "name": "file-transfer",
+      "displayName": "File Transfer",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "transfer"
+      ],
+      "file": "file-transfer.svg"
+    },
+    {
+      "name": "file-up",
+      "displayName": "File Up",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "file",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "file-up.svg"
+    },
+    {
       "name": "file-up-right",
       "displayName": "File Up Right",
       "category": "file",
@@ -6067,6 +8109,26 @@
         "document"
       ],
       "file": "file-user.svg"
+    },
+    {
+      "name": "film",
+      "displayName": "Film",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "movie",
+        "filmstrip",
+        "cinema"
+      ],
+      "keywords": [
+        "film",
+        "movie",
+        "cinema",
+        "video",
+        "reel",
+        "filmstrip"
+      ],
+      "file": "film.svg"
     },
     {
       "name": "filter",
@@ -6257,6 +8319,27 @@
         "flame"
       ],
       "file": "flame.svg"
+    },
+    {
+      "name": "flask",
+      "displayName": "Flask",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "erlenmeyer",
+        "beaker",
+        "lab"
+      ],
+      "keywords": [
+        "flask",
+        "chemistry",
+        "lab",
+        "experiment",
+        "beta",
+        "science",
+        "liquid"
+      ],
+      "file": "flask.svg"
     },
     {
       "name": "focus-1",
@@ -6471,6 +8554,20 @@
       "file": "folder-cloud-2.svg"
     },
     {
+      "name": "folder-code",
+      "displayName": "Folder Code",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "code",
+        "developer",
+        "source"
+      ],
+      "file": "folder-code.svg"
+    },
+    {
       "name": "folder-corrupt",
       "displayName": "Folder Corrupt",
       "category": "file",
@@ -6488,6 +8585,34 @@
         "error"
       ],
       "file": "folder-corrupt.svg"
+    },
+    {
+      "name": "folder-data",
+      "displayName": "Folder Data",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "data",
+        "chart",
+        "stats"
+      ],
+      "file": "folder-data.svg"
+    },
+    {
+      "name": "folder-down",
+      "displayName": "Folder Down",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "folder-down.svg"
     },
     {
       "name": "folder-download",
@@ -6724,6 +8849,20 @@
       "file": "folder-key-2.svg"
     },
     {
+      "name": "folder-left",
+      "displayName": "Folder Left",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "folder-left.svg"
+    },
+    {
       "name": "folder-lock",
       "displayName": "Folder Lock",
       "category": "file",
@@ -6912,6 +9051,20 @@
       "file": "folder-refresh.svg"
     },
     {
+      "name": "folder-right",
+      "displayName": "Folder Right",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "right",
+        "forward",
+        "next"
+      ],
+      "file": "folder-right.svg"
+    },
+    {
       "name": "folder-search",
       "displayName": "Folder Search",
       "category": "file",
@@ -7088,6 +9241,20 @@
       "file": "folder-transfer-2.svg"
     },
     {
+      "name": "folder-up",
+      "displayName": "Folder Up",
+      "category": "file",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "folder",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "folder-up.svg"
+    },
+    {
       "name": "folder-up-right",
       "displayName": "Folder Up Right",
       "category": "file",
@@ -7203,6 +9370,28 @@
       "file": "frown-squircle.svg"
     },
     {
+      "name": "fuel",
+      "displayName": "Fuel",
+      "category": "transport",
+      "tags": [],
+      "aliases": [
+        "gas",
+        "petrol",
+        "gas-station",
+        "fuel-pump"
+      ],
+      "keywords": [
+        "fuel",
+        "gas",
+        "petrol",
+        "pump",
+        "station",
+        "refuel",
+        "diesel"
+      ],
+      "file": "fuel.svg"
+    },
+    {
       "name": "gamepad",
       "displayName": "Gamepad",
       "category": "device",
@@ -7222,6 +9411,69 @@
         "joypad"
       ],
       "file": "gamepad.svg"
+    },
+    {
+      "name": "gamepad-2",
+      "displayName": "Gamepad 2",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "controller",
+        "joypad"
+      ],
+      "keywords": [
+        "game",
+        "gaming",
+        "play",
+        "controller",
+        "console",
+        "joypad"
+      ],
+      "file": "gamepad-2.svg"
+    },
+    {
+      "name": "gauge",
+      "displayName": "Gauge",
+      "category": "chart",
+      "tags": [],
+      "aliases": [
+        "speedometer",
+        "meter",
+        "performance"
+      ],
+      "keywords": [
+        "gauge",
+        "speedometer",
+        "performance",
+        "speed",
+        "meter",
+        "dial",
+        "metrics",
+        "dashboard"
+      ],
+      "file": "gauge.svg"
+    },
+    {
+      "name": "gem",
+      "displayName": "Gem",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "jewel",
+        "emerald",
+        "crystal"
+      ],
+      "keywords": [
+        "gem",
+        "jewel",
+        "gemstone",
+        "emerald",
+        "crystal",
+        "precious",
+        "premium",
+        "value"
+      ],
+      "file": "gem.svg"
     },
     {
       "name": "gift",
@@ -7297,6 +9549,37 @@
       "file": "git-branch-close.svg"
     },
     {
+      "name": "git-branch-cloud",
+      "displayName": "Git Branch Cloud",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "branch",
+        "cloud",
+        "online",
+        "remote"
+      ],
+      "file": "git-branch-cloud.svg"
+    },
+    {
+      "name": "git-branch-forbid",
+      "displayName": "Git Branch Forbid",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "branch",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "git-branch-forbid.svg"
+    },
+    {
       "name": "git-branch-minus",
       "displayName": "Git Branch Minus",
       "category": "dev",
@@ -7332,6 +9615,37 @@
         "create"
       ],
       "file": "git-branch-plus.svg"
+    },
+    {
+      "name": "git-branch-shield",
+      "displayName": "Git Branch Shield",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "branch",
+        "shield",
+        "protect",
+        "security"
+      ],
+      "file": "git-branch-shield.svg"
+    },
+    {
+      "name": "git-branch-sparkle",
+      "displayName": "Git Branch Sparkle",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "branch",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "git-branch-sparkle.svg"
     },
     {
       "name": "git-commit-horizontal",
@@ -7420,6 +9734,116 @@
       "file": "git-merge-check.svg"
     },
     {
+      "name": "git-merge-close",
+      "displayName": "Git Merge Close",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "close",
+        "dismiss",
+        "delete",
+        "cancel"
+      ],
+      "file": "git-merge-close.svg"
+    },
+    {
+      "name": "git-merge-forbid",
+      "displayName": "Git Merge Forbid",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "git-merge-forbid.svg"
+    },
+    {
+      "name": "git-merge-minus",
+      "displayName": "Git Merge Minus",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "minus",
+        "remove",
+        "subtract"
+      ],
+      "file": "git-merge-minus.svg"
+    },
+    {
+      "name": "git-merge-plus",
+      "displayName": "Git Merge Plus",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "plus",
+        "add",
+        "new",
+        "create"
+      ],
+      "file": "git-merge-plus.svg"
+    },
+    {
+      "name": "git-merge-settings",
+      "displayName": "Git Merge Settings",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "settings",
+        "gear",
+        "config",
+        "preferences"
+      ],
+      "file": "git-merge-settings.svg"
+    },
+    {
+      "name": "git-merge-shield",
+      "displayName": "Git Merge Shield",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "shield",
+        "protect",
+        "security"
+      ],
+      "file": "git-merge-shield.svg"
+    },
+    {
+      "name": "git-merge-sparkle",
+      "displayName": "Git Merge Sparkle",
+      "category": "dev",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "git",
+        "merge",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "git-merge-sparkle.svg"
+    },
+    {
       "name": "git-pull-close",
       "displayName": "Git Pull Close",
       "category": "dev",
@@ -7474,6 +9898,28 @@
       "file": "git-pull-request.svg"
     },
     {
+      "name": "glasses",
+      "displayName": "Glasses",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "eyeglasses",
+        "spectacles"
+      ],
+      "keywords": [
+        "glasses",
+        "eyeglasses",
+        "spectacles",
+        "vision",
+        "sight",
+        "reading",
+        "read",
+        "lenses",
+        "frames"
+      ],
+      "file": "glasses.svg"
+    },
+    {
       "name": "globe",
       "displayName": "Globe",
       "category": "misc",
@@ -7499,6 +9945,28 @@
         "global"
       ],
       "file": "globe.svg"
+    },
+    {
+      "name": "graduation-cap",
+      "displayName": "Graduation Cap",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "mortarboard",
+        "school",
+        "education"
+      ],
+      "keywords": [
+        "graduation",
+        "education",
+        "school",
+        "university",
+        "degree",
+        "learn",
+        "student",
+        "course"
+      ],
+      "file": "graduation-cap.svg"
     },
     {
       "name": "grid",
@@ -7638,6 +10106,101 @@
         "format"
       ],
       "file": "heading-1.svg"
+    },
+    {
+      "name": "heading-2",
+      "displayName": "Heading 2",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "h2"
+      ],
+      "keywords": [
+        "heading",
+        "h2",
+        "header",
+        "text",
+        "editor",
+        "typography",
+        "format"
+      ],
+      "file": "heading-2.svg"
+    },
+    {
+      "name": "heading-3",
+      "displayName": "Heading 3",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "h3"
+      ],
+      "keywords": [
+        "heading",
+        "h3",
+        "header",
+        "text",
+        "editor",
+        "typography",
+        "format"
+      ],
+      "file": "heading-3.svg"
+    },
+    {
+      "name": "heading-4",
+      "displayName": "Heading 4",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "h4"
+      ],
+      "keywords": [
+        "heading",
+        "h4",
+        "header",
+        "text",
+        "editor",
+        "typography",
+        "format"
+      ],
+      "file": "heading-4.svg"
+    },
+    {
+      "name": "heading-5",
+      "displayName": "Heading 5",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "h5"
+      ],
+      "keywords": [
+        "heading",
+        "h5",
+        "header",
+        "text",
+        "editor",
+        "typography",
+        "format"
+      ],
+      "file": "heading-5.svg"
+    },
+    {
+      "name": "heading-6",
+      "displayName": "Heading 6",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "h6"
+      ],
+      "keywords": [
+        "heading",
+        "h6",
+        "header",
+        "text",
+        "editor",
+        "typography",
+        "format"
+      ],
+      "file": "heading-6.svg"
     },
     {
       "name": "headphones",
@@ -7810,6 +10373,24 @@
       "file": "heart-left.svg"
     },
     {
+      "name": "heart-lock",
+      "displayName": "Heart Lock",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "heart",
+        "lock",
+        "like",
+        "love",
+        "favorite",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "heart-lock.svg"
+    },
+    {
       "name": "heart-minus",
       "displayName": "Heart Minus",
       "category": "object",
@@ -7825,6 +10406,21 @@
         "unfavorite"
       ],
       "file": "heart-minus.svg"
+    },
+    {
+      "name": "heart-off",
+      "displayName": "Heart Off",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "heart",
+        "off",
+        "like",
+        "love",
+        "favorite"
+      ],
+      "file": "heart-off.svg"
     },
     {
       "name": "heart-plus",
@@ -7843,6 +10439,39 @@
         "new-favorite"
       ],
       "file": "heart-plus.svg"
+    },
+    {
+      "name": "heart-pulse",
+      "displayName": "Heart Pulse",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "heart",
+        "pulse",
+        "like",
+        "love",
+        "favorite"
+      ],
+      "file": "heart-pulse.svg"
+    },
+    {
+      "name": "heart-refresh",
+      "displayName": "Heart Refresh",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "heart",
+        "refresh",
+        "like",
+        "love",
+        "favorite",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "heart-refresh.svg"
     },
     {
       "name": "heart-right",
@@ -7895,6 +10524,24 @@
         "send-love"
       ],
       "file": "heart-share.svg"
+    },
+    {
+      "name": "heart-sparkle",
+      "displayName": "Heart Sparkle",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "heart",
+        "sparkle",
+        "like",
+        "love",
+        "favorite",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "heart-sparkle.svg"
     },
     {
       "name": "heart-up",
@@ -7962,6 +10609,25 @@
       "file": "help-squircle.svg"
     },
     {
+      "name": "hexagon",
+      "displayName": "Hexagon",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "polygon",
+        "six-sided"
+      ],
+      "keywords": [
+        "hexagon",
+        "hex",
+        "polygon",
+        "shape",
+        "geometry",
+        "six sides"
+      ],
+      "file": "hexagon.svg"
+    },
+    {
       "name": "history-1",
       "displayName": "History 1",
       "category": "time",
@@ -8023,6 +10689,48 @@
         "peaked-roof"
       ],
       "file": "home.svg"
+    },
+    {
+      "name": "hourglass",
+      "displayName": "Hourglass",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "sand timer",
+        "egg timer"
+      ],
+      "keywords": [
+        "hourglass",
+        "sand",
+        "timer",
+        "wait",
+        "loading",
+        "time",
+        "pending",
+        "countdown"
+      ],
+      "file": "hourglass.svg"
+    },
+    {
+      "name": "id-card",
+      "displayName": "ID Card",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "badge",
+        "identification",
+        "license"
+      ],
+      "keywords": [
+        "id",
+        "identity",
+        "badge",
+        "card",
+        "license",
+        "identification",
+        "pass"
+      ],
+      "file": "id-card.svg"
     },
     {
       "name": "image",
@@ -8149,6 +10857,25 @@
       "file": "info-squircle.svg"
     },
     {
+      "name": "kanban",
+      "displayName": "Kanban",
+      "category": "layout",
+      "tags": [],
+      "aliases": [
+        "board",
+        "task board"
+      ],
+      "keywords": [
+        "kanban",
+        "board",
+        "columns",
+        "tasks",
+        "workflow",
+        "project"
+      ],
+      "file": "kanban.svg"
+    },
+    {
       "name": "keyboard",
       "displayName": "Keyboard",
       "category": "device",
@@ -8167,6 +10894,24 @@
         "hardware"
       ],
       "file": "keyboard.svg"
+    },
+    {
+      "name": "lamp",
+      "displayName": "Lamp",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "desk lamp",
+        "table lamp"
+      ],
+      "keywords": [
+        "lamp",
+        "desk lamp",
+        "table lamp",
+        "light",
+        "reading"
+      ],
+      "file": "lamp.svg"
     },
     {
       "name": "laptop",
@@ -8316,6 +11061,46 @@
       "file": "layout-panel-top.svg"
     },
     {
+      "name": "leaf",
+      "displayName": "Leaf",
+      "category": "nature",
+      "tags": [],
+      "aliases": [
+        "plant",
+        "nature",
+        "eco"
+      ],
+      "keywords": [
+        "leaf",
+        "plant",
+        "nature",
+        "eco",
+        "green",
+        "garden",
+        "organic"
+      ],
+      "file": "leaf.svg"
+    },
+    {
+      "name": "life-buoy",
+      "displayName": "Life Buoy",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "lifebuoy",
+        "life ring",
+        "lifesaver"
+      ],
+      "keywords": [
+        "help",
+        "support",
+        "rescue",
+        "assistance",
+        "safety"
+      ],
+      "file": "life-buoy.svg"
+    },
+    {
       "name": "line-chart",
       "displayName": "Line Chart",
       "category": "chart",
@@ -8455,6 +11240,26 @@
       "file": "log-out.svg"
     },
     {
+      "name": "magnet",
+      "displayName": "Magnet",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "attract",
+        "magnetic"
+      ],
+      "keywords": [
+        "magnet",
+        "magnetic",
+        "attract",
+        "pull",
+        "snap",
+        "field",
+        "pole"
+      ],
+      "file": "magnet.svg"
+    },
+    {
       "name": "mail",
       "displayName": "Mail",
       "category": "communication",
@@ -8532,6 +11337,48 @@
       "file": "mail-close.svg"
     },
     {
+      "name": "mail-cloud",
+      "displayName": "Mail Cloud",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "cloud",
+        "online",
+        "remote"
+      ],
+      "file": "mail-cloud.svg"
+    },
+    {
+      "name": "mail-code",
+      "displayName": "Mail Code",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "code",
+        "developer",
+        "source"
+      ],
+      "file": "mail-code.svg"
+    },
+    {
+      "name": "mail-down",
+      "displayName": "Mail Down",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "mail-down.svg"
+    },
+    {
       "name": "mail-edit",
       "displayName": "Mail Edit",
       "category": "communication",
@@ -8586,6 +11433,20 @@
       "file": "mail-forbid.svg"
     },
     {
+      "name": "mail-forward",
+      "displayName": "Mail Forward",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "forward",
+        "send",
+        "next"
+      ],
+      "file": "mail-forward.svg"
+    },
+    {
       "name": "mail-heart",
       "displayName": "Mail Heart",
       "category": "communication",
@@ -8602,6 +11463,48 @@
         "heart"
       ],
       "file": "mail-heart.svg"
+    },
+    {
+      "name": "mail-info",
+      "displayName": "Mail Info",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "mail-info.svg"
+    },
+    {
+      "name": "mail-key",
+      "displayName": "Mail Key",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "key",
+        "password",
+        "access"
+      ],
+      "file": "mail-key.svg"
+    },
+    {
+      "name": "mail-left",
+      "displayName": "Mail Left",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "mail-left.svg"
     },
     {
       "name": "mail-lock",
@@ -8659,6 +11562,42 @@
       "file": "mail-notification.svg"
     },
     {
+      "name": "mail-open",
+      "displayName": "Mail Open",
+      "category": "communication",
+      "tags": [],
+      "aliases": [
+        "envelope-open",
+        "read-mail"
+      ],
+      "keywords": [
+        "mail",
+        "email",
+        "envelope",
+        "open",
+        "opened",
+        "read",
+        "inbox",
+        "message"
+      ],
+      "file": "mail-open.svg"
+    },
+    {
+      "name": "mail-pin",
+      "displayName": "Mail Pin",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "pin",
+        "location",
+        "marker",
+        "attach"
+      ],
+      "file": "mail-pin.svg"
+    },
+    {
       "name": "mail-plus",
       "displayName": "Mail Plus",
       "category": "communication",
@@ -8676,6 +11615,49 @@
         "add"
       ],
       "file": "mail-plus.svg"
+    },
+    {
+      "name": "mail-question",
+      "displayName": "Mail Question",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "question",
+        "help",
+        "unknown"
+      ],
+      "file": "mail-question.svg"
+    },
+    {
+      "name": "mail-refresh",
+      "displayName": "Mail Refresh",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "mail-refresh.svg"
+    },
+    {
+      "name": "mail-reply",
+      "displayName": "Mail Reply",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "reply",
+        "respond",
+        "answer"
+      ],
+      "file": "mail-reply.svg"
     },
     {
       "name": "mail-search",
@@ -8788,6 +11770,20 @@
       "file": "mail-star.svg"
     },
     {
+      "name": "mail-up",
+      "displayName": "Mail Up",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "mail-up.svg"
+    },
+    {
       "name": "mail-up-right",
       "displayName": "Mail Up Right",
       "category": "communication",
@@ -8804,6 +11800,20 @@
         "up right"
       ],
       "file": "mail-up-right.svg"
+    },
+    {
+      "name": "mail-user",
+      "displayName": "Mail User",
+      "category": "communication",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "mail",
+        "email",
+        "envelope",
+        "user"
+      ],
+      "file": "mail-user.svg"
     },
     {
       "name": "map",
@@ -8969,6 +11979,53 @@
         "podcast"
       ],
       "file": "mic.svg"
+    },
+    {
+      "name": "mic-off",
+      "displayName": "Mic Off",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "microphone-off",
+        "mute",
+        "mic-slash",
+        "microphone-slash",
+        "muted"
+      ],
+      "keywords": [
+        "mic",
+        "microphone",
+        "mute",
+        "muted",
+        "off",
+        "silence",
+        "disable",
+        "slash",
+        "audio",
+        "voice",
+        "record"
+      ],
+      "file": "mic-off.svg"
+    },
+    {
+      "name": "milestone",
+      "displayName": "Milestone",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "signpost",
+        "waypoint"
+      ],
+      "keywords": [
+        "milestone",
+        "signpost",
+        "waypoint",
+        "direction",
+        "roadmap",
+        "progress",
+        "goal"
+      ],
+      "file": "milestone.svg"
     },
     {
       "name": "minimize",
@@ -9193,6 +12250,27 @@
       "file": "move.svg"
     },
     {
+      "name": "music",
+      "displayName": "Music",
+      "category": "media",
+      "tags": [],
+      "aliases": [
+        "song",
+        "audio",
+        "note"
+      ],
+      "keywords": [
+        "music",
+        "song",
+        "audio",
+        "melody",
+        "note",
+        "sound",
+        "track"
+      ],
+      "file": "music.svg"
+    },
+    {
       "name": "navigation",
       "displayName": "Navigation",
       "category": "transport",
@@ -9233,6 +12311,17 @@
         "cube"
       ],
       "file": "package.svg"
+    },
+    {
+      "name": "package-2",
+      "displayName": "Package 2",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "package"
+      ],
+      "file": "package-2.svg"
     },
     {
       "name": "paperclip-1",
@@ -9697,6 +12786,28 @@
       "file": "printer.svg"
     },
     {
+      "name": "puzzle",
+      "displayName": "Puzzle",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "jigsaw",
+        "extension",
+        "add-on",
+        "plugin"
+      ],
+      "keywords": [
+        "puzzle",
+        "jigsaw",
+        "extension",
+        "plugin",
+        "add-on",
+        "integration",
+        "piece"
+      ],
+      "file": "puzzle.svg"
+    },
+    {
       "name": "qr-code",
       "displayName": "QR Code",
       "category": "misc",
@@ -9714,6 +12825,66 @@
         "link"
       ],
       "file": "qr-code.svg"
+    },
+    {
+      "name": "quill",
+      "displayName": "Quill",
+      "category": "nature",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "feather",
+        "pen",
+        "write",
+        "writing",
+        "author"
+      ],
+      "file": "quill.svg"
+    },
+    {
+      "name": "quill-ai",
+      "displayName": "Quill AI",
+      "category": "nature",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "quill",
+        "ai",
+        "writing assistant",
+        "sparkle",
+        "generate text"
+      ],
+      "file": "quill-ai.svg"
+    },
+    {
+      "name": "quill-line",
+      "displayName": "Quill Line",
+      "category": "nature",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "quill",
+        "line",
+        "signature",
+        "write",
+        "sign"
+      ],
+      "file": "quill-line.svg"
+    },
+    {
+      "name": "quill-squiggle",
+      "displayName": "Quill Squiggle",
+      "category": "nature",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "quill",
+        "squiggle",
+        "scribble",
+        "handwriting",
+        "sign"
+      ],
+      "file": "quill-squiggle.svg"
     },
     {
       "name": "receipt",
@@ -9749,6 +12920,291 @@
         "check"
       ],
       "file": "receipt-check.svg"
+    },
+    {
+      "name": "receipt-down",
+      "displayName": "Receipt Down",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "receipt-down.svg"
+    },
+    {
+      "name": "receipt-exclamation",
+      "displayName": "Receipt Exclamation",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "receipt-exclamation.svg"
+    },
+    {
+      "name": "receipt-forbid",
+      "displayName": "Receipt Forbid",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "forbid",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "receipt-forbid.svg"
+    },
+    {
+      "name": "receipt-info",
+      "displayName": "Receipt Info",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "receipt-info.svg"
+    },
+    {
+      "name": "receipt-left",
+      "displayName": "Receipt Left",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "left",
+        "back",
+        "previous"
+      ],
+      "file": "receipt-left.svg"
+    },
+    {
+      "name": "receipt-lock",
+      "displayName": "Receipt Lock",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "receipt-lock.svg"
+    },
+    {
+      "name": "receipt-minus",
+      "displayName": "Receipt Minus",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "minus"
+      ],
+      "file": "receipt-minus.svg"
+    },
+    {
+      "name": "receipt-percent",
+      "displayName": "Receipt Percent",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "percent",
+        "discount",
+        "sale"
+      ],
+      "file": "receipt-percent.svg"
+    },
+    {
+      "name": "receipt-plus",
+      "displayName": "Receipt Plus",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "plus"
+      ],
+      "file": "receipt-plus.svg"
+    },
+    {
+      "name": "receipt-question",
+      "displayName": "Receipt Question",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "question",
+        "help",
+        "unknown"
+      ],
+      "file": "receipt-question.svg"
+    },
+    {
+      "name": "receipt-refresh",
+      "displayName": "Receipt Refresh",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "receipt-refresh.svg"
+    },
+    {
+      "name": "receipt-search",
+      "displayName": "Receipt Search",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "search",
+        "find",
+        "lookup"
+      ],
+      "file": "receipt-search.svg"
+    },
+    {
+      "name": "receipt-settings",
+      "displayName": "Receipt Settings",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "settings",
+        "gear",
+        "config",
+        "preferences"
+      ],
+      "file": "receipt-settings.svg"
+    },
+    {
+      "name": "receipt-snooze",
+      "displayName": "Receipt Snooze",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "snooze",
+        "sleep",
+        "delay",
+        "later"
+      ],
+      "file": "receipt-snooze.svg"
+    },
+    {
+      "name": "receipt-sparkle",
+      "displayName": "Receipt Sparkle",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "receipt-sparkle.svg"
+    },
+    {
+      "name": "receipt-star",
+      "displayName": "Receipt Star",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "star",
+        "favorite",
+        "rating"
+      ],
+      "file": "receipt-star.svg"
+    },
+    {
+      "name": "receipt-up",
+      "displayName": "Receipt Up",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "receipt-up.svg"
+    },
+    {
+      "name": "receipt-up-right",
+      "displayName": "Receipt Up Right",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "up",
+        "right",
+        "upload",
+        "raise",
+        "forward",
+        "next"
+      ],
+      "file": "receipt-up-right.svg"
+    },
+    {
+      "name": "receipt-user",
+      "displayName": "Receipt User",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "user",
+        "person",
+        "profile",
+        "account"
+      ],
+      "file": "receipt-user.svg"
+    },
+    {
+      "name": "receipt-x",
+      "displayName": "Receipt X",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "receipt",
+        "x"
+      ],
+      "file": "receipt-x.svg"
     },
     {
       "name": "record-circle",
@@ -10044,6 +13500,25 @@
       "file": "rss.svg"
     },
     {
+      "name": "ruler",
+      "displayName": "Ruler",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "measure",
+        "scale"
+      ],
+      "keywords": [
+        "ruler",
+        "measure",
+        "length",
+        "dimensions",
+        "size",
+        "scale"
+      ],
+      "file": "ruler.svg"
+    },
+    {
       "name": "save",
       "displayName": "Save",
       "category": "file",
@@ -10202,6 +13677,23 @@
       "file": "scan-text.svg"
     },
     {
+      "name": "scissors",
+      "displayName": "Scissors",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "cut"
+      ],
+      "keywords": [
+        "scissors",
+        "cut",
+        "clip",
+        "trim",
+        "snip"
+      ],
+      "file": "scissors.svg"
+    },
+    {
       "name": "search",
       "displayName": "Search",
       "category": "action",
@@ -10219,6 +13711,26 @@
         "query"
       ],
       "file": "search.svg"
+    },
+    {
+      "name": "search-bar",
+      "displayName": "Search Bar",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "seo",
+        "search-optimization",
+        "ranking"
+      ],
+      "keywords": [
+        "search-bar",
+        "seo",
+        "search-engine",
+        "link",
+        "optimize",
+        "ranking"
+      ],
+      "file": "search-bar.svg"
     },
     {
       "name": "send-1",
@@ -10257,24 +13769,6 @@
         "message"
       ],
       "file": "send-2.svg"
-    },
-    {
-      "name": "seo",
-      "displayName": "SEO",
-      "category": "misc",
-      "tags": [],
-      "aliases": [
-        "search-optimization",
-        "ranking"
-      ],
-      "keywords": [
-        "seo",
-        "search-engine",
-        "link",
-        "optimize",
-        "ranking"
-      ],
-      "file": "seo.svg"
     },
     {
       "name": "server-1",
@@ -10497,6 +13991,172 @@
       "file": "shield-close-2.svg"
     },
     {
+      "name": "shield-exclamation-1",
+      "displayName": "Shield Exclamation 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "exclamation",
+        "protect",
+        "security",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "shield-exclamation-1.svg"
+    },
+    {
+      "name": "shield-exclamation-2",
+      "displayName": "Shield Exclamation 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "exclamation",
+        "protect",
+        "security",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "shield-exclamation-2.svg"
+    },
+    {
+      "name": "shield-forbid-1",
+      "displayName": "Shield Forbid 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "forbid",
+        "protect",
+        "security",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "shield-forbid-1.svg"
+    },
+    {
+      "name": "shield-forbid-2",
+      "displayName": "Shield Forbid 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "forbid",
+        "protect",
+        "security",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "shield-forbid-2.svg"
+    },
+    {
+      "name": "shield-info-1",
+      "displayName": "Shield Info 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "info",
+        "protect",
+        "security",
+        "information",
+        "details"
+      ],
+      "file": "shield-info-1.svg"
+    },
+    {
+      "name": "shield-info-2",
+      "displayName": "Shield Info 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "info",
+        "protect",
+        "security",
+        "information",
+        "details"
+      ],
+      "file": "shield-info-2.svg"
+    },
+    {
+      "name": "shield-key-1",
+      "displayName": "Shield Key 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "key",
+        "protect",
+        "security",
+        "password",
+        "access"
+      ],
+      "file": "shield-key-1.svg"
+    },
+    {
+      "name": "shield-key-2",
+      "displayName": "Shield Key 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "key",
+        "protect",
+        "security",
+        "password",
+        "access"
+      ],
+      "file": "shield-key-2.svg"
+    },
+    {
+      "name": "shield-lock-1",
+      "displayName": "Shield Lock 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "lock",
+        "protect",
+        "security",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "shield-lock-1.svg"
+    },
+    {
+      "name": "shield-lock-2",
+      "displayName": "Shield Lock 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "lock",
+        "protect",
+        "security",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "shield-lock-2.svg"
+    },
+    {
       "name": "shield-minus-1",
       "displayName": "Shield Minus",
       "category": "security",
@@ -10547,6 +14207,20 @@
       "file": "shield-minus-2.svg"
     },
     {
+      "name": "shield-off",
+      "displayName": "Shield Off",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "off",
+        "protect",
+        "security"
+      ],
+      "file": "shield-off.svg"
+    },
+    {
       "name": "shield-plus-1",
       "displayName": "Shield Plus",
       "category": "security",
@@ -10595,6 +14269,170 @@
         "insurance"
       ],
       "file": "shield-plus-2.svg"
+    },
+    {
+      "name": "shield-question-1",
+      "displayName": "Shield Question 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "question",
+        "protect",
+        "security",
+        "help",
+        "unknown"
+      ],
+      "file": "shield-question-1.svg"
+    },
+    {
+      "name": "shield-question-2",
+      "displayName": "Shield Question 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "question",
+        "protect",
+        "security",
+        "help",
+        "unknown"
+      ],
+      "file": "shield-question-2.svg"
+    },
+    {
+      "name": "shield-refresh-1",
+      "displayName": "Shield Refresh 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "refresh",
+        "protect",
+        "security",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "shield-refresh-1.svg"
+    },
+    {
+      "name": "shield-refresh-2",
+      "displayName": "Shield Refresh 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "refresh",
+        "protect",
+        "security",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "shield-refresh-2.svg"
+    },
+    {
+      "name": "shield-search-1",
+      "displayName": "Shield Search 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "search",
+        "protect",
+        "security",
+        "find",
+        "lookup"
+      ],
+      "file": "shield-search-1.svg"
+    },
+    {
+      "name": "shield-search-2",
+      "displayName": "Shield Search 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "search",
+        "protect",
+        "security",
+        "find",
+        "lookup"
+      ],
+      "file": "shield-search-2.svg"
+    },
+    {
+      "name": "shield-sparkle-1",
+      "displayName": "Shield Sparkle 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "sparkle",
+        "protect",
+        "security",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "shield-sparkle-1.svg"
+    },
+    {
+      "name": "shield-sparkle-2",
+      "displayName": "Shield Sparkle 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "sparkle",
+        "protect",
+        "security",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "shield-sparkle-2.svg"
+    },
+    {
+      "name": "shield-star-1",
+      "displayName": "Shield Star 1",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "star",
+        "protect",
+        "security",
+        "favorite",
+        "rating"
+      ],
+      "file": "shield-star-1.svg"
+    },
+    {
+      "name": "shield-star-2",
+      "displayName": "Shield Star 2",
+      "category": "security",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shield",
+        "star",
+        "protect",
+        "security",
+        "favorite",
+        "rating"
+      ],
+      "file": "shield-star-2.svg"
     },
     {
       "name": "shopping-bag-1",
@@ -10657,6 +14495,84 @@
       "file": "shopping-bag-check.svg"
     },
     {
+      "name": "shopping-bag-down",
+      "displayName": "Shopping Bag Down",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "down",
+        "download",
+        "lower"
+      ],
+      "file": "shopping-bag-down.svg"
+    },
+    {
+      "name": "shopping-bag-exclamation",
+      "displayName": "Shopping Bag Exclamation",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "exclamation",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "shopping-bag-exclamation.svg"
+    },
+    {
+      "name": "shopping-bag-heart",
+      "displayName": "Shopping Bag Heart",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "heart",
+        "like",
+        "love",
+        "favorite"
+      ],
+      "file": "shopping-bag-heart.svg"
+    },
+    {
+      "name": "shopping-bag-info",
+      "displayName": "Shopping Bag Info",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "info",
+        "information",
+        "details"
+      ],
+      "file": "shopping-bag-info.svg"
+    },
+    {
+      "name": "shopping-bag-lock",
+      "displayName": "Shopping Bag Lock",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "lock",
+        "secure",
+        "private",
+        "locked"
+      ],
+      "file": "shopping-bag-lock.svg"
+    },
+    {
       "name": "shopping-bag-minus",
       "displayName": "Shopping Bag Minus",
       "category": "commerce",
@@ -10673,6 +14589,21 @@
       "file": "shopping-bag-minus.svg"
     },
     {
+      "name": "shopping-bag-percent",
+      "displayName": "Shopping Bag Percent",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "percent",
+        "discount",
+        "sale"
+      ],
+      "file": "shopping-bag-percent.svg"
+    },
+    {
       "name": "shopping-bag-plus",
       "displayName": "Shopping Bag Plus",
       "category": "commerce",
@@ -10687,6 +14618,101 @@
         "plus"
       ],
       "file": "shopping-bag-plus.svg"
+    },
+    {
+      "name": "shopping-bag-question",
+      "displayName": "Shopping Bag Question",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "question",
+        "help",
+        "unknown"
+      ],
+      "file": "shopping-bag-question.svg"
+    },
+    {
+      "name": "shopping-bag-refresh",
+      "displayName": "Shopping Bag Refresh",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "refresh",
+        "reload",
+        "sync",
+        "update"
+      ],
+      "file": "shopping-bag-refresh.svg"
+    },
+    {
+      "name": "shopping-bag-search",
+      "displayName": "Shopping Bag Search",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "search",
+        "find",
+        "lookup"
+      ],
+      "file": "shopping-bag-search.svg"
+    },
+    {
+      "name": "shopping-bag-sparkle",
+      "displayName": "Shopping Bag Sparkle",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "sparkle",
+        "ai",
+        "magic",
+        "generate"
+      ],
+      "file": "shopping-bag-sparkle.svg"
+    },
+    {
+      "name": "shopping-bag-up",
+      "displayName": "Shopping Bag Up",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "up",
+        "upload",
+        "raise"
+      ],
+      "file": "shopping-bag-up.svg"
+    },
+    {
+      "name": "shopping-bag-up-right",
+      "displayName": "Shopping Bag Up Right",
+      "category": "commerce",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "shopping",
+        "bag",
+        "up",
+        "right",
+        "upload",
+        "raise",
+        "forward",
+        "next"
+      ],
+      "file": "shopping-bag-up-right.svg"
     },
     {
       "name": "shopping-bag-x",
@@ -10933,6 +14959,19 @@
       "file": "sliders.svg"
     },
     {
+      "name": "sliders-squircle",
+      "displayName": "Sliders Squircle",
+      "category": "action",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "sliders",
+        "squircle",
+        "rounded"
+      ],
+      "file": "sliders-squircle.svg"
+    },
+    {
       "name": "smart-watch",
       "displayName": "Smart Watch",
       "category": "device",
@@ -11094,6 +15133,26 @@
         "padding"
       ],
       "file": "spacing-vertical.svg"
+    },
+    {
+      "name": "square",
+      "displayName": "Square",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "box",
+        "rectangle",
+        "shape"
+      ],
+      "keywords": [
+        "square",
+        "box",
+        "shape",
+        "rectangle",
+        "geometry",
+        "outline"
+      ],
+      "file": "square.svg"
     },
     {
       "name": "stack",
@@ -11542,6 +15601,26 @@
       "file": "tag-up.svg"
     },
     {
+      "name": "target",
+      "displayName": "Target",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "bullseye",
+        "aim",
+        "goal"
+      ],
+      "keywords": [
+        "target",
+        "bullseye",
+        "aim",
+        "goal",
+        "focus",
+        "objective"
+      ],
+      "file": "target.svg"
+    },
+    {
       "name": "terminal",
       "displayName": "Terminal",
       "category": "dev",
@@ -11857,6 +15936,27 @@
       "file": "trash-delete.svg"
     },
     {
+      "name": "tree",
+      "displayName": "Tree",
+      "category": "nature",
+      "tags": [],
+      "aliases": [
+        "plant",
+        "nature"
+      ],
+      "keywords": [
+        "tree",
+        "nature",
+        "park",
+        "forest",
+        "garden",
+        "deciduous",
+        "pine",
+        "conifer"
+      ],
+      "file": "tree.svg"
+    },
+    {
       "name": "trending-down",
       "displayName": "Trending Down",
       "category": "chart",
@@ -11899,6 +15999,23 @@
         "upward"
       ],
       "file": "trending-up.svg"
+    },
+    {
+      "name": "triangle",
+      "displayName": "Triangle",
+      "category": "misc",
+      "tags": [],
+      "aliases": [
+        "delta"
+      ],
+      "keywords": [
+        "triangle",
+        "delta",
+        "shape",
+        "geometry",
+        "polygon"
+      ],
+      "file": "triangle.svg"
     },
     {
       "name": "trophy",
@@ -12018,6 +16135,28 @@
         "cancelled shipment"
       ],
       "file": "truck-x.svg"
+    },
+    {
+      "name": "type",
+      "displayName": "Type",
+      "category": "text",
+      "tags": [],
+      "aliases": [
+        "text",
+        "typography",
+        "font"
+      ],
+      "keywords": [
+        "type",
+        "text",
+        "typography",
+        "font",
+        "letter",
+        "t",
+        "typeface",
+        "writing"
+      ],
+      "file": "type.svg"
     },
     {
       "name": "umbrella",
@@ -12152,6 +16291,23 @@
       "file": "user-backward.svg"
     },
     {
+      "name": "user-bookmark",
+      "displayName": "User Bookmark",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "bookmark",
+        "person",
+        "profile",
+        "account",
+        "save",
+        "favorite"
+      ],
+      "file": "user-bookmark.svg"
+    },
+    {
       "name": "user-check",
       "displayName": "User Check",
       "category": "object",
@@ -12172,6 +16328,22 @@
       "file": "user-check.svg"
     },
     {
+      "name": "user-circle",
+      "displayName": "User Circle",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "circle",
+        "person",
+        "profile",
+        "account",
+        "round"
+      ],
+      "file": "user-circle.svg"
+    },
+    {
       "name": "user-close",
       "displayName": "User Close",
       "category": "object",
@@ -12189,6 +16361,57 @@
         "delete-user"
       ],
       "file": "user-close.svg"
+    },
+    {
+      "name": "user-cloud",
+      "displayName": "User Cloud",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "cloud",
+        "person",
+        "profile",
+        "account",
+        "online",
+        "remote"
+      ],
+      "file": "user-cloud.svg"
+    },
+    {
+      "name": "user-code",
+      "displayName": "User Code",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "code",
+        "person",
+        "profile",
+        "account",
+        "developer",
+        "source"
+      ],
+      "file": "user-code.svg"
+    },
+    {
+      "name": "user-data",
+      "displayName": "User Data",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "data",
+        "person",
+        "profile",
+        "account",
+        "chart",
+        "stats"
+      ],
+      "file": "user-data.svg"
     },
     {
       "name": "user-edit",
@@ -12214,6 +16437,42 @@
         "rename"
       ],
       "file": "user-edit.svg"
+    },
+    {
+      "name": "user-exclamation",
+      "displayName": "User Exclamation",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "exclamation",
+        "person",
+        "profile",
+        "account",
+        "warning",
+        "alert",
+        "attention"
+      ],
+      "file": "user-exclamation.svg"
+    },
+    {
+      "name": "user-forbid",
+      "displayName": "User Forbid",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "forbid",
+        "person",
+        "profile",
+        "account",
+        "block",
+        "ban",
+        "prohibited"
+      ],
+      "file": "user-forbid.svg"
     },
     {
       "name": "user-forward",
@@ -12256,6 +16515,40 @@
         "saved"
       ],
       "file": "user-heart.svg"
+    },
+    {
+      "name": "user-info",
+      "displayName": "User Info",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "info",
+        "person",
+        "profile",
+        "account",
+        "information",
+        "details"
+      ],
+      "file": "user-info.svg"
+    },
+    {
+      "name": "user-key",
+      "displayName": "User Key",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "key",
+        "person",
+        "profile",
+        "account",
+        "password",
+        "access"
+      ],
+      "file": "user-key.svg"
     },
     {
       "name": "user-lock",
@@ -12343,6 +16636,23 @@
         "invite"
       ],
       "file": "user-plus.svg"
+    },
+    {
+      "name": "user-question",
+      "displayName": "User Question",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "question",
+        "person",
+        "profile",
+        "account",
+        "help",
+        "unknown"
+      ],
+      "file": "user-question.svg"
     },
     {
       "name": "user-refresh",
@@ -12440,6 +16750,24 @@
       "file": "user-shield.svg"
     },
     {
+      "name": "user-snooze",
+      "displayName": "User Snooze",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "snooze",
+        "person",
+        "profile",
+        "account",
+        "sleep",
+        "delay",
+        "later"
+      ],
+      "file": "user-snooze.svg"
+    },
+    {
       "name": "user-sparkle",
       "displayName": "User Sparkle",
       "category": "object",
@@ -12465,6 +16793,22 @@
       "file": "user-sparkle.svg"
     },
     {
+      "name": "user-squircle",
+      "displayName": "User Squircle",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "squircle",
+        "person",
+        "profile",
+        "account",
+        "rounded"
+      ],
+      "file": "user-squircle.svg"
+    },
+    {
       "name": "user-star",
       "displayName": "User Star",
       "category": "object",
@@ -12487,6 +16831,26 @@
         "bookmark"
       ],
       "file": "user-star.svg"
+    },
+    {
+      "name": "user-up-right",
+      "displayName": "User Up Right",
+      "category": "object",
+      "tags": [],
+      "aliases": [],
+      "keywords": [
+        "user",
+        "up",
+        "right",
+        "person",
+        "profile",
+        "account",
+        "upload",
+        "raise",
+        "forward",
+        "next"
+      ],
+      "file": "user-up-right.svg"
     },
     {
       "name": "users",

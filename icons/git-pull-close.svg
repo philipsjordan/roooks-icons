@@ -1,3 +1,9 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 9C5.895 9 5 8.105 5 7C5 5.895 5.895 5 7 5C8.105 5 9 5.895 9 7C9 8.105 8.105 9 7 9ZM7 9V15M17 15C15.895 15 15 15.895 15 17C15 18.105 15.895 19 17 19C18.105 19 19 18.105 19 17C19 15.895 18.105 15 17 15ZM17 15V12M7 15C8.105 15 9 15.895 9 17C9 18.105 8.105 19 7 19C5.895 19 5 18.105 5 17C5 15.895 5.895 15 7 15ZM15.341 5.36L17 7.019M17 7.019L18.659 8.677M17 7.019L18.659 5.36M17 7.019L15.341 8.677" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="6" cy="6" r="3" stroke="currentColor" stroke-width="2"/>
+<circle cx="6" cy="18" r="3" stroke="currentColor" stroke-width="2"/>
+<circle cx="18" cy="18" r="3" stroke="currentColor" stroke-width="2"/>
+<path d="M6 9V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 11.5V15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.5 3.5L20.5 8.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.5 3.5L15.5 8.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
