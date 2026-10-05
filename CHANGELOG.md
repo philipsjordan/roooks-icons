@@ -2,6 +2,13 @@
 
 All notable changes to the icon set. One version for the whole library, following semver (see the README): major for breaking changes, minor for new icons, patch for fixes.
 
+## 0.3.0 - 2026-10-05
+
+Six new icons (minor release).
+
+- Added `arrow-up-to-line`, `arrow-down-to-line`, `arrow-left-to-line`, `arrow-right-to-line`, `dots-grid` (3x3 dots, the usual "apps" icon) and `dot` (solid 6px disc).
+- 918 icons, listed in `icons.json`.
+
 ## 0.2.0 - 2026-10-03
 
 All icons redrawn on the V2 spec. This is a visible change to every icon (allowed before 1.0).

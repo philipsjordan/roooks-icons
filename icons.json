@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "icons": [
     {
       "name": "activity",
@@ -483,6 +483,30 @@
       "file": "arrow-down-squircle.svg"
     },
     {
+      "name": "arrow-down-to-line",
+      "displayName": "Arrow Down To Line",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation",
+        "directional"
+      ],
+      "aliases": [
+        "arrow-to-bottom",
+        "move-to-bottom",
+        "to-bottom"
+      ],
+      "keywords": [
+        "down",
+        "bottom",
+        "bar",
+        "line",
+        "download",
+        "save"
+      ],
+      "file": "arrow-down-to-line.svg"
+    },
+    {
       "name": "arrow-left",
       "displayName": "Arrow Left",
       "category": "arrow",
@@ -560,6 +584,30 @@
       "file": "arrow-left-squircle.svg"
     },
     {
+      "name": "arrow-left-to-line",
+      "displayName": "Arrow Left To Line",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation",
+        "directional"
+      ],
+      "aliases": [
+        "arrow-to-start",
+        "move-to-start",
+        "to-start"
+      ],
+      "keywords": [
+        "left",
+        "start",
+        "bar",
+        "line",
+        "first",
+        "skip-back"
+      ],
+      "file": "arrow-left-to-line.svg"
+    },
+    {
       "name": "arrow-right",
       "displayName": "Arrow Right",
       "category": "arrow",
@@ -617,6 +665,30 @@
         "badge"
       ],
       "file": "arrow-right-squircle.svg"
+    },
+    {
+      "name": "arrow-right-to-line",
+      "displayName": "Arrow Right To Line",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation",
+        "directional"
+      ],
+      "aliases": [
+        "arrow-to-end",
+        "move-to-end",
+        "to-end"
+      ],
+      "keywords": [
+        "right",
+        "end",
+        "bar",
+        "line",
+        "last",
+        "skip-forward"
+      ],
+      "file": "arrow-right-to-line.svg"
     },
     {
       "name": "arrow-small-down",
@@ -954,6 +1026,30 @@
         "badge"
       ],
       "file": "arrow-up-squircle.svg"
+    },
+    {
+      "name": "arrow-up-to-line",
+      "displayName": "Arrow Up To Line",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation",
+        "directional"
+      ],
+      "aliases": [
+        "arrow-to-top",
+        "move-to-top",
+        "to-top"
+      ],
+      "keywords": [
+        "up",
+        "top",
+        "bar",
+        "line",
+        "scroll-to-top",
+        "upload"
+      ],
+      "file": "arrow-up-to-line.svg"
     },
     {
       "name": "aspect-ratio",
@@ -6875,6 +6971,59 @@
         "leave"
       ],
       "file": "door.svg"
+    },
+    {
+      "name": "dot",
+      "displayName": "Dot",
+      "category": "misc",
+      "tags": [
+        "ui",
+        "shape"
+      ],
+      "aliases": [
+        "bullet",
+        "point",
+        "circle-filled",
+        "disc"
+      ],
+      "keywords": [
+        "bullet",
+        "point",
+        "small",
+        "indicator",
+        "list",
+        "status",
+        "filled"
+      ],
+      "file": "dot.svg"
+    },
+    {
+      "name": "dots-grid",
+      "displayName": "Dots Grid",
+      "category": "layout",
+      "tags": [
+        "ui",
+        "layout"
+      ],
+      "aliases": [
+        "apps",
+        "nine-dots",
+        "grid-dots",
+        "launcher",
+        "app-launcher",
+        "waffle"
+      ],
+      "keywords": [
+        "apps",
+        "launcher",
+        "nine",
+        "dots",
+        "grid",
+        "3x3",
+        "switcher",
+        "menu"
+      ],
+      "file": "dots-grid.svg"
     },
     {
       "name": "down-left",
