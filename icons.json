@@ -241,7 +241,7 @@
     {
       "name": "anchor",
       "displayName": "Anchor",
-      "category": "misc",
+      "category": "transport",
       "tags": [],
       "aliases": [
         "mooring",
@@ -283,15 +283,36 @@
       "file": "archive.svg"
     },
     {
-      "name": "arrow-bl-circle",
-      "displayName": "Arrow Bottom-Left Circle",
+      "name": "arrow-circle-down",
+      "displayName": "Arrow Circle Down",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "circle-down-arrow",
+        "down-arrow",
+        "point-down",
+        "arrow-down-circle"
+      ],
+      "keywords": [
+        "arrow",
+        "down",
+        "circle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-circle-down.svg"
+    },
+    {
+      "name": "arrow-circle-down-left",
+      "displayName": "Arrow Circle Down-Left",
       "category": "arrow",
       "tags": [],
       "aliases": [
         "circle-bl-arrow",
         "arrow-down-left-circle",
         "down-left-arrow",
-        "point-down-left"
+        "point-down-left",
+        "arrow-bl-circle"
       ],
       "keywords": [
         "arrow",
@@ -300,38 +321,19 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-bl-circle.svg"
+      "file": "arrow-circle-down-left.svg"
     },
     {
-      "name": "arrow-bl-squircle",
-      "displayName": "Arrow Bottom-Left Squircle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "squircle-bl-arrow",
-        "arrow-down-left-squircle",
-        "down-left-arrow",
-        "point-down-left"
-      ],
-      "keywords": [
-        "arrow",
-        "bottom-left",
-        "squircle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-bl-squircle.svg"
-    },
-    {
-      "name": "arrow-br-circle",
-      "displayName": "Arrow Bottom-Right Circle",
+      "name": "arrow-circle-down-right",
+      "displayName": "Arrow Circle Down-Right",
       "category": "arrow",
       "tags": [],
       "aliases": [
         "circle-br-arrow",
         "arrow-down-right-circle",
         "down-right-arrow",
-        "point-down-right"
+        "point-down-right",
+        "arrow-br-circle"
       ],
       "keywords": [
         "arrow",
@@ -340,27 +342,109 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-br-circle.svg"
+      "file": "arrow-circle-down-right.svg"
     },
     {
-      "name": "arrow-br-squircle",
-      "displayName": "Arrow Bottom-Right Squircle",
+      "name": "arrow-circle-left",
+      "displayName": "Arrow Circle Left",
       "category": "arrow",
       "tags": [],
       "aliases": [
-        "squircle-br-arrow",
-        "arrow-down-right-squircle",
-        "down-right-arrow",
-        "point-down-right"
+        "circle-left-arrow",
+        "left-arrow",
+        "point-left",
+        "arrow-left-circle"
       ],
       "keywords": [
         "arrow",
-        "bottom-right",
-        "squircle",
+        "left",
+        "circle",
         "direction",
         "badge"
       ],
-      "file": "arrow-br-squircle.svg"
+      "file": "arrow-circle-left.svg"
+    },
+    {
+      "name": "arrow-circle-right",
+      "displayName": "Arrow Circle Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "circle-right-arrow",
+        "right-arrow",
+        "point-right",
+        "arrow-right-circle"
+      ],
+      "keywords": [
+        "arrow",
+        "right",
+        "circle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-circle-right.svg"
+    },
+    {
+      "name": "arrow-circle-up",
+      "displayName": "Arrow Circle Up",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "circle-up-arrow",
+        "up-arrow",
+        "point-up",
+        "arrow-up-circle"
+      ],
+      "keywords": [
+        "arrow",
+        "up",
+        "circle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-circle-up.svg"
+    },
+    {
+      "name": "arrow-circle-up-left",
+      "displayName": "Arrow Circle Up-Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "circle-tl-arrow",
+        "arrow-up-left-circle",
+        "up-left-arrow",
+        "point-up-left",
+        "arrow-tl-circle"
+      ],
+      "keywords": [
+        "arrow",
+        "top-left",
+        "circle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-circle-up-left.svg"
+    },
+    {
+      "name": "arrow-circle-up-right",
+      "displayName": "Arrow Circle Up-Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "circle-tr-arrow",
+        "arrow-up-right-circle",
+        "up-right-arrow",
+        "point-up-right",
+        "arrow-tr-circle"
+      ],
+      "keywords": [
+        "arrow",
+        "top-right",
+        "circle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-circle-up-right.svg"
     },
     {
       "name": "arrow-diagonal-1",
@@ -399,25 +483,6 @@
         "scroll-to-bottom"
       ],
       "file": "arrow-down.svg"
-    },
-    {
-      "name": "arrow-down-circle",
-      "displayName": "Arrow Down Circle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "circle-down-arrow",
-        "down-arrow",
-        "point-down"
-      ],
-      "keywords": [
-        "arrow",
-        "down",
-        "circle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-down-circle.svg"
     },
     {
       "name": "arrow-down-left",
@@ -462,25 +527,6 @@
         "southeast"
       ],
       "file": "arrow-down-right.svg"
-    },
-    {
-      "name": "arrow-down-squircle",
-      "displayName": "Arrow Down Squircle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "squircle-down-arrow",
-        "down-arrow",
-        "point-down"
-      ],
-      "keywords": [
-        "arrow",
-        "down",
-        "squircle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-down-squircle.svg"
     },
     {
       "name": "arrow-down-to-line",
@@ -528,25 +574,6 @@
       "file": "arrow-left.svg"
     },
     {
-      "name": "arrow-left-circle",
-      "displayName": "Arrow Left Circle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "circle-left-arrow",
-        "left-arrow",
-        "point-left"
-      ],
-      "keywords": [
-        "arrow",
-        "left",
-        "circle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-left-circle.svg"
-    },
-    {
       "name": "arrow-left-right",
       "displayName": "Arrow Left Right",
       "category": "arrow",
@@ -563,25 +590,6 @@
         "resize"
       ],
       "file": "arrow-left-right.svg"
-    },
-    {
-      "name": "arrow-left-squircle",
-      "displayName": "Arrow Left Squircle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "squircle-left-arrow",
-        "left-arrow",
-        "point-left"
-      ],
-      "keywords": [
-        "arrow",
-        "left",
-        "squircle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-left-squircle.svg"
     },
     {
       "name": "arrow-left-to-line",
@@ -627,44 +635,6 @@
         "continue"
       ],
       "file": "arrow-right.svg"
-    },
-    {
-      "name": "arrow-right-circle",
-      "displayName": "Arrow Right Circle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "circle-right-arrow",
-        "right-arrow",
-        "point-right"
-      ],
-      "keywords": [
-        "arrow",
-        "right",
-        "circle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-right-circle.svg"
-    },
-    {
-      "name": "arrow-right-squircle",
-      "displayName": "Arrow Right Squircle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "squircle-right-arrow",
-        "right-arrow",
-        "point-right"
-      ],
-      "keywords": [
-        "arrow",
-        "right",
-        "squircle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-right-squircle.svg"
     },
     {
       "name": "arrow-right-to-line",
@@ -823,35 +793,138 @@
       "file": "arrow-small-up-right.svg"
     },
     {
-      "name": "arrow-tl-circle",
-      "displayName": "Arrow Top-Left Circle",
+      "name": "arrow-squircle-down",
+      "displayName": "Arrow Squircle Down",
       "category": "arrow",
       "tags": [],
       "aliases": [
-        "circle-tl-arrow",
-        "arrow-up-left-circle",
-        "up-left-arrow",
-        "point-up-left"
+        "squircle-down-arrow",
+        "down-arrow",
+        "point-down",
+        "arrow-down-squircle"
       ],
       "keywords": [
         "arrow",
-        "top-left",
-        "circle",
+        "down",
+        "squircle",
         "direction",
         "badge"
       ],
-      "file": "arrow-tl-circle.svg"
+      "file": "arrow-squircle-down.svg"
     },
     {
-      "name": "arrow-tl-squircle",
-      "displayName": "Arrow Top-Left Squircle",
+      "name": "arrow-squircle-down-left",
+      "displayName": "Arrow Squircle Down-Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "squircle-bl-arrow",
+        "arrow-down-left-squircle",
+        "down-left-arrow",
+        "point-down-left",
+        "arrow-bl-squircle"
+      ],
+      "keywords": [
+        "arrow",
+        "bottom-left",
+        "squircle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-squircle-down-left.svg"
+    },
+    {
+      "name": "arrow-squircle-down-right",
+      "displayName": "Arrow Squircle Down-Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "squircle-br-arrow",
+        "arrow-down-right-squircle",
+        "down-right-arrow",
+        "point-down-right",
+        "arrow-br-squircle"
+      ],
+      "keywords": [
+        "arrow",
+        "bottom-right",
+        "squircle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-squircle-down-right.svg"
+    },
+    {
+      "name": "arrow-squircle-left",
+      "displayName": "Arrow Squircle Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "squircle-left-arrow",
+        "left-arrow",
+        "point-left",
+        "arrow-left-squircle"
+      ],
+      "keywords": [
+        "arrow",
+        "left",
+        "squircle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-squircle-left.svg"
+    },
+    {
+      "name": "arrow-squircle-right",
+      "displayName": "Arrow Squircle Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "squircle-right-arrow",
+        "right-arrow",
+        "point-right",
+        "arrow-right-squircle"
+      ],
+      "keywords": [
+        "arrow",
+        "right",
+        "squircle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-squircle-right.svg"
+    },
+    {
+      "name": "arrow-squircle-up",
+      "displayName": "Arrow Squircle Up",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "squircle-up-arrow",
+        "up-arrow",
+        "point-up",
+        "arrow-up-squircle"
+      ],
+      "keywords": [
+        "arrow",
+        "up",
+        "squircle",
+        "direction",
+        "badge"
+      ],
+      "file": "arrow-squircle-up.svg"
+    },
+    {
+      "name": "arrow-squircle-up-left",
+      "displayName": "Arrow Squircle Up-Left",
       "category": "arrow",
       "tags": [],
       "aliases": [
         "squircle-tl-arrow",
         "arrow-up-left-squircle",
         "up-left-arrow",
-        "point-up-left"
+        "point-up-left",
+        "arrow-tl-squircle"
       ],
       "keywords": [
         "arrow",
@@ -860,38 +933,19 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-tl-squircle.svg"
+      "file": "arrow-squircle-up-left.svg"
     },
     {
-      "name": "arrow-tr-circle",
-      "displayName": "Arrow Top-Right Circle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "circle-tr-arrow",
-        "arrow-up-right-circle",
-        "up-right-arrow",
-        "point-up-right"
-      ],
-      "keywords": [
-        "arrow",
-        "top-right",
-        "circle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-tr-circle.svg"
-    },
-    {
-      "name": "arrow-tr-squircle",
-      "displayName": "Arrow Top-Right Squircle",
+      "name": "arrow-squircle-up-right",
+      "displayName": "Arrow Squircle Up-Right",
       "category": "arrow",
       "tags": [],
       "aliases": [
         "squircle-tr-arrow",
         "arrow-up-right-squircle",
         "up-right-arrow",
-        "point-up-right"
+        "point-up-right",
+        "arrow-tr-squircle"
       ],
       "keywords": [
         "arrow",
@@ -900,7 +954,7 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-tr-squircle.svg"
+      "file": "arrow-squircle-up-right.svg"
     },
     {
       "name": "arrow-up",
@@ -923,25 +977,6 @@
         "scroll-to-top"
       ],
       "file": "arrow-up.svg"
-    },
-    {
-      "name": "arrow-up-circle",
-      "displayName": "Arrow Up Circle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "circle-up-arrow",
-        "up-arrow",
-        "point-up"
-      ],
-      "keywords": [
-        "arrow",
-        "up",
-        "circle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-up-circle.svg"
     },
     {
       "name": "arrow-up-down",
@@ -1007,25 +1042,6 @@
         "increase"
       ],
       "file": "arrow-up-right.svg"
-    },
-    {
-      "name": "arrow-up-squircle",
-      "displayName": "Arrow Up Squircle",
-      "category": "arrow",
-      "tags": [],
-      "aliases": [
-        "squircle-up-arrow",
-        "up-arrow",
-        "point-up"
-      ],
-      "keywords": [
-        "arrow",
-        "up",
-        "squircle",
-        "direction",
-        "badge"
-      ],
-      "file": "arrow-up-squircle.svg"
     },
     {
       "name": "arrow-up-to-line",
@@ -1202,7 +1218,7 @@
     {
       "name": "battery-charging",
       "displayName": "Battery Charging",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "battery-chagring"
@@ -1219,7 +1235,7 @@
     {
       "name": "battery-empty",
       "displayName": "Battery Empty",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "empty-battery",
@@ -1236,7 +1252,7 @@
     {
       "name": "battery-full",
       "displayName": "Battery Full",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "full-battery",
@@ -1253,7 +1269,7 @@
     {
       "name": "battery-low",
       "displayName": "Battery Low",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "low-battery",
@@ -1270,7 +1286,7 @@
     {
       "name": "battery-medium",
       "displayName": "Battery Medium",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "medium-battery",
@@ -1733,7 +1749,7 @@
     {
       "name": "bluetooth",
       "displayName": "Bluetooth",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "wireless",
@@ -1750,7 +1766,7 @@
     {
       "name": "bluetooth-searching",
       "displayName": "Bluetooth Searching",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "searching-bluetooth",
@@ -3316,6 +3332,80 @@
       "file": "check-squircle.svg"
     },
     {
+      "name": "chevron-circle-down",
+      "displayName": "Chevron Circle Down",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "circle-chevron-down",
+        "chevron-down-circle"
+      ],
+      "keywords": [
+        "down",
+        "collapse",
+        "expand-toggle"
+      ],
+      "file": "chevron-circle-down.svg"
+    },
+    {
+      "name": "chevron-circle-left",
+      "displayName": "Chevron Circle Left",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "circle-chevron-left",
+        "chevron-left-circle"
+      ],
+      "keywords": [
+        "left",
+        "previous"
+      ],
+      "file": "chevron-circle-left.svg"
+    },
+    {
+      "name": "chevron-circle-right",
+      "displayName": "Chevron Circle Right",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "circle-chevron-right",
+        "chevron-right-circle"
+      ],
+      "keywords": [
+        "right",
+        "next"
+      ],
+      "file": "chevron-circle-right.svg"
+    },
+    {
+      "name": "chevron-circle-up",
+      "displayName": "Chevron Circle Up",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "circle-chevron-up",
+        "chevron-up-circle"
+      ],
+      "keywords": [
+        "up",
+        "collapse",
+        "expand-toggle"
+      ],
+      "file": "chevron-circle-up.svg"
+    },
+    {
       "name": "chevron-down",
       "displayName": "Chevron Down",
       "category": "arrow",
@@ -3336,41 +3426,6 @@
       "file": "chevron-down.svg"
     },
     {
-      "name": "chevron-down-circle",
-      "displayName": "Chevron Down Circle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "circle-chevron-down"
-      ],
-      "keywords": [
-        "down",
-        "collapse",
-        "expand-toggle"
-      ],
-      "file": "chevron-down-circle.svg"
-    },
-    {
-      "name": "chevron-down-squircle",
-      "displayName": "Chevron Down Squircle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "squircle-chevron-down"
-      ],
-      "keywords": [
-        "down",
-        "expand"
-      ],
-      "file": "chevron-down-squircle.svg"
-    },
-    {
       "name": "chevron-left",
       "displayName": "Chevron Left",
       "category": "arrow",
@@ -3388,40 +3443,6 @@
         "disclosure"
       ],
       "file": "chevron-left.svg"
-    },
-    {
-      "name": "chevron-left-circle",
-      "displayName": "Chevron Left Circle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "circle-chevron-left"
-      ],
-      "keywords": [
-        "left",
-        "previous"
-      ],
-      "file": "chevron-left-circle.svg"
-    },
-    {
-      "name": "chevron-left-squircle",
-      "displayName": "Chevron Left Squircle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "squircle-chevron-left"
-      ],
-      "keywords": [
-        "left",
-        "previous"
-      ],
-      "file": "chevron-left-squircle.svg"
     },
     {
       "name": "chevron-right",
@@ -3444,40 +3465,6 @@
         "disclosure"
       ],
       "file": "chevron-right.svg"
-    },
-    {
-      "name": "chevron-right-circle",
-      "displayName": "Chevron Right Circle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "circle-chevron-right"
-      ],
-      "keywords": [
-        "right",
-        "next"
-      ],
-      "file": "chevron-right-circle.svg"
-    },
-    {
-      "name": "chevron-right-squircle",
-      "displayName": "Chevron Right Squircle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "squircle-chevron-right"
-      ],
-      "keywords": [
-        "right",
-        "next"
-      ],
-      "file": "chevron-right-squircle.svg"
     },
     {
       "name": "chevron-small-down",
@@ -3558,6 +3545,78 @@
       "file": "chevron-small-up.svg"
     },
     {
+      "name": "chevron-squircle-down",
+      "displayName": "Chevron Squircle Down",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "squircle-chevron-down",
+        "chevron-down-squircle"
+      ],
+      "keywords": [
+        "down",
+        "expand"
+      ],
+      "file": "chevron-squircle-down.svg"
+    },
+    {
+      "name": "chevron-squircle-left",
+      "displayName": "Chevron Squircle Left",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "squircle-chevron-left",
+        "chevron-left-squircle"
+      ],
+      "keywords": [
+        "left",
+        "previous"
+      ],
+      "file": "chevron-squircle-left.svg"
+    },
+    {
+      "name": "chevron-squircle-right",
+      "displayName": "Chevron Squircle Right",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "squircle-chevron-right",
+        "chevron-right-squircle"
+      ],
+      "keywords": [
+        "right",
+        "next"
+      ],
+      "file": "chevron-squircle-right.svg"
+    },
+    {
+      "name": "chevron-squircle-up",
+      "displayName": "Chevron Squircle Up",
+      "category": "arrow",
+      "tags": [
+        "ui",
+        "navigation"
+      ],
+      "aliases": [
+        "squircle-chevron-up",
+        "chevron-up-squircle"
+      ],
+      "keywords": [
+        "up",
+        "collapse"
+      ],
+      "file": "chevron-squircle-up.svg"
+    },
+    {
       "name": "chevron-up",
       "displayName": "Chevron Up",
       "category": "arrow",
@@ -3576,41 +3635,6 @@
         "disclosure"
       ],
       "file": "chevron-up.svg"
-    },
-    {
-      "name": "chevron-up-circle",
-      "displayName": "Chevron Up Circle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "circle-chevron-up"
-      ],
-      "keywords": [
-        "up",
-        "collapse",
-        "expand-toggle"
-      ],
-      "file": "chevron-up-circle.svg"
-    },
-    {
-      "name": "chevron-up-squircle",
-      "displayName": "Chevron Up Squircle",
-      "category": "arrow",
-      "tags": [
-        "ui",
-        "navigation"
-      ],
-      "aliases": [
-        "squircle-chevron-up"
-      ],
-      "keywords": [
-        "up",
-        "collapse"
-      ],
-      "file": "chevron-up-squircle.svg"
     },
     {
       "name": "chevrons-down",
@@ -3763,7 +3787,7 @@
     {
       "name": "circle",
       "displayName": "Circle",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "round",
@@ -4757,7 +4781,7 @@
     {
       "name": "cloud-1",
       "displayName": "Cloud",
-      "category": "object",
+      "category": "weather",
       "tags": [],
       "aliases": [
         "weather",
@@ -4777,7 +4801,7 @@
     {
       "name": "cloud-2",
       "displayName": "Cloud",
-      "category": "object",
+      "category": "weather",
       "tags": [],
       "aliases": [
         "weather",
@@ -4797,7 +4821,7 @@
     {
       "name": "cloud-check",
       "displayName": "Cloud Check",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -4814,7 +4838,7 @@
     {
       "name": "cloud-download",
       "displayName": "Cloud Download",
-      "category": "object",
+      "category": "dev",
       "tags": [],
       "aliases": [
         "download from cloud"
@@ -4852,7 +4876,7 @@
     {
       "name": "cloud-exclamation",
       "displayName": "Cloud Exclamation",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -4893,7 +4917,7 @@
     {
       "name": "cloud-info",
       "displayName": "Cloud Info",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -4929,7 +4953,7 @@
     {
       "name": "cloud-lock",
       "displayName": "Cloud Lock",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -4946,7 +4970,7 @@
     {
       "name": "cloud-minus",
       "displayName": "Cloud Minus",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -4962,7 +4986,7 @@
     {
       "name": "cloud-off-1",
       "displayName": "Cloud Off",
-      "category": "object",
+      "category": "dev",
       "tags": [],
       "aliases": [
         "offline",
@@ -4983,7 +5007,7 @@
     {
       "name": "cloud-off-2",
       "displayName": "Cloud Off",
-      "category": "object",
+      "category": "dev",
       "tags": [],
       "aliases": [
         "offline",
@@ -5004,7 +5028,7 @@
     {
       "name": "cloud-plus",
       "displayName": "Cloud Plus",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -5021,7 +5045,7 @@
     {
       "name": "cloud-question",
       "displayName": "Cloud Question",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -5058,7 +5082,7 @@
     {
       "name": "cloud-refresh",
       "displayName": "Cloud Refresh",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -5095,7 +5119,7 @@
     {
       "name": "cloud-upload",
       "displayName": "Cloud Upload",
-      "category": "object",
+      "category": "dev",
       "tags": [],
       "aliases": [
         "upload to cloud",
@@ -5114,7 +5138,7 @@
     {
       "name": "cloud-user",
       "displayName": "Cloud User",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -5131,7 +5155,7 @@
     {
       "name": "cloud-x",
       "displayName": "Cloud X",
-      "category": "weather",
+      "category": "dev",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -5563,7 +5587,7 @@
     {
       "name": "corner-radius",
       "displayName": "Corner Radius",
-      "category": "action",
+      "category": "layout",
       "tags": [
         "ui",
         "design-tool"
@@ -5646,7 +5670,7 @@
     {
       "name": "credit-card",
       "displayName": "Credit Card",
-      "category": "object",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "card",
@@ -6083,7 +6107,7 @@
     {
       "name": "crosshair-1",
       "displayName": "Crosshair 1",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "target",
@@ -6101,7 +6125,7 @@
     {
       "name": "crosshair-2",
       "displayName": "Crosshair 2",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "target",
@@ -6471,7 +6495,7 @@
     {
       "name": "diamond-1",
       "displayName": "Diamond 1",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "gem",
@@ -6489,7 +6513,7 @@
     {
       "name": "diamond-2",
       "displayName": "Diamond 2",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "gem",
@@ -6508,7 +6532,7 @@
     {
       "name": "diamond-3",
       "displayName": "Diamond 3",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "gem",
@@ -6527,7 +6551,7 @@
     {
       "name": "diamond-shape",
       "displayName": "Diamond Shape",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "rhombus",
@@ -6542,49 +6566,9 @@
       "file": "diamond-shape.svg"
     },
     {
-      "name": "diamond-shape-arrow-bl",
-      "displayName": "Diamond Shape Arrow Bottom-Left",
-      "category": "misc",
-      "tags": [],
-      "aliases": [
-        "bl-arrow-shape-diamond",
-        "diamond-shape-arrow-down-left",
-        "rhombus-arrow-bl",
-        "diamond-frame-arrow-bl"
-      ],
-      "keywords": [
-        "diamond",
-        "shape",
-        "arrow",
-        "bottom-left",
-        "direction"
-      ],
-      "file": "diamond-shape-arrow-bl.svg"
-    },
-    {
-      "name": "diamond-shape-arrow-br",
-      "displayName": "Diamond Shape Arrow Bottom-Right",
-      "category": "misc",
-      "tags": [],
-      "aliases": [
-        "br-arrow-shape-diamond",
-        "diamond-shape-arrow-down-right",
-        "rhombus-arrow-br",
-        "diamond-frame-arrow-br"
-      ],
-      "keywords": [
-        "diamond",
-        "shape",
-        "arrow",
-        "bottom-right",
-        "direction"
-      ],
-      "file": "diamond-shape-arrow-br.svg"
-    },
-    {
       "name": "diamond-shape-arrow-down",
       "displayName": "Diamond Shape Arrow Down",
-      "category": "misc",
+      "category": "arrow",
       "tags": [],
       "aliases": [
         "down-arrow-shape-diamond",
@@ -6601,9 +6585,49 @@
       "file": "diamond-shape-arrow-down.svg"
     },
     {
+      "name": "diamond-shape-arrow-down-left",
+      "displayName": "Diamond Shape Arrow Down-Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "bl-arrow-shape-diamond",
+        "rhombus-arrow-bl",
+        "diamond-frame-arrow-bl",
+        "diamond-shape-arrow-bl"
+      ],
+      "keywords": [
+        "diamond",
+        "shape",
+        "arrow",
+        "bottom-left",
+        "direction"
+      ],
+      "file": "diamond-shape-arrow-down-left.svg"
+    },
+    {
+      "name": "diamond-shape-arrow-down-right",
+      "displayName": "Diamond Shape Arrow Down-Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "br-arrow-shape-diamond",
+        "rhombus-arrow-br",
+        "diamond-frame-arrow-br",
+        "diamond-shape-arrow-br"
+      ],
+      "keywords": [
+        "diamond",
+        "shape",
+        "arrow",
+        "bottom-right",
+        "direction"
+      ],
+      "file": "diamond-shape-arrow-down-right.svg"
+    },
+    {
       "name": "diamond-shape-arrow-left",
       "displayName": "Diamond Shape Arrow Left",
-      "category": "misc",
+      "category": "arrow",
       "tags": [],
       "aliases": [
         "left-arrow-shape-diamond",
@@ -6622,7 +6646,7 @@
     {
       "name": "diamond-shape-arrow-right",
       "displayName": "Diamond Shape Arrow Right",
-      "category": "misc",
+      "category": "arrow",
       "tags": [],
       "aliases": [
         "right-arrow-shape-diamond",
@@ -6639,49 +6663,9 @@
       "file": "diamond-shape-arrow-right.svg"
     },
     {
-      "name": "diamond-shape-arrow-tl",
-      "displayName": "Diamond Shape Arrow Top-Left",
-      "category": "misc",
-      "tags": [],
-      "aliases": [
-        "tl-arrow-shape-diamond",
-        "diamond-shape-arrow-up-left",
-        "rhombus-arrow-tl",
-        "diamond-frame-arrow-tl"
-      ],
-      "keywords": [
-        "diamond",
-        "shape",
-        "arrow",
-        "top-left",
-        "direction"
-      ],
-      "file": "diamond-shape-arrow-tl.svg"
-    },
-    {
-      "name": "diamond-shape-arrow-tr",
-      "displayName": "Diamond Shape Arrow Top-Right",
-      "category": "misc",
-      "tags": [],
-      "aliases": [
-        "tr-arrow-shape-diamond",
-        "diamond-shape-arrow-up-right",
-        "rhombus-arrow-tr",
-        "diamond-frame-arrow-tr"
-      ],
-      "keywords": [
-        "diamond",
-        "shape",
-        "arrow",
-        "top-right",
-        "direction"
-      ],
-      "file": "diamond-shape-arrow-tr.svg"
-    },
-    {
       "name": "diamond-shape-arrow-up",
       "displayName": "Diamond Shape Arrow Up",
-      "category": "misc",
+      "category": "arrow",
       "tags": [],
       "aliases": [
         "up-arrow-shape-diamond",
@@ -6698,9 +6682,49 @@
       "file": "diamond-shape-arrow-up.svg"
     },
     {
+      "name": "diamond-shape-arrow-up-left",
+      "displayName": "Diamond Shape Arrow Up-Left",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "tl-arrow-shape-diamond",
+        "rhombus-arrow-tl",
+        "diamond-frame-arrow-tl",
+        "diamond-shape-arrow-tl"
+      ],
+      "keywords": [
+        "diamond",
+        "shape",
+        "arrow",
+        "top-left",
+        "direction"
+      ],
+      "file": "diamond-shape-arrow-up-left.svg"
+    },
+    {
+      "name": "diamond-shape-arrow-up-right",
+      "displayName": "Diamond Shape Arrow Up-Right",
+      "category": "arrow",
+      "tags": [],
+      "aliases": [
+        "tr-arrow-shape-diamond",
+        "rhombus-arrow-tr",
+        "diamond-frame-arrow-tr",
+        "diamond-shape-arrow-tr"
+      ],
+      "keywords": [
+        "diamond",
+        "shape",
+        "arrow",
+        "top-right",
+        "direction"
+      ],
+      "file": "diamond-shape-arrow-up-right.svg"
+    },
+    {
       "name": "diamond-shape-check",
       "displayName": "Diamond Shape Check",
-      "category": "misc",
+      "category": "feedback",
       "tags": [],
       "aliases": [
         "confirmed-diamond-shape",
@@ -6719,7 +6743,7 @@
     {
       "name": "diamond-shape-close",
       "displayName": "Diamond Shape Close",
-      "category": "misc",
+      "category": "feedback",
       "tags": [],
       "aliases": [
         "cancel-diamond-shape",
@@ -6738,7 +6762,7 @@
     {
       "name": "diamond-shape-minus",
       "displayName": "Diamond Shape Minus",
-      "category": "misc",
+      "category": "feedback",
       "tags": [],
       "aliases": [
         "remove-diamond-shape",
@@ -6757,7 +6781,7 @@
     {
       "name": "diamond-shape-plus",
       "displayName": "Diamond Shape Plus",
-      "category": "misc",
+      "category": "feedback",
       "tags": [],
       "aliases": [
         "add-diamond-shape",
@@ -6776,7 +6800,7 @@
     {
       "name": "diamonds-poker",
       "displayName": "Diamonds Poker",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [
         "card-suit",
@@ -6794,7 +6818,7 @@
     {
       "name": "dice-1",
       "displayName": "Dice 1",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6810,7 +6834,7 @@
     {
       "name": "dice-2",
       "displayName": "Dice 2",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6826,7 +6850,7 @@
     {
       "name": "dice-3",
       "displayName": "Dice 3",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6842,7 +6866,7 @@
     {
       "name": "dice-4",
       "displayName": "Dice 4",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6858,7 +6882,7 @@
     {
       "name": "dice-5",
       "displayName": "Dice 5",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6874,7 +6898,7 @@
     {
       "name": "dice-6",
       "displayName": "Dice 6",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -6975,7 +6999,7 @@
     {
       "name": "dot",
       "displayName": "Dot",
-      "category": "misc",
+      "category": "shape",
       "tags": [
         "ui",
         "shape"
@@ -7168,7 +7192,7 @@
     {
       "name": "ear",
       "displayName": "Ear",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [
         "hearing",
@@ -7210,7 +7234,7 @@
     {
       "name": "edit-ai",
       "displayName": "Edit AI",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -8455,7 +8479,7 @@
     {
       "name": "flame",
       "displayName": "Flame",
-      "category": "misc",
+      "category": "weather",
       "tags": [],
       "aliases": [
         "fire"
@@ -8472,7 +8496,7 @@
     {
       "name": "flask",
       "displayName": "Flask",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [
         "erlenmeyer",
@@ -8493,7 +8517,7 @@
     {
       "name": "focus-1",
       "displayName": "Focus 1",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "viewfinder",
@@ -8511,7 +8535,7 @@
     {
       "name": "focus-2",
       "displayName": "Focus 2",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "viewfinder",
@@ -10071,7 +10095,7 @@
     {
       "name": "globe",
       "displayName": "Globe",
-      "category": "misc",
+      "category": "communication",
       "tags": [],
       "aliases": [
         "world",
@@ -10760,7 +10784,7 @@
     {
       "name": "hexagon",
       "displayName": "Hexagon",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "polygon",
@@ -11233,7 +11257,7 @@
     {
       "name": "life-buoy",
       "displayName": "Life Buoy",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [
         "lifebuoy",
@@ -12159,7 +12183,7 @@
     {
       "name": "milestone",
       "displayName": "Milestone",
-      "category": "misc",
+      "category": "time",
       "tags": [],
       "aliases": [
         "signpost",
@@ -12299,7 +12323,7 @@
     {
       "name": "moon",
       "displayName": "Moon",
-      "category": "action",
+      "category": "weather",
       "tags": [],
       "aliases": [
         "dark-mode",
@@ -12442,7 +12466,7 @@
     {
       "name": "package",
       "displayName": "Package",
-      "category": "commerce",
+      "category": "object",
       "tags": [],
       "aliases": [
         "box",
@@ -12572,7 +12596,7 @@
     {
       "name": "percent",
       "displayName": "Percent",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "percentage"
@@ -12893,7 +12917,7 @@
     {
       "name": "power",
       "displayName": "Power",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "on-off",
@@ -12937,7 +12961,7 @@
     {
       "name": "puzzle",
       "displayName": "Puzzle",
-      "category": "misc",
+      "category": "object",
       "tags": [],
       "aliases": [
         "jigsaw",
@@ -12959,7 +12983,7 @@
     {
       "name": "qr-code",
       "displayName": "QR Code",
-      "category": "misc",
+      "category": "dev",
       "tags": [],
       "aliases": [
         "qrcode",
@@ -12978,7 +13002,7 @@
     {
       "name": "quill",
       "displayName": "Quill",
-      "category": "nature",
+      "category": "action",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -12993,7 +13017,7 @@
     {
       "name": "quill-ai",
       "displayName": "Quill AI",
-      "category": "nature",
+      "category": "action",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -13008,7 +13032,7 @@
     {
       "name": "quill-line",
       "displayName": "Quill Line",
-      "category": "nature",
+      "category": "action",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -13023,7 +13047,7 @@
     {
       "name": "quill-squiggle",
       "displayName": "Quill Squiggle",
-      "category": "nature",
+      "category": "action",
       "tags": [],
       "aliases": [],
       "keywords": [
@@ -13038,7 +13062,7 @@
     {
       "name": "receipt",
       "displayName": "Receipt",
-      "category": "file",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "bill",
@@ -13513,41 +13537,6 @@
       "file": "rotate-left.svg"
     },
     {
-      "name": "rotate-left-squircle",
-      "displayName": "Rotate Left Squircle",
-      "category": "action",
-      "tags": [],
-      "aliases": [
-        "squircle-left-rotate",
-        "turn-left-squircle",
-        "spin-left-squircle"
-      ],
-      "keywords": [
-        "rotate",
-        "left",
-        "undo",
-        "counterclockwise"
-      ],
-      "file": "rotate-left-squircle.svg"
-    },
-    {
-      "name": "rotate-left-squircle-2",
-      "displayName": "Rotate Left Squircle 2",
-      "category": "action",
-      "tags": [],
-      "aliases": [
-        "2-squircle-left-rotate",
-        "turn-left-squircle",
-        "spin-left-squircle"
-      ],
-      "keywords": [
-        "rotate",
-        "left",
-        "alternate"
-      ],
-      "file": "rotate-left-squircle-2.svg"
-    },
-    {
       "name": "rotate-right",
       "displayName": "Rotate Right",
       "category": "action",
@@ -13570,14 +13559,52 @@
       "file": "rotate-right.svg"
     },
     {
-      "name": "rotate-right-squircle",
-      "displayName": "Rotate Right Squircle",
+      "name": "rotate-squircle-left",
+      "displayName": "Rotate Squircle Left",
+      "category": "action",
+      "tags": [],
+      "aliases": [
+        "squircle-left-rotate",
+        "turn-left-squircle",
+        "spin-left-squircle",
+        "rotate-left-squircle"
+      ],
+      "keywords": [
+        "rotate",
+        "left",
+        "undo",
+        "counterclockwise"
+      ],
+      "file": "rotate-squircle-left.svg"
+    },
+    {
+      "name": "rotate-squircle-left-2",
+      "displayName": "Rotate Squircle Left 2",
+      "category": "action",
+      "tags": [],
+      "aliases": [
+        "2-squircle-left-rotate",
+        "turn-left-squircle",
+        "spin-left-squircle",
+        "rotate-left-squircle-2"
+      ],
+      "keywords": [
+        "rotate",
+        "left",
+        "alternate"
+      ],
+      "file": "rotate-squircle-left-2.svg"
+    },
+    {
+      "name": "rotate-squircle-right",
+      "displayName": "Rotate Squircle Right",
       "category": "action",
       "tags": [],
       "aliases": [
         "squircle-right-rotate",
         "turn-right-squircle",
-        "spin-right-squircle"
+        "spin-right-squircle",
+        "rotate-right-squircle"
       ],
       "keywords": [
         "rotate",
@@ -13585,24 +13612,25 @@
         "redo",
         "clockwise"
       ],
-      "file": "rotate-right-squircle.svg"
+      "file": "rotate-squircle-right.svg"
     },
     {
-      "name": "rotate-right-squircle-2",
-      "displayName": "Rotate Right Squircle 2",
+      "name": "rotate-squircle-right-2",
+      "displayName": "Rotate Squircle Right 2",
       "category": "action",
       "tags": [],
       "aliases": [
         "2-squircle-right-rotate",
         "turn-right-squircle",
-        "spin-right-squircle"
+        "spin-right-squircle",
+        "rotate-right-squircle-2"
       ],
       "keywords": [
         "rotate",
         "right",
         "alternate"
       ],
-      "file": "rotate-right-squircle-2.svg"
+      "file": "rotate-squircle-right-2.svg"
     },
     {
       "name": "rows",
@@ -13864,7 +13892,7 @@
     {
       "name": "search-bar",
       "displayName": "Search Bar",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "seo",
@@ -14942,7 +14970,7 @@
     {
       "name": "signal",
       "displayName": "Signal",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "reception",
@@ -14960,7 +14988,7 @@
     {
       "name": "signal-high",
       "displayName": "Signal High",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "high-signal",
@@ -14978,7 +15006,7 @@
     {
       "name": "signal-low",
       "displayName": "Signal Low",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "low-signal",
@@ -14997,7 +15025,7 @@
     {
       "name": "signal-medium",
       "displayName": "Signal Medium",
-      "category": "misc",
+      "category": "device",
       "tags": [],
       "aliases": [
         "medium-signal",
@@ -15286,7 +15314,7 @@
     {
       "name": "square",
       "displayName": "Square",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "box",
@@ -15512,7 +15540,7 @@
     {
       "name": "sun",
       "displayName": "Sun",
-      "category": "action",
+      "category": "weather",
       "tags": [],
       "aliases": [
         "light-mode",
@@ -15582,7 +15610,7 @@
     {
       "name": "tag",
       "displayName": "Tag",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "label",
@@ -15599,7 +15627,7 @@
     {
       "name": "tag-check",
       "displayName": "Tag Check",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "confirmed-tag",
@@ -15616,7 +15644,7 @@
     {
       "name": "tag-close",
       "displayName": "Tag Close",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "cancel-tag",
@@ -15633,7 +15661,7 @@
     {
       "name": "tag-down",
       "displayName": "Tag Down",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "down-tag",
@@ -15650,7 +15678,7 @@
     {
       "name": "tag-left",
       "displayName": "Tag Left",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "left-tag",
@@ -15667,7 +15695,7 @@
     {
       "name": "tag-minus",
       "displayName": "Tag Minus",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "remove-tag",
@@ -15684,7 +15712,7 @@
     {
       "name": "tag-plus",
       "displayName": "Tag Plus",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "add-tag",
@@ -15701,7 +15729,7 @@
     {
       "name": "tag-right",
       "displayName": "Tag Right",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "right-tag",
@@ -15718,7 +15746,7 @@
     {
       "name": "tag-search",
       "displayName": "Tag Search",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "find-tag",
@@ -15735,7 +15763,7 @@
     {
       "name": "tag-up",
       "displayName": "Tag Up",
-      "category": "misc",
+      "category": "commerce",
       "tags": [],
       "aliases": [
         "up-tag",
@@ -15752,7 +15780,7 @@
     {
       "name": "target",
       "displayName": "Target",
-      "category": "misc",
+      "category": "action",
       "tags": [],
       "aliases": [
         "bullseye",
@@ -16130,7 +16158,7 @@
     {
       "name": "trending-up",
       "displayName": "Trending Up",
-      "category": "arrow",
+      "category": "chart",
       "tags": [],
       "aliases": [
         "growth",
@@ -16152,7 +16180,7 @@
     {
       "name": "triangle",
       "displayName": "Triangle",
-      "category": "misc",
+      "category": "shape",
       "tags": [],
       "aliases": [
         "delta"
