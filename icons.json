@@ -1,5 +1,10 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
+  "releases": {
+    "0.1.0": "2026-10-01",
+    "0.2.0": "2026-10-03",
+    "0.3.0": "2026-10-05"
+  },
   "icons": [
     {
       "name": "activity",
@@ -19,7 +24,8 @@
         "monitor",
         "motion"
       ],
-      "file": "activity.svg"
+      "file": "activity.svg",
+      "added": "0.1.0"
     },
     {
       "name": "alarm-clock-1",
@@ -37,7 +43,8 @@
         "timer",
         "ring"
       ],
-      "file": "alarm-clock-1.svg"
+      "file": "alarm-clock-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "alarm-clock-2",
@@ -55,7 +62,8 @@
         "timer",
         "ring"
       ],
-      "file": "alarm-clock-2.svg"
+      "file": "alarm-clock-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "alert-circle",
@@ -79,7 +87,8 @@
         "caution",
         "error-state"
       ],
-      "file": "alert-circle.svg"
+      "file": "alert-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "alert-squircle",
@@ -98,7 +107,8 @@
         "warning",
         "alert"
       ],
-      "file": "alert-squircle.svg"
+      "file": "alert-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "alert-triangle",
@@ -122,7 +132,8 @@
         "error-state",
         "attention"
       ],
-      "file": "alert-triangle.svg"
+      "file": "alert-triangle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-bottom",
@@ -141,7 +152,8 @@
         "bottom",
         "distribute"
       ],
-      "file": "align-bottom.svg"
+      "file": "align-bottom.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-center-horizontal",
@@ -160,7 +172,8 @@
         "center",
         "distribute"
       ],
-      "file": "align-center-horizontal.svg"
+      "file": "align-center-horizontal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-center-vertical",
@@ -179,7 +192,8 @@
         "center",
         "distribute"
       ],
-      "file": "align-center-vertical.svg"
+      "file": "align-center-vertical.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-left",
@@ -198,7 +212,8 @@
         "left",
         "distribute"
       ],
-      "file": "align-left.svg"
+      "file": "align-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-right",
@@ -217,7 +232,8 @@
         "right",
         "distribute"
       ],
-      "file": "align-right.svg"
+      "file": "align-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "align-top",
@@ -236,7 +252,8 @@
         "top",
         "distribute"
       ],
-      "file": "align-top.svg"
+      "file": "align-top.svg",
+      "added": "0.1.0"
     },
     {
       "name": "anchor",
@@ -258,7 +275,8 @@
         "hold",
         "stable"
       ],
-      "file": "anchor.svg"
+      "file": "anchor.svg",
+      "added": "0.1.0"
     },
     {
       "name": "archive",
@@ -280,7 +298,8 @@
         "put away",
         "file away"
       ],
-      "file": "archive.svg"
+      "file": "archive.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-down",
@@ -300,7 +319,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-down.svg"
+      "file": "arrow-circle-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-down-left",
@@ -321,7 +341,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-down-left.svg"
+      "file": "arrow-circle-down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-down-right",
@@ -342,7 +363,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-down-right.svg"
+      "file": "arrow-circle-down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-left",
@@ -362,7 +384,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-left.svg"
+      "file": "arrow-circle-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-right",
@@ -382,7 +405,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-right.svg"
+      "file": "arrow-circle-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-up",
@@ -402,7 +426,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-up.svg"
+      "file": "arrow-circle-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-up-left",
@@ -423,7 +448,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-up-left.svg"
+      "file": "arrow-circle-up-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-circle-up-right",
@@ -444,7 +470,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-circle-up-right.svg"
+      "file": "arrow-circle-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-diagonal-1",
@@ -460,7 +487,8 @@
         "expand",
         "corner-drag"
       ],
-      "file": "arrow-diagonal-1.svg"
+      "file": "arrow-diagonal-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-down",
@@ -482,7 +510,8 @@
         "bottom",
         "scroll-to-bottom"
       ],
-      "file": "arrow-down.svg"
+      "file": "arrow-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-down-left",
@@ -504,7 +533,8 @@
         "down-left",
         "southwest"
       ],
-      "file": "arrow-down-left.svg"
+      "file": "arrow-down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-down-right",
@@ -526,7 +556,8 @@
         "down-right",
         "southeast"
       ],
-      "file": "arrow-down-right.svg"
+      "file": "arrow-down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-down-to-line",
@@ -550,7 +581,8 @@
         "download",
         "save"
       ],
-      "file": "arrow-down-to-line.svg"
+      "file": "arrow-down-to-line.svg",
+      "added": "0.3.0"
     },
     {
       "name": "arrow-left",
@@ -571,7 +603,8 @@
         "previous",
         "return"
       ],
-      "file": "arrow-left.svg"
+      "file": "arrow-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-left-right",
@@ -589,7 +622,8 @@
         "swap",
         "resize"
       ],
-      "file": "arrow-left-right.svg"
+      "file": "arrow-left-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-left-to-line",
@@ -613,7 +647,8 @@
         "first",
         "skip-back"
       ],
-      "file": "arrow-left-to-line.svg"
+      "file": "arrow-left-to-line.svg",
+      "added": "0.3.0"
     },
     {
       "name": "arrow-right",
@@ -634,7 +669,8 @@
         "next",
         "continue"
       ],
-      "file": "arrow-right.svg"
+      "file": "arrow-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-right-to-line",
@@ -658,7 +694,8 @@
         "last",
         "skip-forward"
       ],
-      "file": "arrow-right-to-line.svg"
+      "file": "arrow-right-to-line.svg",
+      "added": "0.3.0"
     },
     {
       "name": "arrow-small-down",
@@ -673,7 +710,8 @@
         "download",
         "lower"
       ],
-      "file": "arrow-small-down.svg"
+      "file": "arrow-small-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-down-left",
@@ -691,7 +729,8 @@
         "back",
         "previous"
       ],
-      "file": "arrow-small-down-left.svg"
+      "file": "arrow-small-down-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-down-right",
@@ -709,7 +748,8 @@
         "forward",
         "next"
       ],
-      "file": "arrow-small-down-right.svg"
+      "file": "arrow-small-down-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-left",
@@ -724,7 +764,8 @@
         "back",
         "previous"
       ],
-      "file": "arrow-small-left.svg"
+      "file": "arrow-small-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-right",
@@ -739,7 +780,8 @@
         "forward",
         "next"
       ],
-      "file": "arrow-small-right.svg"
+      "file": "arrow-small-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-up",
@@ -754,7 +796,8 @@
         "upload",
         "raise"
       ],
-      "file": "arrow-small-up.svg"
+      "file": "arrow-small-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-up-left",
@@ -772,7 +815,8 @@
         "back",
         "previous"
       ],
-      "file": "arrow-small-up-left.svg"
+      "file": "arrow-small-up-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-small-up-right",
@@ -790,7 +834,8 @@
         "forward",
         "next"
       ],
-      "file": "arrow-small-up-right.svg"
+      "file": "arrow-small-up-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "arrow-squircle-down",
@@ -810,7 +855,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-down.svg"
+      "file": "arrow-squircle-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-down-left",
@@ -831,7 +877,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-down-left.svg"
+      "file": "arrow-squircle-down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-down-right",
@@ -852,7 +899,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-down-right.svg"
+      "file": "arrow-squircle-down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-left",
@@ -872,7 +920,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-left.svg"
+      "file": "arrow-squircle-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-right",
@@ -892,7 +941,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-right.svg"
+      "file": "arrow-squircle-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-up",
@@ -912,7 +962,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-up.svg"
+      "file": "arrow-squircle-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-up-left",
@@ -933,7 +984,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-up-left.svg"
+      "file": "arrow-squircle-up-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-squircle-up-right",
@@ -954,7 +1006,8 @@
         "direction",
         "badge"
       ],
-      "file": "arrow-squircle-up-right.svg"
+      "file": "arrow-squircle-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-up",
@@ -976,7 +1029,8 @@
         "top",
         "scroll-to-top"
       ],
-      "file": "arrow-up.svg"
+      "file": "arrow-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-up-down",
@@ -994,7 +1048,8 @@
         "swap",
         "resize"
       ],
-      "file": "arrow-up-down.svg"
+      "file": "arrow-up-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-up-left",
@@ -1016,7 +1071,8 @@
         "up-left",
         "northwest"
       ],
-      "file": "arrow-up-left.svg"
+      "file": "arrow-up-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-up-right",
@@ -1041,7 +1097,8 @@
         "northeast",
         "increase"
       ],
-      "file": "arrow-up-right.svg"
+      "file": "arrow-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "arrow-up-to-line",
@@ -1065,7 +1122,8 @@
         "scroll-to-top",
         "upload"
       ],
-      "file": "arrow-up-to-line.svg"
+      "file": "arrow-up-to-line.svg",
+      "added": "0.3.0"
     },
     {
       "name": "aspect-ratio",
@@ -1084,7 +1142,8 @@
         "resize",
         "crop"
       ],
-      "file": "aspect-ratio.svg"
+      "file": "aspect-ratio.svg",
+      "added": "0.1.0"
     },
     {
       "name": "aspect-ratio-2",
@@ -1103,7 +1162,8 @@
         "resize",
         "frame-in-frame"
       ],
-      "file": "aspect-ratio-2.svg"
+      "file": "aspect-ratio-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "asterisk",
@@ -1123,7 +1183,8 @@
         "footnote",
         "multiply"
       ],
-      "file": "asterisk.svg"
+      "file": "asterisk.svg",
+      "added": "0.1.0"
     },
     {
       "name": "at-sign",
@@ -1146,7 +1207,8 @@
         "tag",
         "reply"
       ],
-      "file": "at-sign.svg"
+      "file": "at-sign.svg",
+      "added": "0.1.0"
     },
     {
       "name": "award",
@@ -1168,7 +1230,8 @@
         "badge",
         "rosette"
       ],
-      "file": "award.svg"
+      "file": "award.svg",
+      "added": "0.1.0"
     },
     {
       "name": "banknote",
@@ -1191,7 +1254,8 @@
         "dollar",
         "banknote"
       ],
-      "file": "banknote.svg"
+      "file": "banknote.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bar-chart",
@@ -1213,7 +1277,8 @@
         "report",
         "data"
       ],
-      "file": "bar-chart.svg"
+      "file": "bar-chart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "battery-charging",
@@ -1230,7 +1295,8 @@
         "lightning",
         "plug"
       ],
-      "file": "battery-charging.svg"
+      "file": "battery-charging.svg",
+      "added": "0.1.0"
     },
     {
       "name": "battery-empty",
@@ -1247,7 +1313,8 @@
         "dead",
         "power"
       ],
-      "file": "battery-empty.svg"
+      "file": "battery-empty.svg",
+      "added": "0.1.0"
     },
     {
       "name": "battery-full",
@@ -1264,7 +1331,8 @@
         "charged",
         "power"
       ],
-      "file": "battery-full.svg"
+      "file": "battery-full.svg",
+      "added": "0.1.0"
     },
     {
       "name": "battery-low",
@@ -1281,7 +1349,8 @@
         "warning",
         "power"
       ],
-      "file": "battery-low.svg"
+      "file": "battery-low.svg",
+      "added": "0.1.0"
     },
     {
       "name": "battery-medium",
@@ -1298,7 +1367,8 @@
         "half",
         "power"
       ],
-      "file": "battery-medium.svg"
+      "file": "battery-medium.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bed",
@@ -1320,7 +1390,8 @@
         "furniture",
         "lodging"
       ],
-      "file": "bed.svg"
+      "file": "bed.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bed-2",
@@ -1335,7 +1406,8 @@
         "hotel",
         "side view"
       ],
-      "file": "bed-2.svg"
+      "file": "bed-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bell",
@@ -1361,7 +1433,8 @@
         "chime",
         "clapper"
       ],
-      "file": "bell.svg"
+      "file": "bell.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-check",
@@ -1390,7 +1463,8 @@
         "subscribed",
         "badge"
       ],
-      "file": "bell-check.svg"
+      "file": "bell-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-close",
@@ -1412,7 +1486,8 @@
         "delete-alert",
         "cancel-subscription"
       ],
-      "file": "bell-close.svg"
+      "file": "bell-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-dot",
@@ -1441,7 +1516,8 @@
         "dot",
         "indicator"
       ],
-      "file": "bell-dot.svg"
+      "file": "bell-dot.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-edit",
@@ -1458,7 +1534,8 @@
         "notification",
         "edit"
       ],
-      "file": "bell-edit.svg"
+      "file": "bell-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-exclamation",
@@ -1475,7 +1552,8 @@
         "notification",
         "exclamation"
       ],
-      "file": "bell-exclamation.svg"
+      "file": "bell-exclamation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-forbid",
@@ -1490,7 +1568,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "bell-forbid.svg"
+      "file": "bell-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bell-info",
@@ -1507,7 +1586,8 @@
         "notification",
         "info"
       ],
-      "file": "bell-info.svg"
+      "file": "bell-info.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-minus",
@@ -1528,7 +1608,8 @@
         "reduce-alerts",
         "less-notifications"
       ],
-      "file": "bell-minus.svg"
+      "file": "bell-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-off",
@@ -1557,7 +1638,8 @@
         "slash",
         "alert"
       ],
-      "file": "bell-off.svg"
+      "file": "bell-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-pause",
@@ -1574,7 +1656,8 @@
         "notification",
         "pause"
       ],
-      "file": "bell-pause.svg"
+      "file": "bell-pause.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-plus",
@@ -1597,7 +1680,8 @@
         "add-alert",
         "new-notification-type"
       ],
-      "file": "bell-plus.svg"
+      "file": "bell-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-refresh",
@@ -1612,7 +1696,8 @@
         "sync",
         "update"
       ],
-      "file": "bell-refresh.svg"
+      "file": "bell-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bell-ring",
@@ -1642,7 +1727,8 @@
         "swoosh",
         "sound-wave"
       ],
-      "file": "bell-ring.svg"
+      "file": "bell-ring.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-settings",
@@ -1659,7 +1745,8 @@
         "notification",
         "settings"
       ],
-      "file": "bell-settings.svg"
+      "file": "bell-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-snooze",
@@ -1690,7 +1777,8 @@
         "temporary",
         "alarm"
       ],
-      "file": "bell-snooze.svg"
+      "file": "bell-snooze.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-sparkle",
@@ -1707,7 +1795,8 @@
         "notification",
         "sparkle"
       ],
-      "file": "bell-sparkle.svg"
+      "file": "bell-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bell-star",
@@ -1724,7 +1813,8 @@
         "notification",
         "star"
       ],
-      "file": "bell-star.svg"
+      "file": "bell-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bike",
@@ -1744,7 +1834,8 @@
         "transport",
         "commute"
       ],
-      "file": "bike.svg"
+      "file": "bike.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bluetooth",
@@ -1761,7 +1852,8 @@
         "pairing",
         "connect"
       ],
-      "file": "bluetooth.svg"
+      "file": "bluetooth.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bluetooth-searching",
@@ -1780,7 +1872,8 @@
         "scan",
         "discover"
       ],
-      "file": "bluetooth-searching.svg"
+      "file": "bluetooth-searching.svg",
+      "added": "0.1.0"
     },
     {
       "name": "book",
@@ -1801,7 +1894,8 @@
         "guide",
         "novel"
       ],
-      "file": "book.svg"
+      "file": "book.svg",
+      "added": "0.1.0"
     },
     {
       "name": "book-open-1",
@@ -1822,7 +1916,8 @@
         "guide",
         "manual"
       ],
-      "file": "book-open-1.svg"
+      "file": "book-open-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "book-open-2",
@@ -1843,7 +1938,8 @@
         "guide",
         "manual"
       ],
-      "file": "book-open-2.svg"
+      "file": "book-open-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bookmark",
@@ -1868,7 +1964,8 @@
         "favorite",
         "page-marker"
       ],
-      "file": "bookmark.svg"
+      "file": "bookmark.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bot",
@@ -1889,7 +1986,8 @@
         "chatbot",
         "android"
       ],
-      "file": "bot.svg"
+      "file": "bot.svg",
+      "added": "0.2.0"
     },
     {
       "name": "briefcase",
@@ -1910,7 +2008,8 @@
         "bag",
         "portfolio"
       ],
-      "file": "briefcase.svg"
+      "file": "briefcase.svg",
+      "added": "0.1.0"
     },
     {
       "name": "bug",
@@ -1930,7 +2029,8 @@
         "beetle",
         "issue"
       ],
-      "file": "bug.svg"
+      "file": "bug.svg",
+      "added": "0.2.0"
     },
     {
       "name": "bus",
@@ -1950,7 +2050,8 @@
         "vehicle",
         "travel"
       ],
-      "file": "bus.svg"
+      "file": "bus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar",
@@ -1968,7 +2069,8 @@
         "schedule",
         "month"
       ],
-      "file": "calendar.svg"
+      "file": "calendar.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-2",
@@ -1987,7 +2089,8 @@
         "dots",
         "events"
       ],
-      "file": "calendar-2.svg"
+      "file": "calendar-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-add",
@@ -2004,7 +2107,8 @@
         "add",
         "new-event"
       ],
-      "file": "calendar-add.svg"
+      "file": "calendar-add.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-backward",
@@ -2022,7 +2126,8 @@
         "previous-month",
         "previous-week"
       ],
-      "file": "calendar-backward.svg"
+      "file": "calendar-backward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-cancel",
@@ -2040,7 +2145,8 @@
         "dismiss",
         "remove-event"
       ],
-      "file": "calendar-cancel.svg"
+      "file": "calendar-cancel.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-check",
@@ -2058,7 +2164,8 @@
         "scheduled",
         "done"
       ],
-      "file": "calendar-check.svg"
+      "file": "calendar-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-close",
@@ -2076,7 +2183,8 @@
         "dismiss",
         "remove-event"
       ],
-      "file": "calendar-close.svg"
+      "file": "calendar-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-complete",
@@ -2094,7 +2202,8 @@
         "complete",
         "confirmed"
       ],
-      "file": "calendar-complete.svg"
+      "file": "calendar-complete.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-create-event",
@@ -2113,7 +2222,8 @@
         "add-event",
         "new-appointment"
       ],
-      "file": "calendar-create-event.svg"
+      "file": "calendar-create-event.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-delete-event",
@@ -2132,7 +2242,8 @@
         "remove-event",
         "cancel-appointment"
       ],
-      "file": "calendar-delete-event.svg"
+      "file": "calendar-delete-event.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-edit",
@@ -2147,7 +2258,8 @@
         "modify",
         "write"
       ],
-      "file": "calendar-edit.svg"
+      "file": "calendar-edit.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-event",
@@ -2165,7 +2277,8 @@
         "appointment",
         "date-marked"
       ],
-      "file": "calendar-event.svg"
+      "file": "calendar-event.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-exclamation",
@@ -2180,7 +2293,8 @@
         "alert",
         "attention"
       ],
-      "file": "calendar-exclamation.svg"
+      "file": "calendar-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-export",
@@ -2197,7 +2311,8 @@
         "export",
         "download-events"
       ],
-      "file": "calendar-export.svg"
+      "file": "calendar-export.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-forward",
@@ -2215,7 +2330,8 @@
         "next-month",
         "next-week"
       ],
-      "file": "calendar-forward.svg"
+      "file": "calendar-forward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-import",
@@ -2232,7 +2348,8 @@
         "import",
         "add-events"
       ],
-      "file": "calendar-import.svg"
+      "file": "calendar-import.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-lock",
@@ -2247,7 +2364,8 @@
         "private",
         "locked"
       ],
-      "file": "calendar-lock.svg"
+      "file": "calendar-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-minus",
@@ -2264,7 +2382,8 @@
         "remove",
         "delete-event"
       ],
-      "file": "calendar-minus.svg"
+      "file": "calendar-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-plus",
@@ -2282,7 +2401,8 @@
         "new-event",
         "schedule"
       ],
-      "file": "calendar-plus.svg"
+      "file": "calendar-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-refresh",
@@ -2297,7 +2417,8 @@
         "sync",
         "update"
       ],
-      "file": "calendar-refresh.svg"
+      "file": "calendar-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-remove",
@@ -2314,7 +2435,8 @@
         "remove",
         "delete-event"
       ],
-      "file": "calendar-remove.svg"
+      "file": "calendar-remove.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-search",
@@ -2331,7 +2453,8 @@
         "search",
         "find-event"
       ],
-      "file": "calendar-search.svg"
+      "file": "calendar-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-search-event",
@@ -2349,7 +2472,8 @@
         "search",
         "find-event"
       ],
-      "file": "calendar-search-event.svg"
+      "file": "calendar-search-event.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-share",
@@ -2366,7 +2490,8 @@
         "share",
         "invite"
       ],
-      "file": "calendar-share.svg"
+      "file": "calendar-share.svg",
+      "added": "0.1.0"
     },
     {
       "name": "calendar-sparkle",
@@ -2381,7 +2506,8 @@
         "magic",
         "generate"
       ],
-      "file": "calendar-sparkle.svg"
+      "file": "calendar-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-star",
@@ -2395,7 +2521,8 @@
         "favorite",
         "rating"
       ],
-      "file": "calendar-star.svg"
+      "file": "calendar-star.svg",
+      "added": "0.2.0"
     },
     {
       "name": "calendar-user",
@@ -2410,7 +2537,8 @@
         "profile",
         "account"
       ],
-      "file": "calendar-user.svg"
+      "file": "calendar-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "camera",
@@ -2432,7 +2560,8 @@
         "lens",
         "photography"
       ],
-      "file": "camera.svg"
+      "file": "camera.svg",
+      "added": "0.1.0"
     },
     {
       "name": "camera-off",
@@ -2459,7 +2588,8 @@
         "capture",
         "shoot"
       ],
-      "file": "camera-off.svg"
+      "file": "camera-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "car",
@@ -2480,7 +2610,8 @@
         "travel",
         "trip"
       ],
-      "file": "car.svg"
+      "file": "car.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cast",
@@ -2500,7 +2631,8 @@
         "broadcast",
         "screen"
       ],
-      "file": "cast.svg"
+      "file": "cast.svg",
+      "added": "0.2.0"
     },
     {
       "name": "chat",
@@ -2522,7 +2654,8 @@
         "comment",
         "speech"
       ],
-      "file": "chat.svg"
+      "file": "chat.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-bookmark",
@@ -2539,7 +2672,8 @@
         "message",
         "bookmark"
       ],
-      "file": "chat-bookmark.svg"
+      "file": "chat-bookmark.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-check",
@@ -2560,7 +2694,8 @@
         "approved",
         "done"
       ],
-      "file": "chat-check.svg"
+      "file": "chat-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-check-2",
@@ -2581,7 +2716,8 @@
         "done",
         "closed"
       ],
-      "file": "chat-check-2.svg"
+      "file": "chat-check-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-code",
@@ -2602,7 +2738,8 @@
         "developer",
         "syntax"
       ],
-      "file": "chat-code.svg"
+      "file": "chat-code.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-data",
@@ -2621,7 +2758,8 @@
         "stats",
         "message-insights"
       ],
-      "file": "chat-data.svg"
+      "file": "chat-data.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-dictation",
@@ -2643,7 +2781,8 @@
         "waveform",
         "speech-to-text"
       ],
-      "file": "chat-dictation.svg"
+      "file": "chat-dictation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-dictation-ai",
@@ -2659,7 +2798,8 @@
         "sparkle",
         "speech to text"
       ],
-      "file": "chat-dictation-ai.svg"
+      "file": "chat-dictation-ai.svg",
+      "added": "0.2.0"
     },
     {
       "name": "chat-download",
@@ -2680,7 +2820,8 @@
         "download",
         "archive"
       ],
-      "file": "chat-download.svg"
+      "file": "chat-download.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-edit",
@@ -2697,7 +2838,8 @@
         "message",
         "edit"
       ],
-      "file": "chat-edit.svg"
+      "file": "chat-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-exclamation",
@@ -2714,7 +2856,8 @@
         "message",
         "exclamation"
       ],
-      "file": "chat-exclamation.svg"
+      "file": "chat-exclamation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-export",
@@ -2735,7 +2878,8 @@
         "external-link",
         "extract"
       ],
-      "file": "chat-export.svg"
+      "file": "chat-export.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-forward",
@@ -2756,7 +2900,8 @@
         "resend",
         "share"
       ],
-      "file": "chat-forward.svg"
+      "file": "chat-forward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-heart",
@@ -2773,7 +2918,8 @@
         "message",
         "heart"
       ],
-      "file": "chat-heart.svg"
+      "file": "chat-heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-info",
@@ -2790,7 +2936,8 @@
         "message",
         "info"
       ],
-      "file": "chat-info.svg"
+      "file": "chat-info.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-key",
@@ -2815,7 +2962,8 @@
         "secret",
         "password"
       ],
-      "file": "chat-key.svg"
+      "file": "chat-key.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-lock",
@@ -2832,7 +2980,8 @@
         "message",
         "lock"
       ],
-      "file": "chat-lock.svg"
+      "file": "chat-lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-message",
@@ -2853,7 +3002,8 @@
         "dots",
         "ellipsis"
       ],
-      "file": "chat-message.svg"
+      "file": "chat-message.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-message-read",
@@ -2874,7 +3024,8 @@
         "receipt",
         "delivered"
       ],
-      "file": "chat-message-read.svg"
+      "file": "chat-message-read.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-minus",
@@ -2894,7 +3045,8 @@
         "minimize",
         "reduce"
       ],
-      "file": "chat-minus.svg"
+      "file": "chat-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-notification",
@@ -2915,7 +3067,8 @@
         "new-message",
         "alert"
       ],
-      "file": "chat-notification.svg"
+      "file": "chat-notification.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-off",
@@ -2934,7 +3087,8 @@
         "disabled",
         "off"
       ],
-      "file": "chat-off.svg"
+      "file": "chat-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-pin",
@@ -2951,7 +3105,8 @@
         "message",
         "pin"
       ],
-      "file": "chat-pin.svg"
+      "file": "chat-pin.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-plus",
@@ -2972,7 +3127,8 @@
         "start",
         "compose"
       ],
-      "file": "chat-plus.svg"
+      "file": "chat-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-question",
@@ -2989,7 +3145,8 @@
         "message",
         "question"
       ],
-      "file": "chat-question.svg"
+      "file": "chat-question.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-quote",
@@ -3004,7 +3161,8 @@
         "citation",
         "marks"
       ],
-      "file": "chat-quote.svg"
+      "file": "chat-quote.svg",
+      "added": "0.2.0"
     },
     {
       "name": "chat-refresh",
@@ -3030,7 +3188,8 @@
         "rotate",
         "retry"
       ],
-      "file": "chat-refresh.svg"
+      "file": "chat-refresh.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-reply",
@@ -3050,7 +3209,8 @@
         "respond",
         "answer"
       ],
-      "file": "chat-reply.svg"
+      "file": "chat-reply.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-search",
@@ -3070,7 +3230,8 @@
         "search",
         "lookup"
       ],
-      "file": "chat-search.svg"
+      "file": "chat-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-settings",
@@ -3087,7 +3248,8 @@
         "message",
         "settings"
       ],
-      "file": "chat-settings.svg"
+      "file": "chat-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-shield",
@@ -3113,7 +3275,8 @@
         "guard",
         "security"
       ],
-      "file": "chat-shield.svg"
+      "file": "chat-shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-snooze",
@@ -3134,7 +3297,8 @@
         "pause",
         "later"
       ],
-      "file": "chat-snooze.svg"
+      "file": "chat-snooze.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-sparkle",
@@ -3151,7 +3315,8 @@
         "message",
         "sparkle"
       ],
-      "file": "chat-sparkle.svg"
+      "file": "chat-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-star",
@@ -3168,7 +3333,8 @@
         "message",
         "star"
       ],
-      "file": "chat-star.svg"
+      "file": "chat-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-text",
@@ -3187,7 +3353,8 @@
         "comment",
         "bubble"
       ],
-      "file": "chat-text.svg"
+      "file": "chat-text.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-upload",
@@ -3207,7 +3374,8 @@
         "upload",
         "send"
       ],
-      "file": "chat-upload.svg"
+      "file": "chat-upload.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-user",
@@ -3224,7 +3392,8 @@
         "message",
         "user"
       ],
-      "file": "chat-user.svg"
+      "file": "chat-user.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chat-x",
@@ -3239,7 +3408,8 @@
         "delete",
         "cancel"
       ],
-      "file": "chat-x.svg"
+      "file": "chat-x.svg",
+      "added": "0.2.0"
     },
     {
       "name": "check",
@@ -3261,7 +3431,8 @@
         "approve",
         "success"
       ],
-      "file": "check.svg"
+      "file": "check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "check-circle",
@@ -3288,7 +3459,8 @@
         "approved",
         "ok"
       ],
-      "file": "check-circle.svg"
+      "file": "check-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "check-circle-dashed",
@@ -3309,7 +3481,8 @@
         "partial",
         "in-progress"
       ],
-      "file": "check-circle-dashed.svg"
+      "file": "check-circle-dashed.svg",
+      "added": "0.1.0"
     },
     {
       "name": "check-squircle",
@@ -3329,7 +3502,8 @@
         "success",
         "done"
       ],
-      "file": "check-squircle.svg"
+      "file": "check-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-circle-down",
@@ -3348,7 +3522,8 @@
         "collapse",
         "expand-toggle"
       ],
-      "file": "chevron-circle-down.svg"
+      "file": "chevron-circle-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-circle-left",
@@ -3366,7 +3541,8 @@
         "left",
         "previous"
       ],
-      "file": "chevron-circle-left.svg"
+      "file": "chevron-circle-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-circle-right",
@@ -3384,7 +3560,8 @@
         "right",
         "next"
       ],
-      "file": "chevron-circle-right.svg"
+      "file": "chevron-circle-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-circle-up",
@@ -3403,7 +3580,8 @@
         "collapse",
         "expand-toggle"
       ],
-      "file": "chevron-circle-up.svg"
+      "file": "chevron-circle-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-down",
@@ -3423,7 +3601,8 @@
         "dropdown",
         "disclosure"
       ],
-      "file": "chevron-down.svg"
+      "file": "chevron-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-left",
@@ -3442,7 +3621,8 @@
         "previous",
         "disclosure"
       ],
-      "file": "chevron-left.svg"
+      "file": "chevron-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-right",
@@ -3464,7 +3644,8 @@
         "more",
         "disclosure"
       ],
-      "file": "chevron-right.svg"
+      "file": "chevron-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-small-down",
@@ -3483,7 +3664,8 @@
         "expand",
         "compact"
       ],
-      "file": "chevron-small-down.svg"
+      "file": "chevron-small-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-small-left",
@@ -3503,7 +3685,8 @@
         "back",
         "compact"
       ],
-      "file": "chevron-small-left.svg"
+      "file": "chevron-small-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-small-right",
@@ -3523,7 +3706,8 @@
         "forward",
         "compact"
       ],
-      "file": "chevron-small-right.svg"
+      "file": "chevron-small-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-small-up",
@@ -3542,7 +3726,8 @@
         "collapse",
         "compact"
       ],
-      "file": "chevron-small-up.svg"
+      "file": "chevron-small-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-squircle-down",
@@ -3560,7 +3745,8 @@
         "down",
         "expand"
       ],
-      "file": "chevron-squircle-down.svg"
+      "file": "chevron-squircle-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-squircle-left",
@@ -3578,7 +3764,8 @@
         "left",
         "previous"
       ],
-      "file": "chevron-squircle-left.svg"
+      "file": "chevron-squircle-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-squircle-right",
@@ -3596,7 +3783,8 @@
         "right",
         "next"
       ],
-      "file": "chevron-squircle-right.svg"
+      "file": "chevron-squircle-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-squircle-up",
@@ -3614,7 +3802,8 @@
         "up",
         "collapse"
       ],
-      "file": "chevron-squircle-up.svg"
+      "file": "chevron-squircle-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevron-up",
@@ -3634,7 +3823,8 @@
         "previous",
         "disclosure"
       ],
-      "file": "chevron-up.svg"
+      "file": "chevron-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-down",
@@ -3653,7 +3843,8 @@
         "expand-all",
         "jump-down"
       ],
-      "file": "chevrons-down.svg"
+      "file": "chevrons-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-left",
@@ -3674,7 +3865,8 @@
         "previous-page",
         "jump-back"
       ],
-      "file": "chevrons-left.svg"
+      "file": "chevrons-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-right",
@@ -3695,7 +3887,8 @@
         "next-page",
         "jump-forward"
       ],
-      "file": "chevrons-right.svg"
+      "file": "chevrons-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-small-down",
@@ -3712,7 +3905,8 @@
         "scroll-to-bottom",
         "compact"
       ],
-      "file": "chevrons-small-down.svg"
+      "file": "chevrons-small-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-small-left",
@@ -3729,7 +3923,8 @@
         "rewind",
         "compact"
       ],
-      "file": "chevrons-small-left.svg"
+      "file": "chevrons-small-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-small-right",
@@ -3746,7 +3941,8 @@
         "fast-forward",
         "compact"
       ],
-      "file": "chevrons-small-right.svg"
+      "file": "chevrons-small-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-small-up",
@@ -3763,7 +3959,8 @@
         "scroll-to-top",
         "compact"
       ],
-      "file": "chevrons-small-up.svg"
+      "file": "chevrons-small-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "chevrons-up",
@@ -3782,7 +3979,8 @@
         "collapse-all",
         "jump-up"
       ],
-      "file": "chevrons-up.svg"
+      "file": "chevrons-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "circle",
@@ -3804,7 +4002,8 @@
         "primitive",
         "oval"
       ],
-      "file": "circle.svg"
+      "file": "circle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clapperboard",
@@ -3826,7 +4025,8 @@
         "production",
         "action"
       ],
-      "file": "clapperboard.svg"
+      "file": "clapperboard.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard",
@@ -3843,7 +4043,8 @@
         "copy",
         "board"
       ],
-      "file": "clipboard.svg"
+      "file": "clipboard.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-check",
@@ -3861,7 +4062,8 @@
         "done",
         "task"
       ],
-      "file": "clipboard-check.svg"
+      "file": "clipboard-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-close",
@@ -3878,7 +4080,8 @@
         "cancel",
         "dismiss"
       ],
-      "file": "clipboard-close.svg"
+      "file": "clipboard-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-code",
@@ -3892,7 +4095,8 @@
         "developer",
         "source"
       ],
-      "file": "clipboard-code.svg"
+      "file": "clipboard-code.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-data",
@@ -3906,7 +4110,8 @@
         "chart",
         "stats"
       ],
-      "file": "clipboard-data.svg"
+      "file": "clipboard-data.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-down",
@@ -3923,7 +4128,8 @@
         "download",
         "paste-down"
       ],
-      "file": "clipboard-down.svg"
+      "file": "clipboard-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-edit",
@@ -3938,7 +4144,8 @@
         "modify",
         "write"
       ],
-      "file": "clipboard-edit.svg"
+      "file": "clipboard-edit.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-exclamation",
@@ -3953,7 +4160,8 @@
         "alert",
         "attention"
       ],
-      "file": "clipboard-exclamation.svg"
+      "file": "clipboard-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-forbid",
@@ -3968,7 +4176,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "clipboard-forbid.svg"
+      "file": "clipboard-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-info",
@@ -3982,7 +4191,8 @@
         "information",
         "details"
       ],
-      "file": "clipboard-info.svg"
+      "file": "clipboard-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-left",
@@ -4000,7 +4210,8 @@
         "previous",
         "left"
       ],
-      "file": "clipboard-left.svg"
+      "file": "clipboard-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-lock",
@@ -4015,7 +4226,8 @@
         "private",
         "locked"
       ],
-      "file": "clipboard-lock.svg"
+      "file": "clipboard-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-minus",
@@ -4032,7 +4244,8 @@
         "remove",
         "subtract"
       ],
-      "file": "clipboard-minus.svg"
+      "file": "clipboard-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-plus",
@@ -4049,7 +4262,8 @@
         "add",
         "new"
       ],
-      "file": "clipboard-plus.svg"
+      "file": "clipboard-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-question",
@@ -4063,7 +4277,8 @@
         "help",
         "unknown"
       ],
-      "file": "clipboard-question.svg"
+      "file": "clipboard-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-refresh",
@@ -4078,7 +4293,8 @@
         "sync",
         "update"
       ],
-      "file": "clipboard-refresh.svg"
+      "file": "clipboard-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-right",
@@ -4096,7 +4312,8 @@
         "next",
         "right"
       ],
-      "file": "clipboard-right.svg"
+      "file": "clipboard-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-search",
@@ -4113,7 +4330,8 @@
         "search",
         "find"
       ],
-      "file": "clipboard-search.svg"
+      "file": "clipboard-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-share",
@@ -4130,7 +4348,8 @@
         "share",
         "send"
       ],
-      "file": "clipboard-share.svg"
+      "file": "clipboard-share.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-snooze",
@@ -4145,7 +4364,8 @@
         "delay",
         "later"
       ],
-      "file": "clipboard-snooze.svg"
+      "file": "clipboard-snooze.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-sparkle",
@@ -4160,7 +4380,8 @@
         "magic",
         "generate"
       ],
-      "file": "clipboard-sparkle.svg"
+      "file": "clipboard-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-star",
@@ -4174,7 +4395,8 @@
         "favorite",
         "rating"
       ],
-      "file": "clipboard-star.svg"
+      "file": "clipboard-star.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-text",
@@ -4192,7 +4414,8 @@
         "notes",
         "list"
       ],
-      "file": "clipboard-text.svg"
+      "file": "clipboard-text.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-text-sparkle",
@@ -4208,7 +4431,8 @@
         "magic",
         "generate"
       ],
-      "file": "clipboard-text-sparkle.svg"
+      "file": "clipboard-text-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clipboard-up",
@@ -4225,7 +4449,8 @@
         "upload",
         "copy-up"
       ],
-      "file": "clipboard-up.svg"
+      "file": "clipboard-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clipboard-user",
@@ -4240,7 +4465,8 @@
         "profile",
         "account"
       ],
-      "file": "clipboard-user.svg"
+      "file": "clipboard-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock",
@@ -4257,7 +4483,8 @@
         "hour",
         "watch"
       ],
-      "file": "clock.svg"
+      "file": "clock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-1",
@@ -4274,7 +4501,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-1.svg"
+      "file": "clock-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-10",
@@ -4291,7 +4519,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-10.svg"
+      "file": "clock-10.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-11",
@@ -4308,7 +4537,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-11.svg"
+      "file": "clock-11.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-12",
@@ -4325,7 +4555,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-12.svg"
+      "file": "clock-12.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-2",
@@ -4342,7 +4573,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-2.svg"
+      "file": "clock-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-3",
@@ -4359,7 +4591,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-3.svg"
+      "file": "clock-3.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-4",
@@ -4376,7 +4609,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-4.svg"
+      "file": "clock-4.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-5",
@@ -4393,7 +4627,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-5.svg"
+      "file": "clock-5.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-6",
@@ -4410,7 +4645,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-6.svg"
+      "file": "clock-6.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-7",
@@ -4427,7 +4663,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-7.svg"
+      "file": "clock-7.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-8",
@@ -4444,7 +4681,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-8.svg"
+      "file": "clock-8.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-9",
@@ -4461,7 +4699,8 @@
         "hour",
         "o'clock"
       ],
-      "file": "clock-9.svg"
+      "file": "clock-9.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-backward",
@@ -4480,7 +4719,8 @@
         "undo",
         "rewind"
       ],
-      "file": "clock-backward.svg"
+      "file": "clock-backward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-check",
@@ -4499,7 +4739,8 @@
         "done",
         "scheduled"
       ],
-      "file": "clock-check.svg"
+      "file": "clock-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-close",
@@ -4518,7 +4759,8 @@
         "cancel",
         "remove"
       ],
-      "file": "clock-close.svg"
+      "file": "clock-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-down",
@@ -4532,7 +4774,8 @@
         "download",
         "lower"
       ],
-      "file": "clock-down.svg"
+      "file": "clock-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-edit",
@@ -4547,7 +4790,8 @@
         "modify",
         "write"
       ],
-      "file": "clock-edit.svg"
+      "file": "clock-edit.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-exclamation",
@@ -4562,7 +4806,8 @@
         "alert",
         "attention"
       ],
-      "file": "clock-exclamation.svg"
+      "file": "clock-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-forbid",
@@ -4577,7 +4822,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "clock-forbid.svg"
+      "file": "clock-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-forward",
@@ -4596,7 +4842,8 @@
         "redo",
         "skip-ahead"
       ],
-      "file": "clock-forward.svg"
+      "file": "clock-forward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-lock",
@@ -4611,7 +4858,8 @@
         "private",
         "locked"
       ],
-      "file": "clock-lock.svg"
+      "file": "clock-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-minus",
@@ -4629,7 +4877,8 @@
         "reduce",
         "subtract"
       ],
-      "file": "clock-minus.svg"
+      "file": "clock-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-plus",
@@ -4648,7 +4897,8 @@
         "new",
         "schedule"
       ],
-      "file": "clock-plus.svg"
+      "file": "clock-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "clock-refresh",
@@ -4663,7 +4913,8 @@
         "sync",
         "update"
       ],
-      "file": "clock-refresh.svg"
+      "file": "clock-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-snooze",
@@ -4678,7 +4929,8 @@
         "delay",
         "later"
       ],
-      "file": "clock-snooze.svg"
+      "file": "clock-snooze.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-sparkle",
@@ -4693,7 +4945,8 @@
         "magic",
         "generate"
       ],
-      "file": "clock-sparkle.svg"
+      "file": "clock-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-star",
@@ -4707,7 +4960,8 @@
         "favorite",
         "rating"
       ],
-      "file": "clock-star.svg"
+      "file": "clock-star.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-up",
@@ -4721,7 +4975,8 @@
         "upload",
         "raise"
       ],
-      "file": "clock-up.svg"
+      "file": "clock-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "clock-user",
@@ -4736,7 +4991,8 @@
         "profile",
         "account"
       ],
-      "file": "clock-user.svg"
+      "file": "clock-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "close",
@@ -4758,7 +5014,8 @@
         "remove",
         "x"
       ],
-      "file": "close.svg"
+      "file": "close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "close-small",
@@ -4776,7 +5033,8 @@
         "small",
         "compact"
       ],
-      "file": "close-small.svg"
+      "file": "close-small.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-1",
@@ -4796,7 +5054,8 @@
         "online",
         "server"
       ],
-      "file": "cloud-1.svg"
+      "file": "cloud-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-2",
@@ -4816,7 +5075,8 @@
         "online",
         "server"
       ],
-      "file": "cloud-2.svg"
+      "file": "cloud-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-check",
@@ -4833,7 +5093,8 @@
         "done",
         "approve"
       ],
-      "file": "cloud-check.svg"
+      "file": "cloud-check.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-download",
@@ -4850,7 +5111,8 @@
         "fetch",
         "save"
       ],
-      "file": "cloud-download.svg"
+      "file": "cloud-download.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-drizzle",
@@ -4871,7 +5133,8 @@
         "forecast",
         "precipitation"
       ],
-      "file": "cloud-drizzle.svg"
+      "file": "cloud-drizzle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-exclamation",
@@ -4888,7 +5151,8 @@
         "alert",
         "attention"
       ],
-      "file": "cloud-exclamation.svg"
+      "file": "cloud-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-fog",
@@ -4912,7 +5176,8 @@
         "weather",
         "forecast"
       ],
-      "file": "cloud-fog.svg"
+      "file": "cloud-fog.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-info",
@@ -4928,7 +5193,8 @@
         "information",
         "details"
       ],
-      "file": "cloud-info.svg"
+      "file": "cloud-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-lightning",
@@ -4948,7 +5214,8 @@
         "weather",
         "forecast"
       ],
-      "file": "cloud-lightning.svg"
+      "file": "cloud-lightning.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-lock",
@@ -4965,7 +5232,8 @@
         "private",
         "locked"
       ],
-      "file": "cloud-lock.svg"
+      "file": "cloud-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-minus",
@@ -4981,7 +5249,8 @@
         "remove",
         "subtract"
       ],
-      "file": "cloud-minus.svg"
+      "file": "cloud-minus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-off-1",
@@ -5002,7 +5271,8 @@
         "sync disabled",
         "storage"
       ],
-      "file": "cloud-off-1.svg"
+      "file": "cloud-off-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-off-2",
@@ -5023,7 +5293,8 @@
         "sync disabled",
         "storage"
       ],
-      "file": "cloud-off-2.svg"
+      "file": "cloud-off-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-plus",
@@ -5040,7 +5311,8 @@
         "new",
         "create"
       ],
-      "file": "cloud-plus.svg"
+      "file": "cloud-plus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-question",
@@ -5056,7 +5328,8 @@
         "help",
         "unknown"
       ],
-      "file": "cloud-question.svg"
+      "file": "cloud-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-rain",
@@ -5077,7 +5350,8 @@
         "forecast",
         "precipitation"
       ],
-      "file": "cloud-rain.svg"
+      "file": "cloud-rain.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-refresh",
@@ -5094,7 +5368,8 @@
         "sync",
         "update"
       ],
-      "file": "cloud-refresh.svg"
+      "file": "cloud-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-snow",
@@ -5114,7 +5389,8 @@
         "flurries",
         "cold"
       ],
-      "file": "cloud-snow.svg"
+      "file": "cloud-snow.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-upload",
@@ -5133,7 +5409,8 @@
         "send",
         "push"
       ],
-      "file": "cloud-upload.svg"
+      "file": "cloud-upload.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cloud-user",
@@ -5150,7 +5427,8 @@
         "profile",
         "account"
       ],
-      "file": "cloud-user.svg"
+      "file": "cloud-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cloud-x",
@@ -5167,7 +5445,8 @@
         "delete",
         "cancel"
       ],
-      "file": "cloud-x.svg"
+      "file": "cloud-x.svg",
+      "added": "0.2.0"
     },
     {
       "name": "code",
@@ -5191,7 +5470,8 @@
         "embed",
         "snippet"
       ],
-      "file": "code.svg"
+      "file": "code.svg",
+      "added": "0.1.0"
     },
     {
       "name": "code-2",
@@ -5215,7 +5495,8 @@
         "embed",
         "snippet"
       ],
-      "file": "code-2.svg"
+      "file": "code-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "coffee-1",
@@ -5234,7 +5515,8 @@
         "drink",
         "break"
       ],
-      "file": "coffee-1.svg"
+      "file": "coffee-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "coffee-2",
@@ -5254,7 +5536,8 @@
         "break",
         "fresh"
       ],
-      "file": "coffee-2.svg"
+      "file": "coffee-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "coins",
@@ -5276,7 +5559,8 @@
         "change",
         "tokens"
       ],
-      "file": "coins.svg"
+      "file": "coins.svg",
+      "added": "0.2.0"
     },
     {
       "name": "collapse-diagonal-arrows-1",
@@ -5297,7 +5581,8 @@
         "converge",
         "corner"
       ],
-      "file": "collapse-diagonal-arrows-1.svg"
+      "file": "collapse-diagonal-arrows-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "collapse-diagonal-arrows-2",
@@ -5318,7 +5603,8 @@
         "converge",
         "corner"
       ],
-      "file": "collapse-diagonal-arrows-2.svg"
+      "file": "collapse-diagonal-arrows-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "collapse-horizontal-arrows",
@@ -5338,7 +5624,8 @@
         "narrow",
         "converge"
       ],
-      "file": "collapse-horizontal-arrows.svg"
+      "file": "collapse-horizontal-arrows.svg",
+      "added": "0.1.0"
     },
     {
       "name": "collapse-vertical-arrows",
@@ -5358,7 +5645,8 @@
         "shorten",
         "converge"
       ],
-      "file": "collapse-vertical-arrows.svg"
+      "file": "collapse-vertical-arrows.svg",
+      "added": "0.1.0"
     },
     {
       "name": "columns",
@@ -5383,7 +5671,8 @@
         "panes",
         "compare"
       ],
-      "file": "columns.svg"
+      "file": "columns.svg",
+      "added": "0.1.0"
     },
     {
       "name": "compass-1",
@@ -5400,7 +5689,8 @@
         "direction",
         "explore"
       ],
-      "file": "compass-1.svg"
+      "file": "compass-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "compass-2",
@@ -5418,7 +5708,8 @@
         "explore",
         "cardinal"
       ],
-      "file": "compass-2.svg"
+      "file": "compass-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "component",
@@ -5437,7 +5728,8 @@
         "symbol",
         "diamonds"
       ],
-      "file": "component.svg"
+      "file": "component.svg",
+      "added": "0.1.0"
     },
     {
       "name": "contract-down",
@@ -5458,7 +5750,8 @@
         "shrink",
         "resize-panel"
       ],
-      "file": "contract-down.svg"
+      "file": "contract-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "contract-left",
@@ -5480,7 +5773,8 @@
         "resize-panel",
         "sidebar-collapse"
       ],
-      "file": "contract-left.svg"
+      "file": "contract-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "contract-right",
@@ -5501,7 +5795,8 @@
         "shrink",
         "resize-panel"
       ],
-      "file": "contract-right.svg"
+      "file": "contract-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "contract-up",
@@ -5522,7 +5817,8 @@
         "shrink",
         "resize-panel"
       ],
-      "file": "contract-up.svg"
+      "file": "contract-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "copy",
@@ -5542,7 +5838,8 @@
         "clone",
         "clipboard"
       ],
-      "file": "copy.svg"
+      "file": "copy.svg",
+      "added": "0.1.0"
     },
     {
       "name": "corner-down-left",
@@ -5562,7 +5859,8 @@
         "cornered-turn",
         "reply"
       ],
-      "file": "corner-down-left.svg"
+      "file": "corner-down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "corner-down-right",
@@ -5582,7 +5880,8 @@
         "cornered-turn",
         "reply"
       ],
-      "file": "corner-down-right.svg"
+      "file": "corner-down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "corner-radius",
@@ -5601,7 +5900,8 @@
         "radius",
         "rounding"
       ],
-      "file": "corner-radius.svg"
+      "file": "corner-radius.svg",
+      "added": "0.1.0"
     },
     {
       "name": "corner-up-left",
@@ -5624,7 +5924,8 @@
         "alternate-undo",
         "cornered-turn"
       ],
-      "file": "corner-up-left.svg"
+      "file": "corner-up-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "corner-up-right",
@@ -5646,7 +5947,8 @@
         "cornered-turn",
         "forward-history"
       ],
-      "file": "corner-up-right.svg"
+      "file": "corner-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "cpu",
@@ -5665,7 +5967,8 @@
         "microchip",
         "silicon"
       ],
-      "file": "cpu.svg"
+      "file": "cpu.svg",
+      "added": "0.1.0"
     },
     {
       "name": "credit-card",
@@ -5687,7 +5990,8 @@
         "debit",
         "money"
       ],
-      "file": "credit-card.svg"
+      "file": "credit-card.svg",
+      "added": "0.1.0"
     },
     {
       "name": "credit-card-bookmark",
@@ -5702,7 +6006,8 @@
         "save",
         "favorite"
       ],
-      "file": "credit-card-bookmark.svg"
+      "file": "credit-card-bookmark.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-check",
@@ -5720,7 +6025,8 @@
         "payment",
         "check"
       ],
-      "file": "credit-card-check.svg"
+      "file": "credit-card-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "credit-card-down",
@@ -5735,7 +6041,8 @@
         "download",
         "lower"
       ],
-      "file": "credit-card-down.svg"
+      "file": "credit-card-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-exclamation",
@@ -5751,7 +6058,8 @@
         "alert",
         "attention"
       ],
-      "file": "credit-card-exclamation.svg"
+      "file": "credit-card-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-forbid",
@@ -5767,7 +6075,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "credit-card-forbid.svg"
+      "file": "credit-card-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-info",
@@ -5782,7 +6091,8 @@
         "information",
         "details"
       ],
-      "file": "credit-card-info.svg"
+      "file": "credit-card-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-key",
@@ -5797,7 +6107,8 @@
         "password",
         "access"
       ],
-      "file": "credit-card-key.svg"
+      "file": "credit-card-key.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-left",
@@ -5812,7 +6123,8 @@
         "back",
         "previous"
       ],
-      "file": "credit-card-left.svg"
+      "file": "credit-card-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-lock",
@@ -5828,7 +6140,8 @@
         "private",
         "locked"
       ],
-      "file": "credit-card-lock.svg"
+      "file": "credit-card-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-minus",
@@ -5846,7 +6159,8 @@
         "payment",
         "minus"
       ],
-      "file": "credit-card-minus.svg"
+      "file": "credit-card-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "credit-card-percent",
@@ -5861,7 +6175,8 @@
         "discount",
         "sale"
       ],
-      "file": "credit-card-percent.svg"
+      "file": "credit-card-percent.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-plus",
@@ -5879,7 +6194,8 @@
         "payment",
         "plus"
       ],
-      "file": "credit-card-plus.svg"
+      "file": "credit-card-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "credit-card-question",
@@ -5894,7 +6210,8 @@
         "help",
         "unknown"
       ],
-      "file": "credit-card-question.svg"
+      "file": "credit-card-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-refresh",
@@ -5910,7 +6227,8 @@
         "sync",
         "update"
       ],
-      "file": "credit-card-refresh.svg"
+      "file": "credit-card-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-right",
@@ -5925,7 +6243,8 @@
         "forward",
         "next"
       ],
-      "file": "credit-card-right.svg"
+      "file": "credit-card-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-search",
@@ -5940,7 +6259,8 @@
         "find",
         "lookup"
       ],
-      "file": "credit-card-search.svg"
+      "file": "credit-card-search.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-settings",
@@ -5956,7 +6276,8 @@
         "config",
         "preferences"
       ],
-      "file": "credit-card-settings.svg"
+      "file": "credit-card-settings.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-shield",
@@ -5971,7 +6292,8 @@
         "protect",
         "security"
       ],
-      "file": "credit-card-shield.svg"
+      "file": "credit-card-shield.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-snooze",
@@ -5987,7 +6309,8 @@
         "delay",
         "later"
       ],
-      "file": "credit-card-snooze.svg"
+      "file": "credit-card-snooze.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-sparkle",
@@ -6003,7 +6326,8 @@
         "magic",
         "generate"
       ],
-      "file": "credit-card-sparkle.svg"
+      "file": "credit-card-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-star",
@@ -6018,7 +6342,8 @@
         "favorite",
         "rating"
       ],
-      "file": "credit-card-star.svg"
+      "file": "credit-card-star.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-up",
@@ -6033,7 +6358,8 @@
         "upload",
         "raise"
       ],
-      "file": "credit-card-up.svg"
+      "file": "credit-card-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-up-right",
@@ -6051,7 +6377,8 @@
         "forward",
         "next"
       ],
-      "file": "credit-card-up-right.svg"
+      "file": "credit-card-up-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-user",
@@ -6067,7 +6394,8 @@
         "profile",
         "account"
       ],
-      "file": "credit-card-user.svg"
+      "file": "credit-card-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "credit-card-x",
@@ -6085,7 +6413,8 @@
         "payment",
         "x"
       ],
-      "file": "credit-card-x.svg"
+      "file": "credit-card-x.svg",
+      "added": "0.1.0"
     },
     {
       "name": "crop-2",
@@ -6102,7 +6431,8 @@
         "crop",
         "trim"
       ],
-      "file": "crop-2.svg"
+      "file": "crop-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "crosshair-1",
@@ -6120,7 +6450,8 @@
         "focus",
         "reticle"
       ],
-      "file": "crosshair-1.svg"
+      "file": "crosshair-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "crosshair-2",
@@ -6137,7 +6468,8 @@
         "aim",
         "reticle"
       ],
-      "file": "crosshair-2.svg"
+      "file": "crosshair-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "crown",
@@ -6160,7 +6492,8 @@
         "pro",
         "winner"
       ],
-      "file": "crown.svg"
+      "file": "crown.svg",
+      "added": "0.2.0"
     },
     {
       "name": "cube",
@@ -6171,7 +6504,8 @@
       "keywords": [
         "cube"
       ],
-      "file": "cube.svg"
+      "file": "cube.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dashboard",
@@ -6189,7 +6523,8 @@
         "tiles",
         "home"
       ],
-      "file": "dashboard.svg"
+      "file": "dashboard.svg",
+      "added": "0.1.0"
     },
     {
       "name": "dashboard-2",
@@ -6206,7 +6541,8 @@
         "widgets",
         "tiles"
       ],
-      "file": "dashboard-2.svg"
+      "file": "dashboard-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "database",
@@ -6227,7 +6563,8 @@
         "sql",
         "repository"
       ],
-      "file": "database.svg"
+      "file": "database.svg",
+      "added": "0.1.0"
     },
     {
       "name": "database-check",
@@ -6242,7 +6579,8 @@
         "done",
         "approve"
       ],
-      "file": "database-check.svg"
+      "file": "database-check.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-close",
@@ -6257,7 +6595,8 @@
         "delete",
         "cancel"
       ],
-      "file": "database-close.svg"
+      "file": "database-close.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-cloud",
@@ -6271,7 +6610,8 @@
         "online",
         "remote"
       ],
-      "file": "database-cloud.svg"
+      "file": "database-cloud.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-down",
@@ -6285,7 +6625,8 @@
         "download",
         "lower"
       ],
-      "file": "database-down.svg"
+      "file": "database-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-edit",
@@ -6300,7 +6641,8 @@
         "modify",
         "write"
       ],
-      "file": "database-edit.svg"
+      "file": "database-edit.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-exclamation",
@@ -6315,7 +6657,8 @@
         "alert",
         "attention"
       ],
-      "file": "database-exclamation.svg"
+      "file": "database-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-forbid",
@@ -6330,7 +6673,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "database-forbid.svg"
+      "file": "database-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-info",
@@ -6344,7 +6688,8 @@
         "information",
         "details"
       ],
-      "file": "database-info.svg"
+      "file": "database-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-lock",
@@ -6359,7 +6704,8 @@
         "private",
         "locked"
       ],
-      "file": "database-lock.svg"
+      "file": "database-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-minus",
@@ -6373,7 +6719,8 @@
         "remove",
         "subtract"
       ],
-      "file": "database-minus.svg"
+      "file": "database-minus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-plus",
@@ -6388,7 +6735,8 @@
         "new",
         "create"
       ],
-      "file": "database-plus.svg"
+      "file": "database-plus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-refresh",
@@ -6403,7 +6751,8 @@
         "sync",
         "update"
       ],
-      "file": "database-refresh.svg"
+      "file": "database-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-search",
@@ -6417,7 +6766,8 @@
         "find",
         "lookup"
       ],
-      "file": "database-search.svg"
+      "file": "database-search.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-settings",
@@ -6432,7 +6782,8 @@
         "config",
         "preferences"
       ],
-      "file": "database-settings.svg"
+      "file": "database-settings.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-shield",
@@ -6446,7 +6797,8 @@
         "protect",
         "security"
       ],
-      "file": "database-shield.svg"
+      "file": "database-shield.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-sparkle",
@@ -6461,7 +6813,8 @@
         "magic",
         "generate"
       ],
-      "file": "database-sparkle.svg"
+      "file": "database-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-up",
@@ -6475,7 +6828,8 @@
         "upload",
         "raise"
       ],
-      "file": "database-up.svg"
+      "file": "database-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "database-user",
@@ -6490,7 +6844,8 @@
         "profile",
         "account"
       ],
-      "file": "database-user.svg"
+      "file": "database-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "diamond-1",
@@ -6508,7 +6863,8 @@
         "jewel",
         "premium"
       ],
-      "file": "diamond-1.svg"
+      "file": "diamond-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-2",
@@ -6527,7 +6883,8 @@
         "premium",
         "sparkle"
       ],
-      "file": "diamond-2.svg"
+      "file": "diamond-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-3",
@@ -6546,7 +6903,8 @@
         "premium",
         "facets"
       ],
-      "file": "diamond-3.svg"
+      "file": "diamond-3.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape",
@@ -6563,7 +6921,8 @@
         "shape",
         "rotated-square"
       ],
-      "file": "diamond-shape.svg"
+      "file": "diamond-shape.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-down",
@@ -6582,7 +6941,8 @@
         "down",
         "direction"
       ],
-      "file": "diamond-shape-arrow-down.svg"
+      "file": "diamond-shape-arrow-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-down-left",
@@ -6602,7 +6962,8 @@
         "bottom-left",
         "direction"
       ],
-      "file": "diamond-shape-arrow-down-left.svg"
+      "file": "diamond-shape-arrow-down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-down-right",
@@ -6622,7 +6983,8 @@
         "bottom-right",
         "direction"
       ],
-      "file": "diamond-shape-arrow-down-right.svg"
+      "file": "diamond-shape-arrow-down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-left",
@@ -6641,7 +7003,8 @@
         "left",
         "direction"
       ],
-      "file": "diamond-shape-arrow-left.svg"
+      "file": "diamond-shape-arrow-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-right",
@@ -6660,7 +7023,8 @@
         "right",
         "direction"
       ],
-      "file": "diamond-shape-arrow-right.svg"
+      "file": "diamond-shape-arrow-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-up",
@@ -6679,7 +7043,8 @@
         "up",
         "direction"
       ],
-      "file": "diamond-shape-arrow-up.svg"
+      "file": "diamond-shape-arrow-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-up-left",
@@ -6699,7 +7064,8 @@
         "top-left",
         "direction"
       ],
-      "file": "diamond-shape-arrow-up-left.svg"
+      "file": "diamond-shape-arrow-up-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-arrow-up-right",
@@ -6719,7 +7085,8 @@
         "top-right",
         "direction"
       ],
-      "file": "diamond-shape-arrow-up-right.svg"
+      "file": "diamond-shape-arrow-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-check",
@@ -6738,7 +7105,8 @@
         "confirm",
         "done"
       ],
-      "file": "diamond-shape-check.svg"
+      "file": "diamond-shape-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-close",
@@ -6757,7 +7125,8 @@
         "dismiss",
         "cancel"
       ],
-      "file": "diamond-shape-close.svg"
+      "file": "diamond-shape-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-minus",
@@ -6776,7 +7145,8 @@
         "remove",
         "subtract"
       ],
-      "file": "diamond-shape-minus.svg"
+      "file": "diamond-shape-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamond-shape-plus",
@@ -6795,7 +7165,8 @@
         "add",
         "new"
       ],
-      "file": "diamond-shape-plus.svg"
+      "file": "diamond-shape-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "diamonds-poker",
@@ -6813,7 +7184,8 @@
         "cards",
         "playing-card"
       ],
-      "file": "diamonds-poker.svg"
+      "file": "diamonds-poker.svg",
+      "added": "0.1.0"
     },
     {
       "name": "dice-1",
@@ -6829,7 +7201,8 @@
         "roll",
         "1"
       ],
-      "file": "dice-1.svg"
+      "file": "dice-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dice-2",
@@ -6845,7 +7218,8 @@
         "roll",
         "2"
       ],
-      "file": "dice-2.svg"
+      "file": "dice-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dice-3",
@@ -6861,7 +7235,8 @@
         "roll",
         "3"
       ],
-      "file": "dice-3.svg"
+      "file": "dice-3.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dice-4",
@@ -6877,7 +7252,8 @@
         "roll",
         "4"
       ],
-      "file": "dice-4.svg"
+      "file": "dice-4.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dice-5",
@@ -6893,7 +7269,8 @@
         "roll",
         "5"
       ],
-      "file": "dice-5.svg"
+      "file": "dice-5.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dice-6",
@@ -6909,7 +7286,8 @@
         "roll",
         "6"
       ],
-      "file": "dice-6.svg"
+      "file": "dice-6.svg",
+      "added": "0.2.0"
     },
     {
       "name": "disc",
@@ -6931,7 +7309,8 @@
         "media",
         "optical"
       ],
-      "file": "disc.svg"
+      "file": "disc.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dog",
@@ -6949,7 +7328,8 @@
         "animal",
         "canine"
       ],
-      "file": "dog.svg"
+      "file": "dog.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dollar",
@@ -6974,7 +7354,8 @@
         "cash",
         "bucks"
       ],
-      "file": "dollar.svg"
+      "file": "dollar.svg",
+      "added": "0.1.0"
     },
     {
       "name": "door",
@@ -6994,7 +7375,8 @@
         "enter",
         "leave"
       ],
-      "file": "door.svg"
+      "file": "door.svg",
+      "added": "0.2.0"
     },
     {
       "name": "dot",
@@ -7019,7 +7401,8 @@
         "status",
         "filled"
       ],
-      "file": "dot.svg"
+      "file": "dot.svg",
+      "added": "0.3.0"
     },
     {
       "name": "dots-grid",
@@ -7047,7 +7430,8 @@
         "switcher",
         "menu"
       ],
-      "file": "dots-grid.svg"
+      "file": "dots-grid.svg",
+      "added": "0.3.0"
     },
     {
       "name": "down-left",
@@ -7068,7 +7452,8 @@
         "curve-arrow",
         "forward-down"
       ],
-      "file": "down-left.svg"
+      "file": "down-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "down-right",
@@ -7089,7 +7474,8 @@
         "curve-arrow",
         "forward-down"
       ],
-      "file": "down-right.svg"
+      "file": "down-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "download",
@@ -7111,7 +7497,8 @@
         "get",
         "fetch"
       ],
-      "file": "download.svg"
+      "file": "download.svg",
+      "added": "0.1.0"
     },
     {
       "name": "drag-handle",
@@ -7132,7 +7519,8 @@
         "grip",
         "draggable"
       ],
-      "file": "drag-handle.svg"
+      "file": "drag-handle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "droplet-1",
@@ -7152,7 +7540,8 @@
         "humidity",
         "ink"
       ],
-      "file": "droplet-1.svg"
+      "file": "droplet-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "droplet-2",
@@ -7172,7 +7561,8 @@
         "humidity",
         "ink"
       ],
-      "file": "droplet-2.svg"
+      "file": "droplet-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "droplet-off",
@@ -7187,7 +7577,8 @@
         "no-water",
         "dry"
       ],
-      "file": "droplet-off.svg"
+      "file": "droplet-off.svg",
+      "added": "0.2.0"
     },
     {
       "name": "ear",
@@ -7207,7 +7598,8 @@
         "audio",
         "accessibility"
       ],
-      "file": "ear.svg"
+      "file": "ear.svg",
+      "added": "0.2.0"
     },
     {
       "name": "edit",
@@ -7229,7 +7621,8 @@
         "modify",
         "write"
       ],
-      "file": "edit.svg"
+      "file": "edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "edit-ai",
@@ -7244,7 +7637,8 @@
         "modify",
         "write"
       ],
-      "file": "edit-ai.svg"
+      "file": "edit-ai.svg",
+      "added": "0.2.0"
     },
     {
       "name": "edit-line",
@@ -7266,7 +7660,8 @@
         "write",
         "paper"
       ],
-      "file": "edit-line.svg"
+      "file": "edit-line.svg",
+      "added": "0.1.0"
     },
     {
       "name": "edit-sign",
@@ -7287,7 +7682,8 @@
         "sign",
         "e-signature"
       ],
-      "file": "edit-sign.svg"
+      "file": "edit-sign.svg",
+      "added": "0.1.0"
     },
     {
       "name": "egg",
@@ -7305,7 +7701,8 @@
         "chicken",
         "protein"
       ],
-      "file": "egg.svg"
+      "file": "egg.svg",
+      "added": "0.2.0"
     },
     {
       "name": "enter",
@@ -7326,7 +7723,8 @@
         "keyboard-key",
         "newline"
       ],
-      "file": "enter.svg"
+      "file": "enter.svg",
+      "added": "0.1.0"
     },
     {
       "name": "eraser",
@@ -7347,7 +7745,8 @@
         "delete",
         "remove"
       ],
-      "file": "eraser.svg"
+      "file": "eraser.svg",
+      "added": "0.2.0"
     },
     {
       "name": "expand-diagonal-arrows-1",
@@ -7368,7 +7767,8 @@
         "diverge",
         "corner"
       ],
-      "file": "expand-diagonal-arrows-1.svg"
+      "file": "expand-diagonal-arrows-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-diagonal-arrows-2",
@@ -7389,7 +7789,8 @@
         "diverge",
         "corner"
       ],
-      "file": "expand-diagonal-arrows-2.svg"
+      "file": "expand-diagonal-arrows-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-down",
@@ -7410,7 +7811,8 @@
         "grow",
         "resize-panel"
       ],
-      "file": "expand-down.svg"
+      "file": "expand-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-horizontal",
@@ -7430,7 +7832,8 @@
         "widen",
         "stretch"
       ],
-      "file": "expand-horizontal.svg"
+      "file": "expand-horizontal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-horizontal-arrows",
@@ -7450,7 +7853,8 @@
         "widen",
         "diverge"
       ],
-      "file": "expand-horizontal-arrows.svg"
+      "file": "expand-horizontal-arrows.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-left",
@@ -7472,7 +7876,8 @@
         "resize-panel",
         "sidebar-expand"
       ],
-      "file": "expand-left.svg"
+      "file": "expand-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-right",
@@ -7493,7 +7898,8 @@
         "grow",
         "resize-panel"
       ],
-      "file": "expand-right.svg"
+      "file": "expand-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-up",
@@ -7514,7 +7920,8 @@
         "grow",
         "resize-panel"
       ],
-      "file": "expand-up.svg"
+      "file": "expand-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-vertical",
@@ -7534,7 +7941,8 @@
         "heighten",
         "stretch"
       ],
-      "file": "expand-vertical.svg"
+      "file": "expand-vertical.svg",
+      "added": "0.1.0"
     },
     {
       "name": "expand-vertical-arrows",
@@ -7554,7 +7962,8 @@
         "heighten",
         "diverge"
       ],
-      "file": "expand-vertical-arrows.svg"
+      "file": "expand-vertical-arrows.svg",
+      "added": "0.1.0"
     },
     {
       "name": "external-link",
@@ -7576,7 +7985,8 @@
         "outbound",
         "leave-site"
       ],
-      "file": "external-link.svg"
+      "file": "external-link.svg",
+      "added": "0.1.0"
     },
     {
       "name": "eye",
@@ -7600,7 +8010,8 @@
         "watch",
         "reveal"
       ],
-      "file": "eye.svg"
+      "file": "eye.svg",
+      "added": "0.1.0"
     },
     {
       "name": "eye-off",
@@ -7622,7 +8033,8 @@
         "hide",
         "conceal"
       ],
-      "file": "eye-off.svg"
+      "file": "eye-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file",
@@ -7642,7 +8054,8 @@
         "page",
         "sheet"
       ],
-      "file": "file.svg"
+      "file": "file.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-bookmark",
@@ -7662,7 +8075,8 @@
         "save",
         "favorite"
       ],
-      "file": "file-bookmark.svg"
+      "file": "file-bookmark.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-check",
@@ -7683,7 +8097,8 @@
         "verified",
         "done"
       ],
-      "file": "file-check.svg"
+      "file": "file-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-close",
@@ -7702,7 +8117,8 @@
         "remove",
         "cancel"
       ],
-      "file": "file-close.svg"
+      "file": "file-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-cloud",
@@ -7719,7 +8135,8 @@
         "file",
         "document"
       ],
-      "file": "file-cloud.svg"
+      "file": "file-cloud.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-code",
@@ -7733,7 +8150,8 @@
         "developer",
         "source"
       ],
-      "file": "file-code.svg"
+      "file": "file-code.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-corrupt",
@@ -7752,7 +8170,8 @@
         "error",
         "damaged"
       ],
-      "file": "file-corrupt.svg"
+      "file": "file-corrupt.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-data",
@@ -7766,7 +8185,8 @@
         "chart",
         "stats"
       ],
-      "file": "file-data.svg"
+      "file": "file-data.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-down",
@@ -7780,7 +8200,8 @@
         "download",
         "lower"
       ],
-      "file": "file-down.svg"
+      "file": "file-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-download",
@@ -7800,7 +8221,8 @@
         "download",
         "save"
       ],
-      "file": "file-download.svg"
+      "file": "file-download.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-edit",
@@ -7817,7 +8239,8 @@
         "file",
         "document"
       ],
-      "file": "file-edit.svg"
+      "file": "file-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-exclamation",
@@ -7834,7 +8257,8 @@
         "file",
         "document"
       ],
-      "file": "file-exclamation.svg"
+      "file": "file-exclamation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-export",
@@ -7854,7 +8278,8 @@
         "export",
         "send-out"
       ],
-      "file": "file-export.svg"
+      "file": "file-export.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-forbid",
@@ -7871,7 +8296,8 @@
         "file",
         "document"
       ],
-      "file": "file-forbid.svg"
+      "file": "file-forbid.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-heart",
@@ -7888,7 +8314,8 @@
         "file",
         "document"
       ],
-      "file": "file-heart.svg"
+      "file": "file-heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-import",
@@ -7908,7 +8335,8 @@
         "import",
         "bring-in"
       ],
-      "file": "file-import.svg"
+      "file": "file-import.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-info",
@@ -7925,7 +8353,8 @@
         "file",
         "document"
       ],
-      "file": "file-info.svg"
+      "file": "file-info.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-key",
@@ -7942,7 +8371,8 @@
         "file",
         "document"
       ],
-      "file": "file-key.svg"
+      "file": "file-key.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-left",
@@ -7956,7 +8386,8 @@
         "back",
         "previous"
       ],
-      "file": "file-left.svg"
+      "file": "file-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-list",
@@ -7975,7 +8406,8 @@
         "list",
         "lines"
       ],
-      "file": "file-list.svg"
+      "file": "file-list.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-lock",
@@ -7992,7 +8424,8 @@
         "file",
         "document"
       ],
-      "file": "file-lock.svg"
+      "file": "file-lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-minus",
@@ -8010,7 +8443,8 @@
         "remove",
         "unlink"
       ],
-      "file": "file-minus.svg"
+      "file": "file-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-pin",
@@ -8027,7 +8461,8 @@
         "file",
         "document"
       ],
-      "file": "file-pin.svg"
+      "file": "file-pin.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-plus",
@@ -8046,7 +8481,8 @@
         "add",
         "create"
       ],
-      "file": "file-plus.svg"
+      "file": "file-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-question",
@@ -8063,7 +8499,8 @@
         "file",
         "document"
       ],
-      "file": "file-question.svg"
+      "file": "file-question.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-refresh",
@@ -8080,7 +8517,8 @@
         "file",
         "document"
       ],
-      "file": "file-refresh.svg"
+      "file": "file-refresh.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-right",
@@ -8094,7 +8532,8 @@
         "forward",
         "next"
       ],
-      "file": "file-right.svg"
+      "file": "file-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-search",
@@ -8114,7 +8553,8 @@
         "search",
         "find"
       ],
-      "file": "file-search.svg"
+      "file": "file-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-settings",
@@ -8131,7 +8571,8 @@
         "file",
         "document"
       ],
-      "file": "file-settings.svg"
+      "file": "file-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-shield",
@@ -8148,7 +8589,8 @@
         "file",
         "document"
       ],
-      "file": "file-shield.svg"
+      "file": "file-shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-sparkle",
@@ -8165,7 +8607,8 @@
         "file",
         "document"
       ],
-      "file": "file-sparkle.svg"
+      "file": "file-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-star",
@@ -8182,7 +8625,8 @@
         "file",
         "document"
       ],
-      "file": "file-star.svg"
+      "file": "file-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-text",
@@ -8201,7 +8645,8 @@
         "text",
         "lines"
       ],
-      "file": "file-text.svg"
+      "file": "file-text.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-transfer",
@@ -8213,7 +8658,8 @@
         "file",
         "transfer"
       ],
-      "file": "file-transfer.svg"
+      "file": "file-transfer.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-up",
@@ -8227,7 +8673,8 @@
         "upload",
         "raise"
       ],
-      "file": "file-up.svg"
+      "file": "file-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "file-up-right",
@@ -8244,7 +8691,8 @@
         "file",
         "document"
       ],
-      "file": "file-up-right.svg"
+      "file": "file-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-upload",
@@ -8264,7 +8712,8 @@
         "upload",
         "send"
       ],
-      "file": "file-upload.svg"
+      "file": "file-upload.svg",
+      "added": "0.1.0"
     },
     {
       "name": "file-user",
@@ -8281,7 +8730,8 @@
         "file",
         "document"
       ],
-      "file": "file-user.svg"
+      "file": "file-user.svg",
+      "added": "0.1.0"
     },
     {
       "name": "film",
@@ -8301,7 +8751,8 @@
         "reel",
         "filmstrip"
       ],
-      "file": "film.svg"
+      "file": "film.svg",
+      "added": "0.2.0"
     },
     {
       "name": "filter",
@@ -8325,7 +8776,8 @@
         "funnel",
         "sieve"
       ],
-      "file": "filter.svg"
+      "file": "filter.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list",
@@ -8343,7 +8795,8 @@
         "refine",
         "funnel"
       ],
-      "file": "filter-list.svg"
+      "file": "filter-list.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list-add",
@@ -8361,7 +8814,8 @@
         "add",
         "new-filter"
       ],
-      "file": "filter-list-add.svg"
+      "file": "filter-list-add.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list-cancel",
@@ -8380,7 +8834,8 @@
         "clear",
         "remove-filter"
       ],
-      "file": "filter-list-cancel.svg"
+      "file": "filter-list-cancel.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list-check",
@@ -8399,7 +8854,8 @@
         "confirm",
         "applied"
       ],
-      "file": "filter-list-check.svg"
+      "file": "filter-list-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list-down",
@@ -8417,7 +8873,8 @@
         "sort-down",
         "descending"
       ],
-      "file": "filter-list-down.svg"
+      "file": "filter-list-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "filter-list-up",
@@ -8435,7 +8892,8 @@
         "sort-up",
         "ascending"
       ],
-      "file": "filter-list-up.svg"
+      "file": "filter-list-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "flag",
@@ -8457,7 +8915,8 @@
         "mark",
         "pennant"
       ],
-      "file": "flag.svg"
+      "file": "flag.svg",
+      "added": "0.1.0"
     },
     {
       "name": "flag-2",
@@ -8474,7 +8933,8 @@
         "marker",
         "report"
       ],
-      "file": "flag-2.svg"
+      "file": "flag-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "flame",
@@ -8491,7 +8951,8 @@
         "trending",
         "flame"
       ],
-      "file": "flame.svg"
+      "file": "flame.svg",
+      "added": "0.1.0"
     },
     {
       "name": "flask",
@@ -8512,7 +8973,8 @@
         "science",
         "liquid"
       ],
-      "file": "flask.svg"
+      "file": "flask.svg",
+      "added": "0.2.0"
     },
     {
       "name": "focus-1",
@@ -8530,7 +8992,8 @@
         "center",
         "dot"
       ],
-      "file": "focus-1.svg"
+      "file": "focus-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "focus-2",
@@ -8548,7 +9011,8 @@
         "viewfinder",
         "corner-marks"
       ],
-      "file": "focus-2.svg"
+      "file": "focus-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder",
@@ -8568,7 +9032,8 @@
         "files",
         "container"
       ],
-      "file": "folder.svg"
+      "file": "folder.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-bookmarked",
@@ -8590,7 +9055,8 @@
         "favorite",
         "folder"
       ],
-      "file": "folder-bookmarked.svg"
+      "file": "folder-bookmarked.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-chart",
@@ -8614,7 +9080,8 @@
         "graph",
         "growth"
       ],
-      "file": "folder-chart.svg"
+      "file": "folder-chart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-chart-2",
@@ -8632,7 +9099,8 @@
         "report",
         "stats"
       ],
-      "file": "folder-chart-2.svg"
+      "file": "folder-chart-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-check",
@@ -8655,7 +9123,8 @@
         "checkmark",
         "folder"
       ],
-      "file": "folder-check.svg"
+      "file": "folder-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-close",
@@ -8678,7 +9147,8 @@
         "x",
         "folder"
       ],
-      "file": "folder-close.svg"
+      "file": "folder-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-cloud-1",
@@ -8701,7 +9171,8 @@
         "folder",
         "directory"
       ],
-      "file": "folder-cloud-1.svg"
+      "file": "folder-cloud-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-cloud-2",
@@ -8724,7 +9195,8 @@
         "folder",
         "directory"
       ],
-      "file": "folder-cloud-2.svg"
+      "file": "folder-cloud-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-code",
@@ -8738,7 +9210,8 @@
         "developer",
         "source"
       ],
-      "file": "folder-code.svg"
+      "file": "folder-code.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-corrupt",
@@ -8757,7 +9230,8 @@
         "damaged",
         "error"
       ],
-      "file": "folder-corrupt.svg"
+      "file": "folder-corrupt.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-data",
@@ -8771,7 +9245,8 @@
         "chart",
         "stats"
       ],
-      "file": "folder-data.svg"
+      "file": "folder-data.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-down",
@@ -8785,7 +9260,8 @@
         "download",
         "lower"
       ],
-      "file": "folder-down.svg"
+      "file": "folder-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-download",
@@ -8808,7 +9284,8 @@
         "get",
         "folder"
       ],
-      "file": "folder-download.svg"
+      "file": "folder-download.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-edit",
@@ -8830,7 +9307,8 @@
         "pencil",
         "folder"
       ],
-      "file": "folder-edit.svg"
+      "file": "folder-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-exclamation",
@@ -8855,7 +9333,8 @@
         "attention",
         "caution"
       ],
-      "file": "folder-exclamation.svg"
+      "file": "folder-exclamation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-export",
@@ -8876,7 +9355,8 @@
         "send-out",
         "folder"
       ],
-      "file": "folder-export.svg"
+      "file": "folder-export.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-forbid",
@@ -8905,7 +9385,8 @@
         "folder",
         "directory"
       ],
-      "file": "folder-forbid.svg"
+      "file": "folder-forbid.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-heart",
@@ -8932,7 +9413,8 @@
         "folder",
         "heart"
       ],
-      "file": "folder-heart.svg"
+      "file": "folder-heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-import",
@@ -8953,7 +9435,8 @@
         "bring-in",
         "folder"
       ],
-      "file": "folder-import.svg"
+      "file": "folder-import.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-info",
@@ -8977,7 +9460,8 @@
         "details",
         "help"
       ],
-      "file": "folder-info.svg"
+      "file": "folder-info.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-key-1",
@@ -8998,7 +9482,8 @@
         "folder",
         "permissions"
       ],
-      "file": "folder-key-1.svg"
+      "file": "folder-key-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-key-2",
@@ -9019,7 +9504,8 @@
         "folder",
         "permissions"
       ],
-      "file": "folder-key-2.svg"
+      "file": "folder-key-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-left",
@@ -9033,7 +9519,8 @@
         "back",
         "previous"
       ],
-      "file": "folder-left.svg"
+      "file": "folder-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-lock",
@@ -9049,7 +9536,8 @@
         "folder",
         "lock"
       ],
-      "file": "folder-lock.svg"
+      "file": "folder-lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-minus",
@@ -9071,7 +9559,8 @@
         "minus",
         "folder"
       ],
-      "file": "folder-minus.svg"
+      "file": "folder-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-open",
@@ -9093,7 +9582,8 @@
         "active",
         "folder"
       ],
-      "file": "folder-open.svg"
+      "file": "folder-open.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-pause",
@@ -9109,7 +9599,8 @@
         "folder",
         "pause"
       ],
-      "file": "folder-pause.svg"
+      "file": "folder-pause.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-percent",
@@ -9125,7 +9616,8 @@
         "folder",
         "percent"
       ],
-      "file": "folder-percent.svg"
+      "file": "folder-percent.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-pin",
@@ -9139,7 +9631,8 @@
         "folder",
         "pin"
       ],
-      "file": "folder-pin.svg"
+      "file": "folder-pin.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-play",
@@ -9154,7 +9647,8 @@
         "folder",
         "play"
       ],
-      "file": "folder-play.svg"
+      "file": "folder-play.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-plus",
@@ -9177,7 +9671,8 @@
         "plus",
         "folder"
       ],
-      "file": "folder-plus.svg"
+      "file": "folder-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-question",
@@ -9202,7 +9697,8 @@
         "support",
         "query"
       ],
-      "file": "folder-question.svg"
+      "file": "folder-question.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-refresh",
@@ -9221,7 +9717,8 @@
         "update",
         "folder"
       ],
-      "file": "folder-refresh.svg"
+      "file": "folder-refresh.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-right",
@@ -9235,7 +9732,8 @@
         "forward",
         "next"
       ],
-      "file": "folder-right.svg"
+      "file": "folder-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-search",
@@ -9257,7 +9755,8 @@
         "magnifying-glass",
         "folder"
       ],
-      "file": "folder-search.svg"
+      "file": "folder-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-settings",
@@ -9279,7 +9778,8 @@
         "gear",
         "folder"
       ],
-      "file": "folder-settings.svg"
+      "file": "folder-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-shield",
@@ -9304,7 +9804,8 @@
         "guard",
         "security"
       ],
-      "file": "folder-shield.svg"
+      "file": "folder-shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-snooze",
@@ -9320,7 +9821,8 @@
         "folder",
         "snooze"
       ],
-      "file": "folder-snooze.svg"
+      "file": "folder-snooze.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-sparkle",
@@ -9339,7 +9841,8 @@
         "smart folder",
         "folder"
       ],
-      "file": "folder-sparkle.svg"
+      "file": "folder-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-star",
@@ -9363,7 +9866,8 @@
         "featured",
         "bookmark"
       ],
-      "file": "folder-star.svg"
+      "file": "folder-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-transfer-1",
@@ -9387,7 +9891,8 @@
         "sync",
         "exchange"
       ],
-      "file": "folder-transfer-1.svg"
+      "file": "folder-transfer-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-transfer-2",
@@ -9411,7 +9916,8 @@
         "sync",
         "exchange"
       ],
-      "file": "folder-transfer-2.svg"
+      "file": "folder-transfer-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-up",
@@ -9425,7 +9931,8 @@
         "upload",
         "raise"
       ],
-      "file": "folder-up.svg"
+      "file": "folder-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "folder-up-right",
@@ -9443,7 +9950,8 @@
         "output",
         "folder"
       ],
-      "file": "folder-up-right.svg"
+      "file": "folder-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-upload",
@@ -9465,7 +9973,8 @@
         "put",
         "folder"
       ],
-      "file": "folder-upload.svg"
+      "file": "folder-upload.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-user",
@@ -9480,7 +9989,8 @@
         "folder",
         "user"
       ],
-      "file": "folder-user.svg"
+      "file": "folder-user.svg",
+      "added": "0.1.0"
     },
     {
       "name": "folder-zip",
@@ -9498,7 +10008,8 @@
         "archive",
         "compressed"
       ],
-      "file": "folder-zip.svg"
+      "file": "folder-zip.svg",
+      "added": "0.1.0"
     },
     {
       "name": "frown",
@@ -9517,7 +10028,8 @@
         "mood",
         "emoji"
       ],
-      "file": "frown.svg"
+      "file": "frown.svg",
+      "added": "0.1.0"
     },
     {
       "name": "frown-squircle",
@@ -9540,7 +10052,8 @@
         "rounded-square",
         "badge"
       ],
-      "file": "frown-squircle.svg"
+      "file": "frown-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "fuel",
@@ -9562,7 +10075,8 @@
         "refuel",
         "diesel"
       ],
-      "file": "fuel.svg"
+      "file": "fuel.svg",
+      "added": "0.2.0"
     },
     {
       "name": "gamepad",
@@ -9583,7 +10097,8 @@
         "joystick",
         "joypad"
       ],
-      "file": "gamepad.svg"
+      "file": "gamepad.svg",
+      "added": "0.1.0"
     },
     {
       "name": "gamepad-2",
@@ -9602,7 +10117,8 @@
         "console",
         "joypad"
       ],
-      "file": "gamepad-2.svg"
+      "file": "gamepad-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "gauge",
@@ -9624,7 +10140,8 @@
         "metrics",
         "dashboard"
       ],
-      "file": "gauge.svg"
+      "file": "gauge.svg",
+      "added": "0.2.0"
     },
     {
       "name": "gem",
@@ -9646,7 +10163,8 @@
         "premium",
         "value"
       ],
-      "file": "gem.svg"
+      "file": "gem.svg",
+      "added": "0.2.0"
     },
     {
       "name": "gift",
@@ -9664,7 +10182,8 @@
         "reward",
         "bonus"
       ],
-      "file": "gift.svg"
+      "file": "gift.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch",
@@ -9681,7 +10200,8 @@
         "fork",
         "version-control"
       ],
-      "file": "git-branch.svg"
+      "file": "git-branch.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch-check",
@@ -9700,7 +10220,8 @@
         "passing",
         "approved"
       ],
-      "file": "git-branch-check.svg"
+      "file": "git-branch-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch-close",
@@ -9719,7 +10240,8 @@
         "delete",
         "remove"
       ],
-      "file": "git-branch-close.svg"
+      "file": "git-branch-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch-cloud",
@@ -9734,7 +10256,8 @@
         "online",
         "remote"
       ],
-      "file": "git-branch-cloud.svg"
+      "file": "git-branch-cloud.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-branch-forbid",
@@ -9750,7 +10273,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "git-branch-forbid.svg"
+      "file": "git-branch-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-branch-minus",
@@ -9768,7 +10292,8 @@
         "remove",
         "delete"
       ],
-      "file": "git-branch-minus.svg"
+      "file": "git-branch-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch-plus",
@@ -9787,7 +10312,8 @@
         "new-branch",
         "create"
       ],
-      "file": "git-branch-plus.svg"
+      "file": "git-branch-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-branch-shield",
@@ -9802,7 +10328,8 @@
         "protect",
         "security"
       ],
-      "file": "git-branch-shield.svg"
+      "file": "git-branch-shield.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-branch-sparkle",
@@ -9818,7 +10345,8 @@
         "magic",
         "generate"
       ],
-      "file": "git-branch-sparkle.svg"
+      "file": "git-branch-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-commit-horizontal",
@@ -9835,7 +10363,8 @@
         "node",
         "history"
       ],
-      "file": "git-commit-horizontal.svg"
+      "file": "git-commit-horizontal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-commit-vertical",
@@ -9852,7 +10381,8 @@
         "node",
         "history"
       ],
-      "file": "git-commit-vertical.svg"
+      "file": "git-commit-vertical.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-fork",
@@ -9869,7 +10399,8 @@
         "repository",
         "copy"
       ],
-      "file": "git-fork.svg"
+      "file": "git-fork.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-merge",
@@ -9885,7 +10416,8 @@
         "join",
         "branches"
       ],
-      "file": "git-merge.svg"
+      "file": "git-merge.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-merge-check",
@@ -9904,7 +10436,8 @@
         "merged",
         "approved"
       ],
-      "file": "git-merge-check.svg"
+      "file": "git-merge-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-merge-close",
@@ -9920,7 +10453,8 @@
         "delete",
         "cancel"
       ],
-      "file": "git-merge-close.svg"
+      "file": "git-merge-close.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-forbid",
@@ -9936,7 +10470,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "git-merge-forbid.svg"
+      "file": "git-merge-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-minus",
@@ -9951,7 +10486,8 @@
         "remove",
         "subtract"
       ],
-      "file": "git-merge-minus.svg"
+      "file": "git-merge-minus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-plus",
@@ -9967,7 +10503,8 @@
         "new",
         "create"
       ],
-      "file": "git-merge-plus.svg"
+      "file": "git-merge-plus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-settings",
@@ -9983,7 +10520,8 @@
         "config",
         "preferences"
       ],
-      "file": "git-merge-settings.svg"
+      "file": "git-merge-settings.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-shield",
@@ -9998,7 +10536,8 @@
         "protect",
         "security"
       ],
-      "file": "git-merge-shield.svg"
+      "file": "git-merge-shield.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-merge-sparkle",
@@ -10014,7 +10553,8 @@
         "magic",
         "generate"
       ],
-      "file": "git-merge-sparkle.svg"
+      "file": "git-merge-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "git-pull-close",
@@ -10032,7 +10572,8 @@
         "close",
         "reject"
       ],
-      "file": "git-pull-close.svg"
+      "file": "git-pull-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-pull-conflict",
@@ -10050,7 +10591,8 @@
         "conflict",
         "merge-conflict"
       ],
-      "file": "git-pull-conflict.svg"
+      "file": "git-pull-conflict.svg",
+      "added": "0.1.0"
     },
     {
       "name": "git-pull-request",
@@ -10068,7 +10610,8 @@
         "pr",
         "review"
       ],
-      "file": "git-pull-request.svg"
+      "file": "git-pull-request.svg",
+      "added": "0.1.0"
     },
     {
       "name": "glasses",
@@ -10090,7 +10633,8 @@
         "lenses",
         "frames"
       ],
-      "file": "glasses.svg"
+      "file": "glasses.svg",
+      "added": "0.2.0"
     },
     {
       "name": "globe",
@@ -10117,7 +10661,8 @@
         "international",
         "global"
       ],
-      "file": "globe.svg"
+      "file": "globe.svg",
+      "added": "0.1.0"
     },
     {
       "name": "graduation-cap",
@@ -10139,7 +10684,8 @@
         "student",
         "course"
       ],
-      "file": "graduation-cap.svg"
+      "file": "graduation-cap.svg",
+      "added": "0.2.0"
     },
     {
       "name": "grid",
@@ -10157,7 +10703,8 @@
         "gallery",
         "view"
       ],
-      "file": "grid.svg"
+      "file": "grid.svg",
+      "added": "0.1.0"
     },
     {
       "name": "grid-close",
@@ -10175,7 +10722,8 @@
         "close",
         "delete-tile"
       ],
-      "file": "grid-close.svg"
+      "file": "grid-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "grid-plus",
@@ -10192,7 +10740,8 @@
         "add",
         "new-tile"
       ],
-      "file": "grid-plus.svg"
+      "file": "grid-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "hard-drive-1",
@@ -10212,7 +10761,8 @@
         "drive",
         "hardware"
       ],
-      "file": "hard-drive-1.svg"
+      "file": "hard-drive-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "hard-drive-2",
@@ -10232,7 +10782,8 @@
         "drive",
         "hardware"
       ],
-      "file": "hard-drive-2.svg"
+      "file": "hard-drive-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "hash",
@@ -10257,7 +10808,8 @@
         "topic",
         "sharp"
       ],
-      "file": "hash.svg"
+      "file": "hash.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heading-1",
@@ -10278,7 +10830,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-1.svg"
+      "file": "heading-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heading-2",
@@ -10297,7 +10850,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-2.svg"
+      "file": "heading-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heading-3",
@@ -10316,7 +10870,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-3.svg"
+      "file": "heading-3.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heading-4",
@@ -10335,7 +10890,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-4.svg"
+      "file": "heading-4.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heading-5",
@@ -10354,7 +10910,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-5.svg"
+      "file": "heading-5.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heading-6",
@@ -10373,7 +10930,8 @@
         "typography",
         "format"
       ],
-      "file": "heading-6.svg"
+      "file": "heading-6.svg",
+      "added": "0.2.0"
     },
     {
       "name": "headphones",
@@ -10391,7 +10949,8 @@
         "sound",
         "headset"
       ],
-      "file": "headphones.svg"
+      "file": "headphones.svg",
+      "added": "0.1.0"
     },
     {
       "name": "headset",
@@ -10411,7 +10970,8 @@
         "audio",
         "customer service"
       ],
-      "file": "headset.svg"
+      "file": "headset.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart",
@@ -10435,7 +10995,8 @@
         "save",
         "bookmark-alt"
       ],
-      "file": "heart.svg"
+      "file": "heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-2",
@@ -10453,7 +11014,8 @@
         "like",
         "favorite"
       ],
-      "file": "heart-2.svg"
+      "file": "heart-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-broken",
@@ -10471,7 +11033,8 @@
         "dislike",
         "heartbreak"
       ],
-      "file": "heart-broken.svg"
+      "file": "heart-broken.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-check",
@@ -10489,7 +11052,8 @@
         "liked",
         "added"
       ],
-      "file": "heart-check.svg"
+      "file": "heart-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-close",
@@ -10507,7 +11071,8 @@
         "dismiss",
         "unlike"
       ],
-      "file": "heart-close.svg"
+      "file": "heart-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-down",
@@ -10525,7 +11090,8 @@
         "decrease",
         "down"
       ],
-      "file": "heart-down.svg"
+      "file": "heart-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-left",
@@ -10543,7 +11109,8 @@
         "receive",
         "left"
       ],
-      "file": "heart-left.svg"
+      "file": "heart-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-lock",
@@ -10561,7 +11128,8 @@
         "private",
         "locked"
       ],
-      "file": "heart-lock.svg"
+      "file": "heart-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heart-minus",
@@ -10578,7 +11146,8 @@
         "remove",
         "unfavorite"
       ],
-      "file": "heart-minus.svg"
+      "file": "heart-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-off",
@@ -10593,7 +11162,8 @@
         "love",
         "favorite"
       ],
-      "file": "heart-off.svg"
+      "file": "heart-off.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heart-plus",
@@ -10611,7 +11181,8 @@
         "favorite",
         "new-favorite"
       ],
-      "file": "heart-plus.svg"
+      "file": "heart-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-pulse",
@@ -10626,7 +11197,8 @@
         "love",
         "favorite"
       ],
-      "file": "heart-pulse.svg"
+      "file": "heart-pulse.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heart-refresh",
@@ -10644,7 +11216,8 @@
         "sync",
         "update"
       ],
-      "file": "heart-refresh.svg"
+      "file": "heart-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heart-right",
@@ -10662,7 +11235,8 @@
         "forward",
         "share-right"
       ],
-      "file": "heart-right.svg"
+      "file": "heart-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-search",
@@ -10679,7 +11253,8 @@
         "search",
         "find-favorites"
       ],
-      "file": "heart-search.svg"
+      "file": "heart-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-share",
@@ -10696,7 +11271,8 @@
         "share",
         "send-love"
       ],
-      "file": "heart-share.svg"
+      "file": "heart-share.svg",
+      "added": "0.1.0"
     },
     {
       "name": "heart-sparkle",
@@ -10714,7 +11290,8 @@
         "magic",
         "generate"
       ],
-      "file": "heart-sparkle.svg"
+      "file": "heart-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "heart-up",
@@ -10732,7 +11309,8 @@
         "increase",
         "up"
       ],
-      "file": "heart-up.svg"
+      "file": "heart-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "help-circle",
@@ -10760,7 +11338,8 @@
         "faq",
         "tooltip-trigger"
       ],
-      "file": "help-circle.svg"
+      "file": "help-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "help-squircle",
@@ -10779,7 +11358,8 @@
         "question",
         "help"
       ],
-      "file": "help-squircle.svg"
+      "file": "help-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "hexagon",
@@ -10798,7 +11378,8 @@
         "geometry",
         "six sides"
       ],
-      "file": "hexagon.svg"
+      "file": "hexagon.svg",
+      "added": "0.2.0"
     },
     {
       "name": "history-1",
@@ -10816,7 +11397,8 @@
         "recent",
         "time-travel"
       ],
-      "file": "history-1.svg"
+      "file": "history-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "history-2",
@@ -10834,7 +11416,8 @@
         "recent",
         "time-travel"
       ],
-      "file": "history-2.svg"
+      "file": "history-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "home",
@@ -10861,7 +11444,8 @@
         "door",
         "peaked-roof"
       ],
-      "file": "home.svg"
+      "file": "home.svg",
+      "added": "0.1.0"
     },
     {
       "name": "hourglass",
@@ -10882,7 +11466,8 @@
         "pending",
         "countdown"
       ],
-      "file": "hourglass.svg"
+      "file": "hourglass.svg",
+      "added": "0.2.0"
     },
     {
       "name": "id-card",
@@ -10903,7 +11488,8 @@
         "identification",
         "pass"
       ],
-      "file": "id-card.svg"
+      "file": "id-card.svg",
+      "added": "0.2.0"
     },
     {
       "name": "image",
@@ -10921,7 +11507,8 @@
         "gallery",
         "landscape"
       ],
-      "file": "image.svg"
+      "file": "image.svg",
+      "added": "0.1.0"
     },
     {
       "name": "image-circle",
@@ -10940,7 +11527,8 @@
         "avatar",
         "round"
       ],
-      "file": "image-circle.svg"
+      "file": "image-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "inbox",
@@ -10962,7 +11550,8 @@
         "messages",
         "unread"
       ],
-      "file": "inbox.svg"
+      "file": "inbox.svg",
+      "added": "0.1.0"
     },
     {
       "name": "indent",
@@ -10984,7 +11573,8 @@
         "text editor",
         "list"
       ],
-      "file": "indent.svg"
+      "file": "indent.svg",
+      "added": "0.1.0"
     },
     {
       "name": "info",
@@ -11009,7 +11599,8 @@
         "notice",
         "tooltip-trigger"
       ],
-      "file": "info.svg"
+      "file": "info.svg",
+      "added": "0.1.0"
     },
     {
       "name": "info-squircle",
@@ -11027,7 +11618,8 @@
       "keywords": [
         "info"
       ],
-      "file": "info-squircle.svg"
+      "file": "info-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "kanban",
@@ -11046,7 +11638,8 @@
         "workflow",
         "project"
       ],
-      "file": "kanban.svg"
+      "file": "kanban.svg",
+      "added": "0.2.0"
     },
     {
       "name": "keyboard",
@@ -11066,7 +11659,8 @@
         "computer",
         "hardware"
       ],
-      "file": "keyboard.svg"
+      "file": "keyboard.svg",
+      "added": "0.1.0"
     },
     {
       "name": "lamp",
@@ -11084,7 +11678,8 @@
         "light",
         "reading"
       ],
-      "file": "lamp.svg"
+      "file": "lamp.svg",
+      "added": "0.2.0"
     },
     {
       "name": "laptop",
@@ -11103,7 +11698,8 @@
         "portable",
         "workstation"
       ],
-      "file": "laptop.svg"
+      "file": "laptop.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-1",
@@ -11129,7 +11725,8 @@
         "grid",
         "arrange"
       ],
-      "file": "layout-1.svg"
+      "file": "layout-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-2",
@@ -11155,7 +11752,8 @@
         "grid",
         "arrange"
       ],
-      "file": "layout-2.svg"
+      "file": "layout-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-panel-bottom",
@@ -11174,7 +11772,8 @@
         "bottom",
         "split"
       ],
-      "file": "layout-panel-bottom.svg"
+      "file": "layout-panel-bottom.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-panel-left",
@@ -11193,7 +11792,8 @@
         "left",
         "split"
       ],
-      "file": "layout-panel-left.svg"
+      "file": "layout-panel-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-panel-right",
@@ -11212,7 +11812,8 @@
         "right",
         "split"
       ],
-      "file": "layout-panel-right.svg"
+      "file": "layout-panel-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "layout-panel-top",
@@ -11231,7 +11832,8 @@
         "top",
         "split"
       ],
-      "file": "layout-panel-top.svg"
+      "file": "layout-panel-top.svg",
+      "added": "0.1.0"
     },
     {
       "name": "leaf",
@@ -11252,7 +11854,8 @@
         "garden",
         "organic"
       ],
-      "file": "leaf.svg"
+      "file": "leaf.svg",
+      "added": "0.2.0"
     },
     {
       "name": "life-buoy",
@@ -11271,7 +11874,8 @@
         "assistance",
         "safety"
       ],
-      "file": "life-buoy.svg"
+      "file": "life-buoy.svg",
+      "added": "0.2.0"
     },
     {
       "name": "line-chart",
@@ -11291,7 +11895,8 @@
         "data",
         "trend"
       ],
-      "file": "line-chart.svg"
+      "file": "line-chart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "list",
@@ -11312,7 +11917,8 @@
         "view",
         "rows"
       ],
-      "file": "list.svg"
+      "file": "list.svg",
+      "added": "0.1.0"
     },
     {
       "name": "loader",
@@ -11342,7 +11948,8 @@
         "async",
         "pending"
       ],
-      "file": "loader.svg"
+      "file": "loader.svg",
+      "added": "0.1.0"
     },
     {
       "name": "lock",
@@ -11366,7 +11973,8 @@
         "closed",
         "protected"
       ],
-      "file": "lock.svg"
+      "file": "lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "log-in",
@@ -11388,7 +11996,8 @@
         "authenticate",
         "access"
       ],
-      "file": "log-in.svg"
+      "file": "log-in.svg",
+      "added": "0.1.0"
     },
     {
       "name": "log-out",
@@ -11410,7 +12019,8 @@
         "deauthenticate",
         "leave"
       ],
-      "file": "log-out.svg"
+      "file": "log-out.svg",
+      "added": "0.1.0"
     },
     {
       "name": "magnet",
@@ -11430,7 +12040,8 @@
         "field",
         "pole"
       ],
-      "file": "magnet.svg"
+      "file": "magnet.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail",
@@ -11449,7 +12060,8 @@
         "envelope",
         "message"
       ],
-      "file": "mail.svg"
+      "file": "mail.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-bookmark",
@@ -11467,7 +12079,8 @@
         "favorite",
         "star"
       ],
-      "file": "mail-bookmark.svg"
+      "file": "mail-bookmark.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-check",
@@ -11488,7 +12101,8 @@
         "delivered",
         "confirmed"
       ],
-      "file": "mail-check.svg"
+      "file": "mail-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-close",
@@ -11507,7 +12121,8 @@
         "remove",
         "dismiss"
       ],
-      "file": "mail-close.svg"
+      "file": "mail-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-cloud",
@@ -11521,7 +12136,8 @@
         "online",
         "remote"
       ],
-      "file": "mail-cloud.svg"
+      "file": "mail-cloud.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-code",
@@ -11535,7 +12151,8 @@
         "developer",
         "source"
       ],
-      "file": "mail-code.svg"
+      "file": "mail-code.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-down",
@@ -11549,7 +12166,8 @@
         "download",
         "lower"
       ],
-      "file": "mail-down.svg"
+      "file": "mail-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-edit",
@@ -11567,7 +12185,8 @@
         "envelope",
         "edit"
       ],
-      "file": "mail-edit.svg"
+      "file": "mail-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-exclamation",
@@ -11585,7 +12204,8 @@
         "envelope",
         "exclamation"
       ],
-      "file": "mail-exclamation.svg"
+      "file": "mail-exclamation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-forbid",
@@ -11603,7 +12223,8 @@
         "envelope",
         "forbid"
       ],
-      "file": "mail-forbid.svg"
+      "file": "mail-forbid.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-forward",
@@ -11617,7 +12238,8 @@
         "send",
         "next"
       ],
-      "file": "mail-forward.svg"
+      "file": "mail-forward.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-heart",
@@ -11635,7 +12257,8 @@
         "envelope",
         "heart"
       ],
-      "file": "mail-heart.svg"
+      "file": "mail-heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-info",
@@ -11649,7 +12272,8 @@
         "information",
         "details"
       ],
-      "file": "mail-info.svg"
+      "file": "mail-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-key",
@@ -11663,7 +12287,8 @@
         "password",
         "access"
       ],
-      "file": "mail-key.svg"
+      "file": "mail-key.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-left",
@@ -11677,7 +12302,8 @@
         "back",
         "previous"
       ],
-      "file": "mail-left.svg"
+      "file": "mail-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-lock",
@@ -11695,7 +12321,8 @@
         "envelope",
         "lock"
       ],
-      "file": "mail-lock.svg"
+      "file": "mail-lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-minus",
@@ -11713,7 +12340,8 @@
         "remove",
         "unsubscribe"
       ],
-      "file": "mail-minus.svg"
+      "file": "mail-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-notification",
@@ -11732,7 +12360,8 @@
         "new-mail",
         "badge"
       ],
-      "file": "mail-notification.svg"
+      "file": "mail-notification.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-open",
@@ -11753,7 +12382,8 @@
         "inbox",
         "message"
       ],
-      "file": "mail-open.svg"
+      "file": "mail-open.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-pin",
@@ -11768,7 +12398,8 @@
         "marker",
         "attach"
       ],
-      "file": "mail-pin.svg"
+      "file": "mail-pin.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-plus",
@@ -11787,7 +12418,8 @@
         "compose",
         "add"
       ],
-      "file": "mail-plus.svg"
+      "file": "mail-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-question",
@@ -11801,7 +12433,8 @@
         "help",
         "unknown"
       ],
-      "file": "mail-question.svg"
+      "file": "mail-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-refresh",
@@ -11816,7 +12449,8 @@
         "sync",
         "update"
       ],
-      "file": "mail-refresh.svg"
+      "file": "mail-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-reply",
@@ -11830,7 +12464,8 @@
         "respond",
         "answer"
       ],
-      "file": "mail-reply.svg"
+      "file": "mail-reply.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-search",
@@ -11850,7 +12485,8 @@
         "search",
         "find"
       ],
-      "file": "mail-search.svg"
+      "file": "mail-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-settings",
@@ -11868,7 +12504,8 @@
         "envelope",
         "settings"
       ],
-      "file": "mail-settings.svg"
+      "file": "mail-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-shield",
@@ -11886,7 +12523,8 @@
         "envelope",
         "shield"
       ],
-      "file": "mail-shield.svg"
+      "file": "mail-shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-snooze",
@@ -11904,7 +12542,8 @@
         "envelope",
         "snooze"
       ],
-      "file": "mail-snooze.svg"
+      "file": "mail-snooze.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-sparkle",
@@ -11922,7 +12561,8 @@
         "envelope",
         "sparkle"
       ],
-      "file": "mail-sparkle.svg"
+      "file": "mail-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-star",
@@ -11940,7 +12580,8 @@
         "envelope",
         "star"
       ],
-      "file": "mail-star.svg"
+      "file": "mail-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-up",
@@ -11954,7 +12595,8 @@
         "upload",
         "raise"
       ],
-      "file": "mail-up.svg"
+      "file": "mail-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "mail-up-right",
@@ -11972,7 +12614,8 @@
         "envelope",
         "up right"
       ],
-      "file": "mail-up-right.svg"
+      "file": "mail-up-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mail-user",
@@ -11986,7 +12629,8 @@
         "envelope",
         "user"
       ],
-      "file": "mail-user.svg"
+      "file": "mail-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "map",
@@ -12005,7 +12649,8 @@
         "route",
         "atlas"
       ],
-      "file": "map.svg"
+      "file": "map.svg",
+      "added": "0.1.0"
     },
     {
       "name": "map-pin",
@@ -12032,7 +12677,8 @@
         "navigation",
         "drop pin"
       ],
-      "file": "map-pin.svg"
+      "file": "map-pin.svg",
+      "added": "0.1.0"
     },
     {
       "name": "maximize",
@@ -12050,7 +12696,8 @@
         "fullscreen",
         "expand-window"
       ],
-      "file": "maximize.svg"
+      "file": "maximize.svg",
+      "added": "0.1.0"
     },
     {
       "name": "megaphone",
@@ -12070,7 +12717,8 @@
         "marketing",
         "speakerphone"
       ],
-      "file": "megaphone.svg"
+      "file": "megaphone.svg",
+      "added": "0.1.0"
     },
     {
       "name": "menu",
@@ -12090,7 +12738,8 @@
         "list",
         "bars"
       ],
-      "file": "menu.svg"
+      "file": "menu.svg",
+      "added": "0.1.0"
     },
     {
       "name": "menu-2",
@@ -12110,7 +12759,8 @@
         "list",
         "bars"
       ],
-      "file": "menu-2.svg"
+      "file": "menu-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "menu-3",
@@ -12130,7 +12780,8 @@
         "list",
         "bars"
       ],
-      "file": "menu-3.svg"
+      "file": "menu-3.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mic",
@@ -12151,7 +12802,8 @@
         "sound",
         "podcast"
       ],
-      "file": "mic.svg"
+      "file": "mic.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mic-off",
@@ -12178,7 +12830,8 @@
         "voice",
         "record"
       ],
-      "file": "mic-off.svg"
+      "file": "mic-off.svg",
+      "added": "0.2.0"
     },
     {
       "name": "milestone",
@@ -12198,7 +12851,8 @@
         "progress",
         "goal"
       ],
-      "file": "milestone.svg"
+      "file": "milestone.svg",
+      "added": "0.2.0"
     },
     {
       "name": "minimize",
@@ -12216,7 +12870,8 @@
         "exit-fullscreen",
         "shrink-window"
       ],
-      "file": "minimize.svg"
+      "file": "minimize.svg",
+      "added": "0.1.0"
     },
     {
       "name": "minus",
@@ -12235,7 +12890,8 @@
         "collapse",
         "decrease"
       ],
-      "file": "minus.svg"
+      "file": "minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "minus-circle",
@@ -12256,7 +12912,8 @@
         "deselect",
         "subtract"
       ],
-      "file": "minus-circle.svg"
+      "file": "minus-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "minus-squircle",
@@ -12276,7 +12933,8 @@
         "remove",
         "decrease"
       ],
-      "file": "minus-squircle.svg"
+      "file": "minus-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "monitor-1",
@@ -12297,7 +12955,8 @@
         "pc",
         "imac"
       ],
-      "file": "monitor-1.svg"
+      "file": "monitor-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "monitor-2",
@@ -12318,7 +12977,8 @@
         "pc",
         "imac"
       ],
-      "file": "monitor-2.svg"
+      "file": "monitor-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "moon",
@@ -12339,7 +12999,8 @@
         "sleep",
         "lunar"
       ],
-      "file": "moon.svg"
+      "file": "moon.svg",
+      "added": "0.1.0"
     },
     {
       "name": "more-horizontal",
@@ -12361,7 +13022,8 @@
         "ellipsis",
         "overflow-menu"
       ],
-      "file": "more-horizontal.svg"
+      "file": "more-horizontal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "more-vertical",
@@ -12383,7 +13045,8 @@
         "ellipsis",
         "overflow-menu"
       ],
-      "file": "more-vertical.svg"
+      "file": "more-vertical.svg",
+      "added": "0.1.0"
     },
     {
       "name": "mouse",
@@ -12402,7 +13065,8 @@
         "device",
         "hardware"
       ],
-      "file": "mouse.svg"
+      "file": "mouse.svg",
+      "added": "0.1.0"
     },
     {
       "name": "move",
@@ -12420,7 +13084,8 @@
         "four-way",
         "reposition"
       ],
-      "file": "move.svg"
+      "file": "move.svg",
+      "added": "0.1.0"
     },
     {
       "name": "music",
@@ -12441,7 +13106,8 @@
         "sound",
         "track"
       ],
-      "file": "music.svg"
+      "file": "music.svg",
+      "added": "0.2.0"
     },
     {
       "name": "navigation",
@@ -12461,7 +13127,8 @@
         "heading",
         "route"
       ],
-      "file": "navigation.svg"
+      "file": "navigation.svg",
+      "added": "0.1.0"
     },
     {
       "name": "package",
@@ -12483,7 +13150,8 @@
         "container",
         "cube"
       ],
-      "file": "package.svg"
+      "file": "package.svg",
+      "added": "0.1.0"
     },
     {
       "name": "package-2",
@@ -12494,7 +13162,8 @@
       "keywords": [
         "package"
       ],
-      "file": "package-2.svg"
+      "file": "package-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "paperclip-1",
@@ -12515,7 +13184,8 @@
         "file",
         "email attachment"
       ],
-      "file": "paperclip-1.svg"
+      "file": "paperclip-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "paperclip-2",
@@ -12536,7 +13206,8 @@
         "file",
         "email attachment"
       ],
-      "file": "paperclip-2.svg"
+      "file": "paperclip-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pause",
@@ -12553,7 +13224,8 @@
         "hold",
         "media"
       ],
-      "file": "pause.svg"
+      "file": "pause.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pause-circle",
@@ -12572,7 +13244,8 @@
         "pause",
         "media"
       ],
-      "file": "pause-circle.svg"
+      "file": "pause-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pause-squircle",
@@ -12591,7 +13264,8 @@
         "pause",
         "media"
       ],
-      "file": "pause-squircle.svg"
+      "file": "pause-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "percent",
@@ -12611,7 +13285,8 @@
         "interest",
         "tax"
       ],
-      "file": "percent.svg"
+      "file": "percent.svg",
+      "added": "0.1.0"
     },
     {
       "name": "phone",
@@ -12632,7 +13307,8 @@
         "dial",
         "ring"
       ],
-      "file": "phone.svg"
+      "file": "phone.svg",
+      "added": "0.1.0"
     },
     {
       "name": "phone-call",
@@ -12653,7 +13329,8 @@
         "dial",
         "incoming"
       ],
-      "file": "phone-call.svg"
+      "file": "phone-call.svg",
+      "added": "0.1.0"
     },
     {
       "name": "phone-off",
@@ -12673,7 +13350,8 @@
         "hang up",
         "do not disturb"
       ],
-      "file": "phone-off.svg"
+      "file": "phone-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "picture-in-picture",
@@ -12694,7 +13372,8 @@
         "floating",
         "video"
       ],
-      "file": "picture-in-picture.svg"
+      "file": "picture-in-picture.svg",
+      "added": "0.1.0"
     },
     {
       "name": "picture-in-picture-exit",
@@ -12713,7 +13392,8 @@
         "exit",
         "close-overlay"
       ],
-      "file": "picture-in-picture-exit.svg"
+      "file": "picture-in-picture-exit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pie-chart",
@@ -12731,7 +13411,8 @@
         "analytics",
         "stats"
       ],
-      "file": "pie-chart.svg"
+      "file": "pie-chart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pin-1",
@@ -12754,7 +13435,8 @@
         "fix",
         "favorite"
       ],
-      "file": "pin-1.svg"
+      "file": "pin-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "pin-2",
@@ -12777,7 +13459,8 @@
         "fix",
         "favorite"
       ],
-      "file": "pin-2.svg"
+      "file": "pin-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "plane",
@@ -12798,7 +13481,8 @@
         "trip",
         "fly"
       ],
-      "file": "plane.svg"
+      "file": "plane.svg",
+      "added": "0.1.0"
     },
     {
       "name": "play",
@@ -12815,7 +13499,8 @@
         "resume",
         "media"
       ],
-      "file": "play.svg"
+      "file": "play.svg",
+      "added": "0.1.0"
     },
     {
       "name": "play-circle",
@@ -12834,7 +13519,8 @@
         "play",
         "media"
       ],
-      "file": "play-circle.svg"
+      "file": "play-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "play-squircle",
@@ -12853,7 +13539,8 @@
         "play",
         "media"
       ],
-      "file": "play-squircle.svg"
+      "file": "play-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "plus",
@@ -12871,7 +13558,8 @@
         "create",
         "increment"
       ],
-      "file": "plus.svg"
+      "file": "plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "plus-circle",
@@ -12892,7 +13580,8 @@
         "select",
         "new"
       ],
-      "file": "plus-circle.svg"
+      "file": "plus-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "plus-squircle",
@@ -12912,7 +13601,8 @@
         "add",
         "increase"
       ],
-      "file": "plus-squircle.svg"
+      "file": "plus-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "power",
@@ -12938,7 +13628,8 @@
         "electricity",
         "boot"
       ],
-      "file": "power.svg"
+      "file": "power.svg",
+      "added": "0.1.0"
     },
     {
       "name": "printer",
@@ -12956,7 +13647,8 @@
         "document",
         "hardware"
       ],
-      "file": "printer.svg"
+      "file": "printer.svg",
+      "added": "0.1.0"
     },
     {
       "name": "puzzle",
@@ -12978,7 +13670,8 @@
         "integration",
         "piece"
       ],
-      "file": "puzzle.svg"
+      "file": "puzzle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "qr-code",
@@ -12997,7 +13690,8 @@
         "barcode",
         "link"
       ],
-      "file": "qr-code.svg"
+      "file": "qr-code.svg",
+      "added": "0.1.0"
     },
     {
       "name": "quill",
@@ -13012,7 +13706,8 @@
         "writing",
         "author"
       ],
-      "file": "quill.svg"
+      "file": "quill.svg",
+      "added": "0.2.0"
     },
     {
       "name": "quill-ai",
@@ -13027,7 +13722,8 @@
         "sparkle",
         "generate text"
       ],
-      "file": "quill-ai.svg"
+      "file": "quill-ai.svg",
+      "added": "0.2.0"
     },
     {
       "name": "quill-line",
@@ -13042,7 +13738,8 @@
         "write",
         "sign"
       ],
-      "file": "quill-line.svg"
+      "file": "quill-line.svg",
+      "added": "0.2.0"
     },
     {
       "name": "quill-squiggle",
@@ -13057,7 +13754,8 @@
         "handwriting",
         "sign"
       ],
-      "file": "quill-squiggle.svg"
+      "file": "quill-squiggle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt",
@@ -13076,7 +13774,8 @@
         "total",
         "payment"
       ],
-      "file": "receipt.svg"
+      "file": "receipt.svg",
+      "added": "0.1.0"
     },
     {
       "name": "receipt-check",
@@ -13092,7 +13791,8 @@
         "receipt",
         "check"
       ],
-      "file": "receipt-check.svg"
+      "file": "receipt-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "receipt-down",
@@ -13106,7 +13806,8 @@
         "download",
         "lower"
       ],
-      "file": "receipt-down.svg"
+      "file": "receipt-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-exclamation",
@@ -13121,7 +13822,8 @@
         "alert",
         "attention"
       ],
-      "file": "receipt-exclamation.svg"
+      "file": "receipt-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-forbid",
@@ -13136,7 +13838,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "receipt-forbid.svg"
+      "file": "receipt-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-info",
@@ -13150,7 +13853,8 @@
         "information",
         "details"
       ],
-      "file": "receipt-info.svg"
+      "file": "receipt-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-left",
@@ -13164,7 +13868,8 @@
         "back",
         "previous"
       ],
-      "file": "receipt-left.svg"
+      "file": "receipt-left.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-lock",
@@ -13179,7 +13884,8 @@
         "private",
         "locked"
       ],
-      "file": "receipt-lock.svg"
+      "file": "receipt-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-minus",
@@ -13191,7 +13897,8 @@
         "receipt",
         "minus"
       ],
-      "file": "receipt-minus.svg"
+      "file": "receipt-minus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-percent",
@@ -13205,7 +13912,8 @@
         "discount",
         "sale"
       ],
-      "file": "receipt-percent.svg"
+      "file": "receipt-percent.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-plus",
@@ -13217,7 +13925,8 @@
         "receipt",
         "plus"
       ],
-      "file": "receipt-plus.svg"
+      "file": "receipt-plus.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-question",
@@ -13231,7 +13940,8 @@
         "help",
         "unknown"
       ],
-      "file": "receipt-question.svg"
+      "file": "receipt-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-refresh",
@@ -13246,7 +13956,8 @@
         "sync",
         "update"
       ],
-      "file": "receipt-refresh.svg"
+      "file": "receipt-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-search",
@@ -13260,7 +13971,8 @@
         "find",
         "lookup"
       ],
-      "file": "receipt-search.svg"
+      "file": "receipt-search.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-settings",
@@ -13275,7 +13987,8 @@
         "config",
         "preferences"
       ],
-      "file": "receipt-settings.svg"
+      "file": "receipt-settings.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-snooze",
@@ -13290,7 +14003,8 @@
         "delay",
         "later"
       ],
-      "file": "receipt-snooze.svg"
+      "file": "receipt-snooze.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-sparkle",
@@ -13305,7 +14019,8 @@
         "magic",
         "generate"
       ],
-      "file": "receipt-sparkle.svg"
+      "file": "receipt-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-star",
@@ -13319,7 +14034,8 @@
         "favorite",
         "rating"
       ],
-      "file": "receipt-star.svg"
+      "file": "receipt-star.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-up",
@@ -13333,7 +14049,8 @@
         "upload",
         "raise"
       ],
-      "file": "receipt-up.svg"
+      "file": "receipt-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-up-right",
@@ -13350,7 +14067,8 @@
         "forward",
         "next"
       ],
-      "file": "receipt-up-right.svg"
+      "file": "receipt-up-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-user",
@@ -13365,7 +14083,8 @@
         "profile",
         "account"
       ],
-      "file": "receipt-user.svg"
+      "file": "receipt-user.svg",
+      "added": "0.2.0"
     },
     {
       "name": "receipt-x",
@@ -13377,7 +14096,8 @@
         "receipt",
         "x"
       ],
-      "file": "receipt-x.svg"
+      "file": "receipt-x.svg",
+      "added": "0.2.0"
     },
     {
       "name": "record-circle",
@@ -13396,7 +14116,8 @@
         "record",
         "media"
       ],
-      "file": "record-circle.svg"
+      "file": "record-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "record-squircle",
@@ -13415,7 +14136,8 @@
         "record",
         "media"
       ],
-      "file": "record-squircle.svg"
+      "file": "record-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "redo",
@@ -13440,7 +14162,8 @@
         "ctrl-y",
         "cmd-shift-z"
       ],
-      "file": "redo.svg"
+      "file": "redo.svg",
+      "added": "0.1.0"
     },
     {
       "name": "refresh",
@@ -13468,7 +14191,8 @@
         "retry",
         "circular-arrow"
       ],
-      "file": "refresh.svg"
+      "file": "refresh.svg",
+      "added": "0.1.0"
     },
     {
       "name": "refresh-2",
@@ -13489,7 +14213,8 @@
         "sync",
         "retry"
       ],
-      "file": "refresh-2.svg"
+      "file": "refresh-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-clock",
@@ -13512,7 +14237,8 @@
         "version",
         "time"
       ],
-      "file": "rotate-clock.svg"
+      "file": "rotate-clock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-left",
@@ -13534,7 +14260,8 @@
         "retry",
         "counterclockwise"
       ],
-      "file": "rotate-left.svg"
+      "file": "rotate-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-right",
@@ -13556,7 +14283,8 @@
         "rotate",
         "retry"
       ],
-      "file": "rotate-right.svg"
+      "file": "rotate-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-squircle-left",
@@ -13575,7 +14303,8 @@
         "undo",
         "counterclockwise"
       ],
-      "file": "rotate-squircle-left.svg"
+      "file": "rotate-squircle-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-squircle-left-2",
@@ -13593,7 +14322,8 @@
         "left",
         "alternate"
       ],
-      "file": "rotate-squircle-left-2.svg"
+      "file": "rotate-squircle-left-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-squircle-right",
@@ -13612,7 +14342,8 @@
         "redo",
         "clockwise"
       ],
-      "file": "rotate-squircle-right.svg"
+      "file": "rotate-squircle-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rotate-squircle-right-2",
@@ -13630,7 +14361,8 @@
         "right",
         "alternate"
       ],
-      "file": "rotate-squircle-right-2.svg"
+      "file": "rotate-squircle-right-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rows",
@@ -13654,7 +14386,8 @@
         "table",
         "panes"
       ],
-      "file": "rows.svg"
+      "file": "rows.svg",
+      "added": "0.1.0"
     },
     {
       "name": "rss",
@@ -13674,7 +14407,8 @@
         "podcast",
         "blog"
       ],
-      "file": "rss.svg"
+      "file": "rss.svg",
+      "added": "0.1.0"
     },
     {
       "name": "ruler",
@@ -13693,7 +14427,8 @@
         "size",
         "scale"
       ],
-      "file": "ruler.svg"
+      "file": "ruler.svg",
+      "added": "0.2.0"
     },
     {
       "name": "save",
@@ -13715,7 +14450,8 @@
         "persist",
         "write"
       ],
-      "file": "save.svg"
+      "file": "save.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scale",
@@ -13734,7 +14470,8 @@
         "expand",
         "fit"
       ],
-      "file": "scale.svg"
+      "file": "scale.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan",
@@ -13753,7 +14490,8 @@
         "viewfinder",
         "frame"
       ],
-      "file": "scan.svg"
+      "file": "scan.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan-check",
@@ -13773,7 +14511,8 @@
         "scan",
         "verified"
       ],
-      "file": "scan-check.svg"
+      "file": "scan-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan-code",
@@ -13791,7 +14530,8 @@
         "qr",
         "scan"
       ],
-      "file": "scan-code.svg"
+      "file": "scan-code.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan-face",
@@ -13810,7 +14550,8 @@
         "biometric",
         "scan"
       ],
-      "file": "scan-face.svg"
+      "file": "scan-face.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan-search",
@@ -13830,7 +14571,8 @@
         "scan",
         "search"
       ],
-      "file": "scan-search.svg"
+      "file": "scan-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scan-text",
@@ -13851,7 +14593,8 @@
         "scan",
         "text"
       ],
-      "file": "scan-text.svg"
+      "file": "scan-text.svg",
+      "added": "0.1.0"
     },
     {
       "name": "scissors",
@@ -13868,7 +14611,8 @@
         "trim",
         "snip"
       ],
-      "file": "scissors.svg"
+      "file": "scissors.svg",
+      "added": "0.2.0"
     },
     {
       "name": "search",
@@ -13887,7 +14631,8 @@
         "lookup",
         "query"
       ],
-      "file": "search.svg"
+      "file": "search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "search-bar",
@@ -13907,7 +14652,8 @@
         "optimize",
         "ranking"
       ],
-      "file": "search-bar.svg"
+      "file": "search-bar.svg",
+      "added": "0.1.0"
     },
     {
       "name": "send-1",
@@ -13926,7 +14672,8 @@
         "dispatch",
         "message"
       ],
-      "file": "send-1.svg"
+      "file": "send-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "send-2",
@@ -13945,7 +14692,8 @@
         "dispatch",
         "message"
       ],
-      "file": "send-2.svg"
+      "file": "send-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "server-1",
@@ -13965,7 +14713,8 @@
         "storage",
         "datacenter"
       ],
-      "file": "server-1.svg"
+      "file": "server-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "server-2",
@@ -13985,7 +14734,8 @@
         "storage",
         "datacenter"
       ],
-      "file": "server-2.svg"
+      "file": "server-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "settings",
@@ -14015,7 +14765,8 @@
         "control-panel",
         "adjust"
       ],
-      "file": "settings.svg"
+      "file": "settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "share",
@@ -14036,7 +14787,8 @@
         "send",
         "upload"
       ],
-      "file": "share.svg"
+      "file": "share.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield",
@@ -14063,7 +14815,8 @@
         "privacy",
         "antivirus"
       ],
-      "file": "shield.svg"
+      "file": "shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-check-1",
@@ -14086,7 +14839,8 @@
         "security",
         "approved"
       ],
-      "file": "shield-check-1.svg"
+      "file": "shield-check-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-check-2",
@@ -14109,7 +14863,8 @@
         "security",
         "approved"
       ],
-      "file": "shield-check-2.svg"
+      "file": "shield-check-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-close-1",
@@ -14137,7 +14892,8 @@
         "cancel",
         "protection off"
       ],
-      "file": "shield-close-1.svg"
+      "file": "shield-close-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-close-2",
@@ -14165,7 +14921,8 @@
         "cancel",
         "protection off"
       ],
-      "file": "shield-close-2.svg"
+      "file": "shield-close-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-exclamation-1",
@@ -14182,7 +14939,8 @@
         "alert",
         "attention"
       ],
-      "file": "shield-exclamation-1.svg"
+      "file": "shield-exclamation-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-exclamation-2",
@@ -14199,7 +14957,8 @@
         "alert",
         "attention"
       ],
-      "file": "shield-exclamation-2.svg"
+      "file": "shield-exclamation-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-forbid-1",
@@ -14216,7 +14975,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "shield-forbid-1.svg"
+      "file": "shield-forbid-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-forbid-2",
@@ -14233,7 +14993,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "shield-forbid-2.svg"
+      "file": "shield-forbid-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-info-1",
@@ -14249,7 +15010,8 @@
         "information",
         "details"
       ],
-      "file": "shield-info-1.svg"
+      "file": "shield-info-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-info-2",
@@ -14265,7 +15027,8 @@
         "information",
         "details"
       ],
-      "file": "shield-info-2.svg"
+      "file": "shield-info-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-key-1",
@@ -14281,7 +15044,8 @@
         "password",
         "access"
       ],
-      "file": "shield-key-1.svg"
+      "file": "shield-key-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-key-2",
@@ -14297,7 +15061,8 @@
         "password",
         "access"
       ],
-      "file": "shield-key-2.svg"
+      "file": "shield-key-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-lock-1",
@@ -14314,7 +15079,8 @@
         "private",
         "locked"
       ],
-      "file": "shield-lock-1.svg"
+      "file": "shield-lock-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-lock-2",
@@ -14331,7 +15097,8 @@
         "private",
         "locked"
       ],
-      "file": "shield-lock-2.svg"
+      "file": "shield-lock-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-minus-1",
@@ -14356,7 +15123,8 @@
         "guard",
         "withdraw"
       ],
-      "file": "shield-minus-1.svg"
+      "file": "shield-minus-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-minus-2",
@@ -14381,7 +15149,8 @@
         "guard",
         "withdraw"
       ],
-      "file": "shield-minus-2.svg"
+      "file": "shield-minus-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-off",
@@ -14395,7 +15164,8 @@
         "protect",
         "security"
       ],
-      "file": "shield-off.svg"
+      "file": "shield-off.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-plus-1",
@@ -14420,7 +15190,8 @@
         "coverage",
         "insurance"
       ],
-      "file": "shield-plus-1.svg"
+      "file": "shield-plus-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-plus-2",
@@ -14445,7 +15216,8 @@
         "coverage",
         "insurance"
       ],
-      "file": "shield-plus-2.svg"
+      "file": "shield-plus-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shield-question-1",
@@ -14461,7 +15233,8 @@
         "help",
         "unknown"
       ],
-      "file": "shield-question-1.svg"
+      "file": "shield-question-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-question-2",
@@ -14477,7 +15250,8 @@
         "help",
         "unknown"
       ],
-      "file": "shield-question-2.svg"
+      "file": "shield-question-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-refresh-1",
@@ -14494,7 +15268,8 @@
         "sync",
         "update"
       ],
-      "file": "shield-refresh-1.svg"
+      "file": "shield-refresh-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-refresh-2",
@@ -14511,7 +15286,8 @@
         "sync",
         "update"
       ],
-      "file": "shield-refresh-2.svg"
+      "file": "shield-refresh-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-search-1",
@@ -14527,7 +15303,8 @@
         "find",
         "lookup"
       ],
-      "file": "shield-search-1.svg"
+      "file": "shield-search-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-search-2",
@@ -14543,7 +15320,8 @@
         "find",
         "lookup"
       ],
-      "file": "shield-search-2.svg"
+      "file": "shield-search-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-sparkle-1",
@@ -14560,7 +15338,8 @@
         "magic",
         "generate"
       ],
-      "file": "shield-sparkle-1.svg"
+      "file": "shield-sparkle-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-sparkle-2",
@@ -14577,7 +15356,8 @@
         "magic",
         "generate"
       ],
-      "file": "shield-sparkle-2.svg"
+      "file": "shield-sparkle-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-star-1",
@@ -14593,7 +15373,8 @@
         "favorite",
         "rating"
       ],
-      "file": "shield-star-1.svg"
+      "file": "shield-star-1.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shield-star-2",
@@ -14609,7 +15390,8 @@
         "favorite",
         "rating"
       ],
-      "file": "shield-star-2.svg"
+      "file": "shield-star-2.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-1",
@@ -14631,7 +15413,8 @@
         "ecommerce",
         "checkout"
       ],
-      "file": "shopping-bag-1.svg"
+      "file": "shopping-bag-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-bag-2",
@@ -14653,7 +15436,8 @@
         "ecommerce",
         "checkout"
       ],
-      "file": "shopping-bag-2.svg"
+      "file": "shopping-bag-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-bag-check",
@@ -14669,7 +15453,8 @@
         "shopping bag",
         "check"
       ],
-      "file": "shopping-bag-check.svg"
+      "file": "shopping-bag-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-bag-down",
@@ -14684,7 +15469,8 @@
         "download",
         "lower"
       ],
-      "file": "shopping-bag-down.svg"
+      "file": "shopping-bag-down.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-exclamation",
@@ -14700,7 +15486,8 @@
         "alert",
         "attention"
       ],
-      "file": "shopping-bag-exclamation.svg"
+      "file": "shopping-bag-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-heart",
@@ -14716,7 +15503,8 @@
         "love",
         "favorite"
       ],
-      "file": "shopping-bag-heart.svg"
+      "file": "shopping-bag-heart.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-info",
@@ -14731,7 +15519,8 @@
         "information",
         "details"
       ],
-      "file": "shopping-bag-info.svg"
+      "file": "shopping-bag-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-lock",
@@ -14747,7 +15536,8 @@
         "private",
         "locked"
       ],
-      "file": "shopping-bag-lock.svg"
+      "file": "shopping-bag-lock.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-minus",
@@ -14763,7 +15553,8 @@
         "shopping bag",
         "minus"
       ],
-      "file": "shopping-bag-minus.svg"
+      "file": "shopping-bag-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-bag-percent",
@@ -14778,7 +15569,8 @@
         "discount",
         "sale"
       ],
-      "file": "shopping-bag-percent.svg"
+      "file": "shopping-bag-percent.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-plus",
@@ -14794,7 +15586,8 @@
         "shopping bag",
         "plus"
       ],
-      "file": "shopping-bag-plus.svg"
+      "file": "shopping-bag-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-bag-question",
@@ -14809,7 +15602,8 @@
         "help",
         "unknown"
       ],
-      "file": "shopping-bag-question.svg"
+      "file": "shopping-bag-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-refresh",
@@ -14825,7 +15619,8 @@
         "sync",
         "update"
       ],
-      "file": "shopping-bag-refresh.svg"
+      "file": "shopping-bag-refresh.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-search",
@@ -14840,7 +15635,8 @@
         "find",
         "lookup"
       ],
-      "file": "shopping-bag-search.svg"
+      "file": "shopping-bag-search.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-sparkle",
@@ -14856,7 +15652,8 @@
         "magic",
         "generate"
       ],
-      "file": "shopping-bag-sparkle.svg"
+      "file": "shopping-bag-sparkle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-up",
@@ -14871,7 +15668,8 @@
         "upload",
         "raise"
       ],
-      "file": "shopping-bag-up.svg"
+      "file": "shopping-bag-up.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-up-right",
@@ -14889,7 +15687,8 @@
         "forward",
         "next"
       ],
-      "file": "shopping-bag-up-right.svg"
+      "file": "shopping-bag-up-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "shopping-bag-x",
@@ -14905,7 +15704,8 @@
         "shopping bag",
         "x"
       ],
-      "file": "shopping-bag-x.svg"
+      "file": "shopping-bag-x.svg",
+      "added": "0.1.0"
     },
     {
       "name": "shopping-cart",
@@ -14927,7 +15727,8 @@
         "trolley",
         "add to cart"
       ],
-      "file": "shopping-cart.svg"
+      "file": "shopping-cart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "side-menu-left",
@@ -14946,7 +15747,8 @@
         "navigation",
         "drawer"
       ],
-      "file": "side-menu-left.svg"
+      "file": "side-menu-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "side-menu-right",
@@ -14965,7 +15767,8 @@
         "navigation",
         "drawer"
       ],
-      "file": "side-menu-right.svg"
+      "file": "side-menu-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "signal",
@@ -14983,7 +15786,8 @@
         "bars",
         "cellular"
       ],
-      "file": "signal.svg"
+      "file": "signal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "signal-high",
@@ -15001,7 +15805,8 @@
         "reception",
         "bars"
       ],
-      "file": "signal-high.svg"
+      "file": "signal-high.svg",
+      "added": "0.1.0"
     },
     {
       "name": "signal-low",
@@ -15020,7 +15825,8 @@
         "reception",
         "bars"
       ],
-      "file": "signal-low.svg"
+      "file": "signal-low.svg",
+      "added": "0.1.0"
     },
     {
       "name": "signal-medium",
@@ -15038,7 +15844,8 @@
         "reception",
         "bars"
       ],
-      "file": "signal-medium.svg"
+      "file": "signal-medium.svg",
+      "added": "0.1.0"
     },
     {
       "name": "skip-back",
@@ -15054,7 +15861,8 @@
         "previous",
         "rewind"
       ],
-      "file": "skip-back.svg"
+      "file": "skip-back.svg",
+      "added": "0.1.0"
     },
     {
       "name": "skip-forward",
@@ -15070,7 +15878,8 @@
         "next",
         "fast-forward"
       ],
-      "file": "skip-forward.svg"
+      "file": "skip-forward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "slash-circle",
@@ -15090,7 +15899,8 @@
         "forbidden",
         "off"
       ],
-      "file": "slash-circle.svg"
+      "file": "slash-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "slash-squircle",
@@ -15110,7 +15920,8 @@
         "forbidden",
         "off"
       ],
-      "file": "slash-squircle.svg"
+      "file": "slash-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sliders",
@@ -15133,7 +15944,8 @@
         "equalizer",
         "tracks-and-knobs"
       ],
-      "file": "sliders.svg"
+      "file": "sliders.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sliders-squircle",
@@ -15146,7 +15958,8 @@
         "squircle",
         "rounded"
       ],
-      "file": "sliders-squircle.svg"
+      "file": "sliders-squircle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "smart-watch",
@@ -15165,7 +15978,8 @@
         "device",
         "time"
       ],
-      "file": "smart-watch.svg"
+      "file": "smart-watch.svg",
+      "added": "0.1.0"
     },
     {
       "name": "smartphone",
@@ -15190,7 +16004,8 @@
         "android",
         "responsive"
       ],
-      "file": "smartphone.svg"
+      "file": "smartphone.svg",
+      "added": "0.1.0"
     },
     {
       "name": "smile",
@@ -15211,7 +16026,8 @@
         "emotion",
         "satisfied"
       ],
-      "file": "smile.svg"
+      "file": "smile.svg",
+      "added": "0.1.0"
     },
     {
       "name": "smile-squircle",
@@ -15234,7 +16050,8 @@
         "rounded-square",
         "badge"
       ],
-      "file": "smile-squircle.svg"
+      "file": "smile-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sort-ascending",
@@ -15253,7 +16070,8 @@
         "up",
         "smallest first"
       ],
-      "file": "sort-ascending.svg"
+      "file": "sort-ascending.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sort-descending",
@@ -15271,7 +16089,8 @@
         "arrange",
         "filter"
       ],
-      "file": "sort-descending.svg"
+      "file": "sort-descending.svg",
+      "added": "0.1.0"
     },
     {
       "name": "spacing-horizontal",
@@ -15290,7 +16109,8 @@
         "distribute",
         "padding"
       ],
-      "file": "spacing-horizontal.svg"
+      "file": "spacing-horizontal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "spacing-vertical",
@@ -15309,7 +16129,8 @@
         "distribute",
         "padding"
       ],
-      "file": "spacing-vertical.svg"
+      "file": "spacing-vertical.svg",
+      "added": "0.1.0"
     },
     {
       "name": "square",
@@ -15329,7 +16150,8 @@
         "geometry",
         "outline"
       ],
-      "file": "square.svg"
+      "file": "square.svg",
+      "added": "0.2.0"
     },
     {
       "name": "stack",
@@ -15346,7 +16168,8 @@
         "pile",
         "tiers"
       ],
-      "file": "stack.svg"
+      "file": "stack.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stack-down",
@@ -15364,7 +16187,8 @@
         "send-backward",
         "move-down"
       ],
-      "file": "stack-down.svg"
+      "file": "stack-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stack-small",
@@ -15381,7 +16205,8 @@
         "layers",
         "two-layers"
       ],
-      "file": "stack-small.svg"
+      "file": "stack-small.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stack-up",
@@ -15399,7 +16224,8 @@
         "bring-forward",
         "move-up"
       ],
-      "file": "stack-up.svg"
+      "file": "stack-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "star",
@@ -15423,7 +16249,8 @@
         "highlight",
         "featured"
       ],
-      "file": "star.svg"
+      "file": "star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sticker-circle",
@@ -15442,7 +16269,8 @@
         "label",
         "round"
       ],
-      "file": "sticker-circle.svg"
+      "file": "sticker-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sticker-square",
@@ -15460,7 +16288,8 @@
         "label",
         "square"
       ],
-      "file": "sticker-square.svg"
+      "file": "sticker-square.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stop",
@@ -15477,7 +16306,8 @@
         "end",
         "media"
       ],
-      "file": "stop.svg"
+      "file": "stop.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stop-circle",
@@ -15496,7 +16326,8 @@
         "stop",
         "media"
       ],
-      "file": "stop-circle.svg"
+      "file": "stop-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "stop-squircle",
@@ -15515,7 +16346,8 @@
         "stop",
         "media"
       ],
-      "file": "stop-squircle.svg"
+      "file": "stop-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "store",
@@ -15535,7 +16367,8 @@
         "buy",
         "sell"
       ],
-      "file": "store.svg"
+      "file": "store.svg",
+      "added": "0.1.0"
     },
     {
       "name": "sun",
@@ -15559,7 +16392,8 @@
         "bright",
         "theme"
       ],
-      "file": "sun.svg"
+      "file": "sun.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tablet-1",
@@ -15582,7 +16416,8 @@
         "slate",
         "hardware"
       ],
-      "file": "tablet-1.svg"
+      "file": "tablet-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tablet-2",
@@ -15605,7 +16440,8 @@
         "slate",
         "hardware"
       ],
-      "file": "tablet-2.svg"
+      "file": "tablet-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag",
@@ -15622,7 +16458,8 @@
         "price-tag",
         "category"
       ],
-      "file": "tag.svg"
+      "file": "tag.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-check",
@@ -15639,7 +16476,8 @@
         "confirmed",
         "applied"
       ],
-      "file": "tag-check.svg"
+      "file": "tag-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-close",
@@ -15656,7 +16494,8 @@
         "dismiss",
         "remove"
       ],
-      "file": "tag-close.svg"
+      "file": "tag-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-down",
@@ -15673,7 +16512,8 @@
         "down",
         "direction"
       ],
-      "file": "tag-down.svg"
+      "file": "tag-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-left",
@@ -15690,7 +16530,8 @@
         "left",
         "direction"
       ],
-      "file": "tag-left.svg"
+      "file": "tag-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-minus",
@@ -15707,7 +16548,8 @@
         "remove",
         "delete-label"
       ],
-      "file": "tag-minus.svg"
+      "file": "tag-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-plus",
@@ -15724,7 +16566,8 @@
         "add",
         "new-label"
       ],
-      "file": "tag-plus.svg"
+      "file": "tag-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-right",
@@ -15741,7 +16584,8 @@
         "right",
         "direction"
       ],
-      "file": "tag-right.svg"
+      "file": "tag-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-search",
@@ -15758,7 +16602,8 @@
         "search",
         "find-label"
       ],
-      "file": "tag-search.svg"
+      "file": "tag-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tag-up",
@@ -15775,7 +16620,8 @@
         "up",
         "direction"
       ],
-      "file": "tag-up.svg"
+      "file": "tag-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "target",
@@ -15795,7 +16641,8 @@
         "focus",
         "objective"
       ],
-      "file": "target.svg"
+      "file": "target.svg",
+      "added": "0.2.0"
     },
     {
       "name": "terminal",
@@ -15814,7 +16661,8 @@
         "command-line",
         "prompt"
       ],
-      "file": "terminal.svg"
+      "file": "terminal.svg",
+      "added": "0.1.0"
     },
     {
       "name": "terminal-squircle",
@@ -15833,7 +16681,8 @@
         "command-line",
         "squircle"
       ],
-      "file": "terminal-squircle.svg"
+      "file": "terminal-squircle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "text-align-center",
@@ -15856,7 +16705,8 @@
         "format",
         "justify"
       ],
-      "file": "text-align-center.svg"
+      "file": "text-align-center.svg",
+      "added": "0.1.0"
     },
     {
       "name": "text-align-left",
@@ -15881,7 +16731,8 @@
         "typography",
         "justify"
       ],
-      "file": "text-align-left.svg"
+      "file": "text-align-left.svg",
+      "added": "0.1.0"
     },
     {
       "name": "text-align-right",
@@ -15906,7 +16757,8 @@
         "typography",
         "justify"
       ],
-      "file": "text-align-right.svg"
+      "file": "text-align-right.svg",
+      "added": "0.1.0"
     },
     {
       "name": "thermometer-1",
@@ -15924,7 +16776,8 @@
         "fever",
         "climate"
       ],
-      "file": "thermometer-1.svg"
+      "file": "thermometer-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "thermometer-2",
@@ -15942,7 +16795,8 @@
         "fever",
         "climate"
       ],
-      "file": "thermometer-2.svg"
+      "file": "thermometer-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "thumbs-down",
@@ -15960,7 +16814,8 @@
         "downvote",
         "disagree"
       ],
-      "file": "thumbs-down.svg"
+      "file": "thumbs-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "thumbs-up",
@@ -15978,7 +16833,8 @@
         "upvote",
         "agree"
       ],
-      "file": "thumbs-up.svg"
+      "file": "thumbs-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "ticket-1",
@@ -15999,7 +16855,8 @@
         "cinema",
         "entry"
       ],
-      "file": "ticket-1.svg"
+      "file": "ticket-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "ticket-2",
@@ -16020,7 +16877,8 @@
         "cinema",
         "entry"
       ],
-      "file": "ticket-2.svg"
+      "file": "ticket-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "timer",
@@ -16041,7 +16899,8 @@
         "race",
         "measure"
       ],
-      "file": "timer.svg"
+      "file": "timer.svg",
+      "added": "0.1.0"
     },
     {
       "name": "train",
@@ -16065,7 +16924,8 @@
         "travel",
         "commute"
       ],
-      "file": "train.svg"
+      "file": "train.svg",
+      "added": "0.1.0"
     },
     {
       "name": "trash",
@@ -16088,7 +16948,8 @@
         "bin",
         "garbage"
       ],
-      "file": "trash.svg"
+      "file": "trash.svg",
+      "added": "0.1.0"
     },
     {
       "name": "trash-delete",
@@ -16110,7 +16971,8 @@
         "garbage",
         "permanent"
       ],
-      "file": "trash-delete.svg"
+      "file": "trash-delete.svg",
+      "added": "0.1.0"
     },
     {
       "name": "tree",
@@ -16131,7 +16993,8 @@
         "pine",
         "conifer"
       ],
-      "file": "tree.svg"
+      "file": "tree.svg",
+      "added": "0.2.0"
     },
     {
       "name": "trending-down",
@@ -16153,7 +17016,8 @@
         "chart",
         "fall"
       ],
-      "file": "trending-down.svg"
+      "file": "trending-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "trending-up",
@@ -16175,7 +17039,8 @@
         "gain",
         "upward"
       ],
-      "file": "trending-up.svg"
+      "file": "trending-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "triangle",
@@ -16192,7 +17057,8 @@
         "geometry",
         "polygon"
       ],
-      "file": "triangle.svg"
+      "file": "triangle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "trophy",
@@ -16213,7 +17079,8 @@
         "achievement",
         "champion"
       ],
-      "file": "trophy.svg"
+      "file": "trophy.svg",
+      "added": "0.1.0"
     },
     {
       "name": "truck",
@@ -16235,7 +17102,8 @@
         "transport",
         "vehicle"
       ],
-      "file": "truck.svg"
+      "file": "truck.svg",
+      "added": "0.1.0"
     },
     {
       "name": "truck-check",
@@ -16255,7 +17123,8 @@
         "shipped",
         "delivery complete"
       ],
-      "file": "truck-check.svg"
+      "file": "truck-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "truck-minus",
@@ -16273,7 +17142,8 @@
         "shipping",
         "remove shipment"
       ],
-      "file": "truck-minus.svg"
+      "file": "truck-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "truck-plus",
@@ -16292,7 +17162,8 @@
         "add shipment",
         "new delivery"
       ],
-      "file": "truck-plus.svg"
+      "file": "truck-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "truck-x",
@@ -16311,7 +17182,8 @@
         "delivery failed",
         "cancelled shipment"
       ],
-      "file": "truck-x.svg"
+      "file": "truck-x.svg",
+      "added": "0.1.0"
     },
     {
       "name": "type",
@@ -16333,7 +17205,8 @@
         "typeface",
         "writing"
       ],
-      "file": "type.svg"
+      "file": "type.svg",
+      "added": "0.2.0"
     },
     {
       "name": "umbrella",
@@ -16351,7 +17224,8 @@
         "insurance",
         "cover"
       ],
-      "file": "umbrella.svg"
+      "file": "umbrella.svg",
+      "added": "0.1.0"
     },
     {
       "name": "undo",
@@ -16377,7 +17251,8 @@
         "reverse-last-action",
         "history-back"
       ],
-      "file": "undo.svg"
+      "file": "undo.svg",
+      "added": "0.1.0"
     },
     {
       "name": "unlock",
@@ -16400,7 +17275,8 @@
         "insecure",
         "accessible"
       ],
-      "file": "unlock.svg"
+      "file": "unlock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "upload",
@@ -16422,7 +17298,8 @@
         "put",
         "attach"
       ],
-      "file": "upload.svg"
+      "file": "upload.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user",
@@ -16447,7 +17324,8 @@
         "login",
         "identity"
       ],
-      "file": "user.svg"
+      "file": "user.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-backward",
@@ -16465,7 +17343,8 @@
         "previous-user",
         "back"
       ],
-      "file": "user-backward.svg"
+      "file": "user-backward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-bookmark",
@@ -16482,7 +17361,8 @@
         "save",
         "favorite"
       ],
-      "file": "user-bookmark.svg"
+      "file": "user-bookmark.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-check",
@@ -16502,7 +17382,8 @@
         "verified",
         "approved"
       ],
-      "file": "user-check.svg"
+      "file": "user-check.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-circle",
@@ -16518,7 +17399,8 @@
         "account",
         "round"
       ],
-      "file": "user-circle.svg"
+      "file": "user-circle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-close",
@@ -16537,7 +17419,8 @@
         "block",
         "delete-user"
       ],
-      "file": "user-close.svg"
+      "file": "user-close.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-cloud",
@@ -16554,7 +17437,8 @@
         "online",
         "remote"
       ],
-      "file": "user-cloud.svg"
+      "file": "user-cloud.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-code",
@@ -16571,7 +17455,8 @@
         "developer",
         "source"
       ],
-      "file": "user-code.svg"
+      "file": "user-code.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-data",
@@ -16588,7 +17473,8 @@
         "chart",
         "stats"
       ],
-      "file": "user-data.svg"
+      "file": "user-data.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-edit",
@@ -16613,7 +17499,8 @@
         "write",
         "rename"
       ],
-      "file": "user-edit.svg"
+      "file": "user-edit.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-exclamation",
@@ -16631,7 +17518,8 @@
         "alert",
         "attention"
       ],
-      "file": "user-exclamation.svg"
+      "file": "user-exclamation.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-forbid",
@@ -16649,7 +17537,8 @@
         "ban",
         "prohibited"
       ],
-      "file": "user-forbid.svg"
+      "file": "user-forbid.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-forward",
@@ -16667,7 +17556,8 @@
         "next-user",
         "forward"
       ],
-      "file": "user-forward.svg"
+      "file": "user-forward.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-heart",
@@ -16691,7 +17581,8 @@
         "love",
         "saved"
       ],
-      "file": "user-heart.svg"
+      "file": "user-heart.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-info",
@@ -16708,7 +17599,8 @@
         "information",
         "details"
       ],
-      "file": "user-info.svg"
+      "file": "user-info.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-key",
@@ -16725,7 +17617,8 @@
         "password",
         "access"
       ],
-      "file": "user-key.svg"
+      "file": "user-key.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-lock",
@@ -16750,7 +17643,8 @@
         "protected",
         "padlock"
       ],
-      "file": "user-lock.svg"
+      "file": "user-lock.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-minus",
@@ -16768,7 +17662,8 @@
         "remove",
         "unfollow"
       ],
-      "file": "user-minus.svg"
+      "file": "user-minus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-pin",
@@ -16792,7 +17687,8 @@
         "mark",
         "attach"
       ],
-      "file": "user-pin.svg"
+      "file": "user-pin.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-plus",
@@ -16812,7 +17708,8 @@
         "follow",
         "invite"
       ],
-      "file": "user-plus.svg"
+      "file": "user-plus.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-question",
@@ -16829,7 +17726,8 @@
         "help",
         "unknown"
       ],
-      "file": "user-question.svg"
+      "file": "user-question.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-refresh",
@@ -16854,7 +17752,8 @@
         "rotate",
         "retry"
       ],
-      "file": "user-refresh.svg"
+      "file": "user-refresh.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-search",
@@ -16874,7 +17773,8 @@
         "find-user",
         "lookup"
       ],
-      "file": "user-search.svg"
+      "file": "user-search.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-settings",
@@ -16899,7 +17799,8 @@
         "options",
         "cog"
       ],
-      "file": "user-settings.svg"
+      "file": "user-settings.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-shield",
@@ -16924,7 +17825,8 @@
         "guard",
         "security"
       ],
-      "file": "user-shield.svg"
+      "file": "user-shield.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-snooze",
@@ -16942,7 +17844,8 @@
         "delay",
         "later"
       ],
-      "file": "user-snooze.svg"
+      "file": "user-snooze.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-sparkle",
@@ -16967,7 +17870,8 @@
         "shine",
         "smart"
       ],
-      "file": "user-sparkle.svg"
+      "file": "user-sparkle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-squircle",
@@ -16983,7 +17887,8 @@
         "account",
         "rounded"
       ],
-      "file": "user-squircle.svg"
+      "file": "user-squircle.svg",
+      "added": "0.2.0"
     },
     {
       "name": "user-star",
@@ -17007,7 +17912,8 @@
         "featured",
         "bookmark"
       ],
-      "file": "user-star.svg"
+      "file": "user-star.svg",
+      "added": "0.1.0"
     },
     {
       "name": "user-up-right",
@@ -17027,7 +17933,8 @@
         "forward",
         "next"
       ],
-      "file": "user-up-right.svg"
+      "file": "user-up-right.svg",
+      "added": "0.2.0"
     },
     {
       "name": "users",
@@ -17054,7 +17961,8 @@
         "multiple-users",
         "members"
       ],
-      "file": "users.svg"
+      "file": "users.svg",
+      "added": "0.1.0"
     },
     {
       "name": "video",
@@ -17079,7 +17987,8 @@
         "stream",
         "footage"
       ],
-      "file": "video.svg"
+      "file": "video.svg",
+      "added": "0.1.0"
     },
     {
       "name": "video-off",
@@ -17108,7 +18017,8 @@
         "privacy",
         "slash"
       ],
-      "file": "video-off.svg"
+      "file": "video-off.svg",
+      "added": "0.1.0"
     },
     {
       "name": "volume",
@@ -17126,7 +18036,8 @@
         "audio",
         "sound"
       ],
-      "file": "volume.svg"
+      "file": "volume.svg",
+      "added": "0.1.0"
     },
     {
       "name": "volume-down",
@@ -17145,7 +18056,8 @@
         "audio",
         "sound"
       ],
-      "file": "volume-down.svg"
+      "file": "volume-down.svg",
+      "added": "0.1.0"
     },
     {
       "name": "volume-mute",
@@ -17164,7 +18076,8 @@
         "audio",
         "off"
       ],
-      "file": "volume-mute.svg"
+      "file": "volume-mute.svg",
+      "added": "0.1.0"
     },
     {
       "name": "volume-up",
@@ -17183,7 +18096,8 @@
         "audio",
         "sound"
       ],
-      "file": "volume-up.svg"
+      "file": "volume-up.svg",
+      "added": "0.1.0"
     },
     {
       "name": "walk",
@@ -17202,7 +18116,8 @@
         "steps",
         "movement"
       ],
-      "file": "walk.svg"
+      "file": "walk.svg",
+      "added": "0.1.0"
     },
     {
       "name": "wallet",
@@ -17223,7 +18138,8 @@
         "balance",
         "funds"
       ],
-      "file": "wallet.svg"
+      "file": "wallet.svg",
+      "added": "0.1.0"
     },
     {
       "name": "watch",
@@ -17242,7 +18158,8 @@
         "smartwatch",
         "wearable"
       ],
-      "file": "watch.svg"
+      "file": "watch.svg",
+      "added": "0.1.0"
     },
     {
       "name": "wifi",
@@ -17266,7 +18183,8 @@
         "hotspot",
         "wlan"
       ],
-      "file": "wifi.svg"
+      "file": "wifi.svg",
+      "added": "0.1.0"
     },
     {
       "name": "wind-1",
@@ -17288,7 +18206,8 @@
         "blow",
         "climate"
       ],
-      "file": "wind-1.svg"
+      "file": "wind-1.svg",
+      "added": "0.1.0"
     },
     {
       "name": "wind-2",
@@ -17310,7 +18229,8 @@
         "blow",
         "climate"
       ],
-      "file": "wind-2.svg"
+      "file": "wind-2.svg",
+      "added": "0.1.0"
     },
     {
       "name": "x-circle",
@@ -17337,7 +18257,8 @@
         "invalid",
         "reject"
       ],
-      "file": "x-circle.svg"
+      "file": "x-circle.svg",
+      "added": "0.1.0"
     },
     {
       "name": "x-circle-dashed",
@@ -17358,7 +18279,8 @@
         "partial",
         "in-progress"
       ],
-      "file": "x-circle-dashed.svg"
+      "file": "x-circle-dashed.svg",
+      "added": "0.1.0"
     },
     {
       "name": "x-squircle",
@@ -17378,7 +18300,8 @@
         "cancel",
         "error"
       ],
-      "file": "x-squircle.svg"
+      "file": "x-squircle.svg",
+      "added": "0.1.0"
     }
   ]
 }

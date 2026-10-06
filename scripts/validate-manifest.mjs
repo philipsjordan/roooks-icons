@@ -8,6 +8,11 @@ const root = path.resolve(import.meta.dirname, '..');
 const NAME = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const CATEGORY = /^[a-z][a-z0-9-]*$/;
 const SEMVER = /^\d+\.\d+\.\d+$/;
+const DATE = /^\d{4}-\d{2}-\d{2}$/;
+const cmp = (a, b) => {
+  const x = a.split('.').map(Number), y = b.split('.').map(Number);
+  return x[0] - y[0] || x[1] - y[1] || x[2] - y[2];
+};
 const errors = [];
 const fail = (msg) => errors.push(msg);
 
@@ -21,6 +26,19 @@ try {
 
 if (!SEMVER.test(manifest.version ?? '')) fail(`version "${manifest.version}" is not semver (x.y.z)`);
 if (!Array.isArray(manifest.icons) || manifest.icons.length === 0) fail('icons must be a non-empty list');
+
+// releases: date of every release that added icons ("added" below points into this list). The website uses it
+// for the "New" dot: only icons from the newest icon-adding release, for 30 days.
+const releases = manifest.releases;
+if (releases === null || typeof releases !== 'object' || Array.isArray(releases)) {
+  fail('releases must be an object like { "0.3.0": "2026-10-05" }');
+} else {
+  for (const [v, d] of Object.entries(releases)) {
+    if (!SEMVER.test(v)) fail(`releases: "${v}" is not semver (x.y.z)`);
+    else if (SEMVER.test(manifest.version ?? '') && cmp(v, manifest.version) > 0) fail(`releases: ${v} is newer than the manifest version ${manifest.version}`);
+    if (typeof d !== 'string' || !DATE.test(d) || Number.isNaN(Date.parse(d))) fail(`releases: ${v} needs a date like 2026-10-05, got "${d}"`);
+  }
+}
 
 const seen = new Set();
 const listed = new Set();
@@ -40,7 +58,9 @@ for (const icon of manifest.icons ?? []) {
       fail(`${id}: ${field} must be a list of short plain strings`);
     }
   }
-  const extra = Object.keys(icon).filter((k) => !['name', 'displayName', 'category', 'tags', 'aliases', 'keywords', 'file'].includes(k));
+  if (!SEMVER.test(icon.added ?? '')) fail(`${id}: added must be the version it first shipped in (x.y.z), got "${icon.added}"`);
+  else if (releases && typeof releases === 'object' && !(icon.added in releases)) fail(`${id}: added ${icon.added} has no entry in releases`);
+  const extra = Object.keys(icon).filter((k) => !['name', 'displayName', 'category', 'tags', 'aliases', 'keywords', 'file', 'added'].includes(k));
   if (extra.length) fail(`${id}: unexpected field(s) ${extra.join(', ')}`);
 }
 
