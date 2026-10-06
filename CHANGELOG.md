@@ -2,6 +2,14 @@
 
 All notable changes to the icon set. One version for the whole library, following semver (see the README): major for breaking changes, minor for new icons, patch for fixes.
 
+## 0.3.1 - 2026-10-06
+
+No icon changes.
+
+### Changed
+
+- `icons.json` now records when each icon first shipped (`added`) and the date of every icon-adding release (`releases`). The website uses this for a small "New" dot on newly added icons. A renamed icon keeps the version of its old name.
+
 ## 0.3.0 - 2026-10-05
 
 New icons, a clearer naming scheme and a tidier set of categories. 918 icons, listed in `icons.json`.
