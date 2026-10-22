@@ -14895,6 +14895,26 @@
       "added": "0.1.0"
     },
     {
+      "name": "scan-data",
+      "displayName": "Scan Data",
+      "category": "action",
+      "tags": [],
+      "aliases": [
+        "scan-chart",
+        "scan-bars"
+      ],
+      "keywords": [
+        "scan",
+        "data",
+        "chart",
+        "bars",
+        "analytics",
+        "capture"
+      ],
+      "file": "scan-data.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "scan-face",
       "displayName": "Scan Face",
       "category": "action",
@@ -16492,6 +16512,30 @@
       ],
       "file": "spacing-vertical.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "sparkle-large",
+      "displayName": "Sparkle Large",
+      "category": "shape",
+      "tags": [],
+      "aliases": [
+        "sparkle",
+        "magic",
+        "ai",
+        "shine",
+        "star-burst"
+      ],
+      "keywords": [
+        "sparkle",
+        "large",
+        "ai",
+        "magic",
+        "shine",
+        "new",
+        "glitter"
+      ],
+      "file": "sparkle-large.svg",
+      "added": "0.4.0"
     },
     {
       "name": "square",
