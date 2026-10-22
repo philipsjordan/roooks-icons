@@ -4,7 +4,7 @@ All notable changes to the icon set. One version for the whole library, followin
 
 ## 0.4.0 - 2026-10-22
 
-30 new icons. 948 icons, listed in `icons.json`.
+**948 icons (+30).** Wave 1: status and cycle hexagons, Wi-Fi/Bluetooth/battery states, alarm clocks and a few dev icons.
 
 ### Added (30)
 
