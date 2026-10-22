@@ -2,6 +2,20 @@
 
 All notable changes to the icon set. One version for the whole library, following semver (see the README): major for breaking changes, minor for new icons, patch for fixes.
 
+## 0.4.0 - 2026-10-22
+
+30 new icons. 948 icons, listed in `icons.json`.
+
+### Added (30)
+
+- Wi-Fi and Bluetooth: `wifi-off`, `wifi-low`, `wifi-medium`, `bluetooth-off`
+- Battery: `battery-plus`, `battery-alert`
+- Clocks: `alarm-clock-check`, `alarm-clock-snooze`, `alarm-clock-sparkle`
+- Status (hexagon): `status-todo`, `status-backlog`, `status-in-progress`, `status-in-review`, `status-done`, `status-canceled`, `status-blocked`, `status-duplicate`, `status-pending`
+- Cycles (hexagon): `cycle-upcoming`, `cycle-next`, `cycle-current`
+- Dev: `issues`, `reviews`, `cloud-terminal`, `cloud-code`
+- Other: `calculator`, `edit-squircle`, `incognito`, `cctv`, `clipboard-type`
+
 ## 0.3.1 - 2026-10-06
 
 No icon changes.
