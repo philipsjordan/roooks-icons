@@ -16,6 +16,10 @@ All notable changes to the icon set. One version for the whole library, followin
 - Dev: `issues`, `reviews`, `cloud-terminal`, `cloud-code`
 - Other: `calculator`, `edit-squircle`, `incognito`, `cctv`, `clipboard-type`
 
+### Changed
+
+- `tablet-1` and `tablet-2` are now in the `device` category (they were in `object`), next to `smartphone`.
+
 ## 0.3.1 - 2026-10-06
 
 No icon changes.

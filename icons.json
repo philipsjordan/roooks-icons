@@ -16936,7 +16936,7 @@
     {
       "name": "tablet-1",
       "displayName": "Tablet",
-      "category": "object",
+      "category": "device",
       "tags": [],
       "aliases": [
         "ipad",
@@ -16960,7 +16960,7 @@
     {
       "name": "tablet-2",
       "displayName": "Tablet",
-      "category": "object",
+      "category": "device",
       "tags": [],
       "aliases": [
         "ipad",
