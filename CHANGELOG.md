@@ -2,6 +2,14 @@
 
 All notable changes to the icon set. One version for the whole library, following semver (see the README): major for breaking changes, minor for new icons, patch for fixes.
 
+## 0.4.1 - 2026-10-22
+
+**950 icons (no change).** Fixes the dashes on two icons.
+
+### Fixed
+
+- `status-backlog` and `cycle-upcoming`: the dashed outline exported with uneven, shifted dashes that did not match the design. The dashes are now drawn as six separate strokes, centred on the corners, exactly as in Figma.
+
 ## 0.4.0 - 2026-10-22
 
 **950 icons (+32).** Wave 1: status and cycle hexagons, Wi-Fi/Bluetooth/battery states, alarm clocks, scan and sparkle, and a few dev icons.
