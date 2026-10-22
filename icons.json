@@ -1,9 +1,10 @@
 {
-  "version": "0.3.1",
+  "version": "0.4.0",
   "releases": {
     "0.1.0": "2026-10-01",
     "0.2.0": "2026-10-03",
-    "0.3.0": "2026-10-05"
+    "0.3.0": "2026-10-05",
+    "0.4.0": "2026-10-22"
   },
   "icons": [
     {
@@ -64,6 +65,66 @@
       ],
       "file": "alarm-clock-2.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "alarm-clock-check",
+      "displayName": "Alarm Clock Check",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "alarm-set",
+        "alarm-confirmed"
+      ],
+      "keywords": [
+        "alarm",
+        "clock",
+        "check",
+        "set",
+        "confirmed",
+        "wake"
+      ],
+      "file": "alarm-clock-check.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "alarm-clock-snooze",
+      "displayName": "Alarm Clock Snooze",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "snooze",
+        "snoozed-alarm"
+      ],
+      "keywords": [
+        "alarm",
+        "clock",
+        "snooze",
+        "sleep",
+        "later",
+        "wake"
+      ],
+      "file": "alarm-clock-snooze.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "alarm-clock-sparkle",
+      "displayName": "Alarm Clock Sparkle",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "smart-alarm",
+        "ai-alarm"
+      ],
+      "keywords": [
+        "alarm",
+        "clock",
+        "sparkle",
+        "ai",
+        "smart",
+        "wake"
+      ],
+      "file": "alarm-clock-sparkle.svg",
+      "added": "0.4.0"
     },
     {
       "name": "alert-circle",
@@ -1281,6 +1342,26 @@
       "added": "0.1.0"
     },
     {
+      "name": "battery-alert",
+      "displayName": "Battery Alert",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "battery-warning",
+        "low-battery-warning"
+      ],
+      "keywords": [
+        "battery",
+        "alert",
+        "warning",
+        "exclamation",
+        "power",
+        "critical"
+      ],
+      "file": "battery-alert.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "battery-charging",
       "displayName": "Battery Charging",
       "category": "device",
@@ -1369,6 +1450,24 @@
       ],
       "file": "battery-medium.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "battery-plus",
+      "displayName": "Battery Plus",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "battery-add"
+      ],
+      "keywords": [
+        "battery",
+        "plus",
+        "add",
+        "power",
+        "extend"
+      ],
+      "file": "battery-plus.svg",
+      "added": "0.4.0"
     },
     {
       "name": "bed",
@@ -1856,6 +1955,24 @@
       "added": "0.1.0"
     },
     {
+      "name": "bluetooth-off",
+      "displayName": "Bluetooth Off",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "bluetooth-disabled"
+      ],
+      "keywords": [
+        "bluetooth",
+        "off",
+        "disabled",
+        "disconnected",
+        "wireless"
+      ],
+      "file": "bluetooth-off.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "bluetooth-searching",
       "displayName": "Bluetooth Searching",
       "category": "device",
@@ -2052,6 +2169,26 @@
       ],
       "file": "bus.svg",
       "added": "0.2.0"
+    },
+    {
+      "name": "calculator",
+      "displayName": "Calculator",
+      "category": "object",
+      "tags": [],
+      "aliases": [
+        "calc",
+        "maths"
+      ],
+      "keywords": [
+        "calculator",
+        "calculate",
+        "math",
+        "numbers",
+        "sum",
+        "finance"
+      ],
+      "file": "calculator.svg",
+      "added": "0.4.0"
     },
     {
       "name": "calendar",
@@ -2633,6 +2770,27 @@
       ],
       "file": "cast.svg",
       "added": "0.2.0"
+    },
+    {
+      "name": "cctv",
+      "displayName": "CCTV",
+      "category": "security",
+      "tags": [],
+      "aliases": [
+        "security-camera",
+        "surveillance",
+        "cctv-camera"
+      ],
+      "keywords": [
+        "cctv",
+        "security",
+        "camera",
+        "surveillance",
+        "monitoring",
+        "cam"
+      ],
+      "file": "cctv.svg",
+      "added": "0.4.0"
     },
     {
       "name": "chat",
@@ -4435,6 +4593,26 @@
       "added": "0.2.0"
     },
     {
+      "name": "clipboard-type",
+      "displayName": "Clipboard Type",
+      "category": "file",
+      "tags": [],
+      "aliases": [
+        "clipboard-letter",
+        "paste-text"
+      ],
+      "keywords": [
+        "clipboard",
+        "type",
+        "typing",
+        "text",
+        "letter",
+        "paste"
+      ],
+      "file": "clipboard-type.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "clipboard-up",
       "displayName": "Clipboard Up",
       "category": "file",
@@ -5097,6 +5275,26 @@
       "added": "0.2.0"
     },
     {
+      "name": "cloud-code",
+      "displayName": "Cloud Code",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "cloud-ide",
+        "cloud-source"
+      ],
+      "keywords": [
+        "cloud",
+        "code",
+        "brackets",
+        "developer",
+        "source",
+        "remote"
+      ],
+      "file": "cloud-code.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "cloud-download",
       "displayName": "Cloud Download",
       "category": "dev",
@@ -5391,6 +5589,27 @@
       ],
       "file": "cloud-snow.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "cloud-terminal",
+      "displayName": "Cloud Terminal",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "cloud-shell",
+        "cloud-cli"
+      ],
+      "keywords": [
+        "cloud",
+        "terminal",
+        "shell",
+        "cli",
+        "command",
+        "console",
+        "remote"
+      ],
+      "file": "cloud-terminal.svg",
+      "added": "0.4.0"
     },
     {
       "name": "cloud-upload",
@@ -6506,6 +6725,65 @@
       ],
       "file": "cube.svg",
       "added": "0.2.0"
+    },
+    {
+      "name": "cycle-current",
+      "displayName": "Cycle Current",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "sprint-current",
+        "active-cycle"
+      ],
+      "keywords": [
+        "cycle",
+        "sprint",
+        "current",
+        "active",
+        "now",
+        "iteration"
+      ],
+      "file": "cycle-current.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "cycle-next",
+      "displayName": "Cycle Next",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "sprint-next",
+        "next-iteration"
+      ],
+      "keywords": [
+        "cycle",
+        "sprint",
+        "next",
+        "following",
+        "iteration"
+      ],
+      "file": "cycle-next.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "cycle-upcoming",
+      "displayName": "Cycle Upcoming",
+      "category": "time",
+      "tags": [],
+      "aliases": [
+        "sprint-upcoming",
+        "future-cycle"
+      ],
+      "keywords": [
+        "cycle",
+        "sprint",
+        "upcoming",
+        "planned",
+        "future",
+        "iteration"
+      ],
+      "file": "cycle-upcoming.svg",
+      "added": "0.4.0"
     },
     {
       "name": "dashboard",
@@ -7684,6 +7962,26 @@
       ],
       "file": "edit-sign.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "edit-squircle",
+      "displayName": "Edit Squircle",
+      "category": "action",
+      "tags": [],
+      "aliases": [
+        "edit-button",
+        "pencil-squircle"
+      ],
+      "keywords": [
+        "edit",
+        "pencil",
+        "squircle",
+        "modify",
+        "write",
+        "compose"
+      ],
+      "file": "edit-squircle.svg",
+      "added": "0.4.0"
     },
     {
       "name": "egg",
@@ -11554,6 +11852,28 @@
       "added": "0.1.0"
     },
     {
+      "name": "incognito",
+      "displayName": "Incognito",
+      "category": "security",
+      "tags": [],
+      "aliases": [
+        "private-browsing",
+        "private-mode",
+        "anonymous"
+      ],
+      "keywords": [
+        "incognito",
+        "private",
+        "browsing",
+        "anonymous",
+        "hat",
+        "glasses",
+        "spy"
+      ],
+      "file": "incognito.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "indent",
       "displayName": "Indent",
       "category": "text",
@@ -11620,6 +11940,27 @@
       ],
       "file": "info-squircle.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "issues",
+      "displayName": "Issues",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "issue-tracker",
+        "tickets",
+        "bugs"
+      ],
+      "keywords": [
+        "issues",
+        "tickets",
+        "tracker",
+        "bugs",
+        "tasks",
+        "backlog"
+      ],
+      "file": "issues.svg",
+      "added": "0.4.0"
     },
     {
       "name": "kanban",
@@ -14217,6 +14558,26 @@
       "added": "0.1.0"
     },
     {
+      "name": "reviews",
+      "displayName": "Reviews",
+      "category": "dev",
+      "tags": [],
+      "aliases": [
+        "code-review",
+        "review-requests"
+      ],
+      "keywords": [
+        "reviews",
+        "review",
+        "code review",
+        "pull request",
+        "approve",
+        "merge"
+      ],
+      "file": "reviews.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "rotate-clock",
       "displayName": "Rotate Clock",
       "category": "action",
@@ -14532,6 +14893,26 @@
       ],
       "file": "scan-code.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "scan-data",
+      "displayName": "Scan Data",
+      "category": "action",
+      "tags": [],
+      "aliases": [
+        "scan-chart",
+        "scan-bars"
+      ],
+      "keywords": [
+        "scan",
+        "data",
+        "chart",
+        "bars",
+        "analytics",
+        "capture"
+      ],
+      "file": "scan-data.svg",
+      "added": "0.4.0"
     },
     {
       "name": "scan-face",
@@ -16133,6 +16514,30 @@
       "added": "0.1.0"
     },
     {
+      "name": "sparkle-large",
+      "displayName": "Sparkle Large",
+      "category": "shape",
+      "tags": [],
+      "aliases": [
+        "sparkle",
+        "magic",
+        "ai",
+        "shine",
+        "star-burst"
+      ],
+      "keywords": [
+        "sparkle",
+        "large",
+        "ai",
+        "magic",
+        "shine",
+        "new",
+        "glitter"
+      ],
+      "file": "sparkle-large.svg",
+      "added": "0.4.0"
+    },
+    {
       "name": "square",
       "displayName": "Square",
       "category": "shape",
@@ -16251,6 +16656,183 @@
       ],
       "file": "star.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "status-backlog",
+      "displayName": "Status Backlog",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "backlog",
+        "icebox"
+      ],
+      "keywords": [
+        "status",
+        "backlog",
+        "later",
+        "queue",
+        "workflow"
+      ],
+      "file": "status-backlog.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-blocked",
+      "displayName": "Status Blocked",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "blocked",
+        "on-hold"
+      ],
+      "keywords": [
+        "status",
+        "blocked",
+        "stuck",
+        "on hold",
+        "workflow"
+      ],
+      "file": "status-blocked.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-canceled",
+      "displayName": "Status Canceled",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "cancelled",
+        "status-cancelled",
+        "closed"
+      ],
+      "keywords": [
+        "status",
+        "canceled",
+        "cancelled",
+        "dropped",
+        "closed",
+        "workflow"
+      ],
+      "file": "status-canceled.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-done",
+      "displayName": "Status Done",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "done",
+        "completed"
+      ],
+      "keywords": [
+        "status",
+        "done",
+        "complete",
+        "finished",
+        "shipped",
+        "workflow"
+      ],
+      "file": "status-done.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-duplicate",
+      "displayName": "Status Duplicate",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "duplicate",
+        "duplicated"
+      ],
+      "keywords": [
+        "status",
+        "duplicate",
+        "same",
+        "merged",
+        "workflow"
+      ],
+      "file": "status-duplicate.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-in-progress",
+      "displayName": "Status In Progress",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "in-progress",
+        "doing",
+        "started"
+      ],
+      "keywords": [
+        "status",
+        "in progress",
+        "doing",
+        "started",
+        "working",
+        "workflow"
+      ],
+      "file": "status-in-progress.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-in-review",
+      "displayName": "Status In Review",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "in-review",
+        "under-review"
+      ],
+      "keywords": [
+        "status",
+        "in review",
+        "review",
+        "waiting",
+        "workflow"
+      ],
+      "file": "status-in-review.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-pending",
+      "displayName": "Status Pending",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "pending",
+        "waiting"
+      ],
+      "keywords": [
+        "status",
+        "pending",
+        "waiting",
+        "queued",
+        "workflow"
+      ],
+      "file": "status-pending.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "status-todo",
+      "displayName": "Status Todo",
+      "category": "feedback",
+      "tags": [],
+      "aliases": [
+        "todo",
+        "not-started"
+      ],
+      "keywords": [
+        "status",
+        "todo",
+        "to do",
+        "not started",
+        "open",
+        "workflow"
+      ],
+      "file": "status-todo.svg",
+      "added": "0.4.0"
     },
     {
       "name": "sticker-circle",
@@ -16398,7 +16980,7 @@
     {
       "name": "tablet-1",
       "displayName": "Tablet",
-      "category": "object",
+      "category": "device",
       "tags": [],
       "aliases": [
         "ipad",
@@ -16422,7 +17004,7 @@
     {
       "name": "tablet-2",
       "displayName": "Tablet",
-      "category": "object",
+      "category": "device",
       "tags": [],
       "aliases": [
         "ipad",
@@ -18185,6 +18767,66 @@
       ],
       "file": "wifi.svg",
       "added": "0.1.0"
+    },
+    {
+      "name": "wifi-low",
+      "displayName": "Wi-Fi Low",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "weak-wifi",
+        "low-signal"
+      ],
+      "keywords": [
+        "wifi",
+        "wi-fi",
+        "low",
+        "weak",
+        "signal",
+        "wireless"
+      ],
+      "file": "wifi-low.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "wifi-medium",
+      "displayName": "Wi-Fi Medium",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "medium-wifi",
+        "fair-signal"
+      ],
+      "keywords": [
+        "wifi",
+        "wi-fi",
+        "medium",
+        "signal",
+        "wireless"
+      ],
+      "file": "wifi-medium.svg",
+      "added": "0.4.0"
+    },
+    {
+      "name": "wifi-off",
+      "displayName": "Wi-Fi Off",
+      "category": "device",
+      "tags": [],
+      "aliases": [
+        "no-wifi",
+        "offline",
+        "disconnected"
+      ],
+      "keywords": [
+        "wifi",
+        "wi-fi",
+        "offline",
+        "disconnected",
+        "no signal",
+        "wireless off"
+      ],
+      "file": "wifi-off.svg",
+      "added": "0.4.0"
     },
     {
       "name": "wind-1",

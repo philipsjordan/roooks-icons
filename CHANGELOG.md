@@ -2,6 +2,25 @@
 
 All notable changes to the icon set. One version for the whole library, following semver (see the README): major for breaking changes, minor for new icons, patch for fixes.
 
+## 0.4.0 - 2026-10-22
+
+**950 icons (+32).** Wave 1: status and cycle hexagons, Wi-Fi/Bluetooth/battery states, alarm clocks, scan and sparkle, and a few dev icons.
+
+### Added (32)
+
+- Wi-Fi and Bluetooth: `wifi-off`, `wifi-low`, `wifi-medium`, `bluetooth-off`
+- Battery: `battery-plus`, `battery-alert`
+- Clocks: `alarm-clock-check`, `alarm-clock-snooze`, `alarm-clock-sparkle`
+- Status (hexagon): `status-todo`, `status-backlog`, `status-in-progress`, `status-in-review`, `status-done`, `status-canceled`, `status-blocked`, `status-duplicate`, `status-pending`
+- Cycles (hexagon): `cycle-upcoming`, `cycle-next`, `cycle-current`
+- Dev: `issues`, `reviews`, `cloud-terminal`, `cloud-code`
+- Scan and shapes: `scan-data`, `sparkle-large`
+- Other: `calculator`, `edit-squircle`, `incognito`, `cctv`, `clipboard-type`
+
+### Changed
+
+- `tablet-1` and `tablet-2` are now in the `device` category (they were in `object`), next to `smartphone`.
+
 ## 0.3.1 - 2026-10-06
 
 No icon changes.
